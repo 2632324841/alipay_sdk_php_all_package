@@ -1,10 +1,6 @@
 <?php
 namespace aop;
 
-// require_once 'AopEncrypt.php';
-// // require_once 'EncryptParseItem.php';
-// require_once 'EncryptResponseData.php';
-
 use aop\request\AopEncrypt;
 use aop\request\EncryptParseItem;
 use aop\request\EncryptResponseData;

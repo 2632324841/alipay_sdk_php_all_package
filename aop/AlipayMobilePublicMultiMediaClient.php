@@ -8,8 +8,6 @@ namespace aop;
 
 use aop\request\AlipayMobilePublicMultiMediaExecute;
 
-//include("AlipayMobilePublicMultiMediaExecute.php");
-
 class AlipayMobilePublicMultiMediaClient
 {
     private $DEFAULT_CHARSET = 'UTF-8';
