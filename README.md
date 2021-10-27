@@ -2,6 +2,9 @@
 1. 此包主要用于在官方包的基础之上进行psr-4引用方式
 2. 主要用途方便框架上使用
 
+### 通过Composer在线安装依赖
+```composer require deadlymous/alipay_sdk_php_all_package```
+
 ### 官方实例
 
 ```php
