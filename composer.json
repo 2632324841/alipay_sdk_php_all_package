@@ -1,0 +1,25 @@
+{
+    "name": "deadlymous/alipay_sdk_php_all_package",
+    "description": "Alipay official SDK package version",
+    "type": "library",
+    "license": "Apache-2.0",
+    "keywords": [   
+        "alipay",
+        "pay_sdk"
+    ],
+    "autoload": {
+        "psr-4": {
+            "aop\\": "aop/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeadlyMous",
+            "email": "2632324841@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
