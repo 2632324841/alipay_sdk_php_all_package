@@ -1,17 +1,27 @@
 <?php
 require_once 'vendor/autoload.php';
 use aop\AopClient;
+use aop\AopCertClient;
 use aop\request\AlipayTradeWapPayRequest;
 
-$aop = new AopClient ();
-$aop->gatewayUrl = 'https://openapi.alipay.com/gateway.do';
-$aop->appId = 'your app_id';
-$aop->rsaPrivateKey = '请填写开发者私钥去头去尾去回车，一行字符串';
-$aop->alipayrsaPublicKey='请填写支付宝公钥，一行字符串';
-$aop->apiVersion = '1.0';
-$aop->signType = 'RSA2';
-$aop->postCharset='GBK';
-$aop->format='json';
+$aop = new AopCertClient;
+$appCertPath = "appCertPublicKey.crt";
+$alipayCertPath = "alipayCertPublicKey_RSA2.crt";
+$rootCertPath = "alipayRootCert.crt";
+$aop->gatewayUrl = "https://openapi.alipay.com/gateway.do";
+$aop->appId = "appid";
+$aop->rsaPrivateKey = '' ;
+$aop->format = "json";
+$aop->charset= "UTF-8";
+$aop->signType= "RSA2";
+//调用getPublicKey从支付宝公钥证书中提取公钥
+$aop->alipayrsaPublicKey = $aop->getPublicKey($alipayCertPath);
+//是否校验自动下载的支付宝公钥证书，如果开启校验要保证支付宝根证书在有效期内
+$aop->isCheckAlipayPublicCert = true;
+//调用getCertSN获取证书序列号
+$aop->appCertSN = $aop->getCertSN($appCertPath);
+//调用getRootCertSN获取支付宝根证书序列号
+$aop->alipayRootCertSN = $aop->getRootCertSN($rootCertPath);
 $object = new stdClass();
 $object->out_trade_no = '20210817010101004';
 $object->total_amount = 0.01;
