@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.medical.bankcard.certification.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-16 15:45:47
+ * @since 1.0, 2022-11-17 22:56:36
  */
 class AlipayCommerceMedicalBankcardCertificationQueryRequest
 {

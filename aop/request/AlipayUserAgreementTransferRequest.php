@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.agreement.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 18:51:49
+ * @since 1.0, 2022-04-28 10:17:38
  */
 class AlipayUserAgreementTransferRequest
 {

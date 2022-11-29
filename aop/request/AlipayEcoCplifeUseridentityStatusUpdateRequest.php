@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cplife.useridentity.status.update request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 14:45:31
+ * @since 1.0, 2021-12-08 22:43:04
  */
 class AlipayEcoCplifeUseridentityStatusUpdateRequest
 {

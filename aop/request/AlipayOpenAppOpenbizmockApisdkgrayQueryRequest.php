@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.openbizmock.apisdkgray.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-20 14:06:14
+ * @since 1.0, 2021-12-28 19:40:36
  */
 class AlipayOpenAppOpenbizmockApisdkgrayQueryRequest
 {

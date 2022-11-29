@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cplife.bill.batch.upload request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 14:43:22
+ * @since 1.0, 2021-11-09 14:34:58
  */
 class AlipayEcoCplifeBillBatchUploadRequest
 {

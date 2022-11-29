@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.classification.createormodify request
  *
  * @author auto create
- * @since 1.0, 2020-08-08 16:21:23
+ * @since 1.0, 2022-11-18 15:02:40
  */
 class AntMerchantExpandClassificationCreateormodifyRequest
 {

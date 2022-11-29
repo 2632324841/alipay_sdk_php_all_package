@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.activateform.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-07 16:34:32
+ * @since 1.0, 2022-11-08 21:27:32
  */
 class AlipayMarketingCardActivateformQueryRequest
 {

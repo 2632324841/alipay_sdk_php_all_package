@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.tradecomplain.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:14
+ * @since 1.0, 2022-10-17 20:51:28
  */
 class AlipayMerchantTradecomplainQueryRequest
 {

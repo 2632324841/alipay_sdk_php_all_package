@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.antarchive.identityrelation.add request
  *
  * @author auto create
- * @since 1.0, 2020-09-03 15:59:02
+ * @since 1.0, 2022-09-22 16:09:07
  */
 class AlipayUserAntarchiveIdentityrelationAddRequest
 {

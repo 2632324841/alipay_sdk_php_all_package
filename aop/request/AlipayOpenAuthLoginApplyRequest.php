@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.auth.login.apply request
  *
  * @author auto create
- * @since 1.0, 2020-12-14 14:27:41
+ * @since 1.0, 2022-05-13 17:16:38
  */
 class AlipayOpenAuthLoginApplyRequest
 {

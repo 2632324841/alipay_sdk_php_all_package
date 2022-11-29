@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.merchant.activity.refresh request
  *
  * @author auto create
- * @since 1.0, 2021-07-05 15:35:22
+ * @since 1.0, 2022-07-22 15:01:36
  */
 class AlipayPcreditHuabeiMerchantActivityRefreshRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.intelligentize.data.sync request
  *
  * @author auto create
- * @since 1.0, 2020-09-04 21:01:18
+ * @since 1.0, 2022-11-17 16:55:39
  */
 class AlipayCommerceTransportIntelligentizeDataSyncRequest
 {

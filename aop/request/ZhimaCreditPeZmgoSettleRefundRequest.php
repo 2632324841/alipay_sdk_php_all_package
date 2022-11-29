@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.zmgo.settle.refund request
  *
  * @author auto create
- * @since 1.0, 2021-08-10 15:57:37
+ * @since 1.0, 2022-11-15 16:21:34
  */
 class ZhimaCreditPeZmgoSettleRefundRequest
 {

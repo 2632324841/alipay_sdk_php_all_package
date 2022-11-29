@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.membercard.config.save request
  *
  * @author auto create
- * @since 1.0, 2021-08-30 08:30:27
+ * @since 1.0, 2022-05-09 10:56:42
  */
 class AntMerchantExpandMembercardConfigSaveRequest
 {

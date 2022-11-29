@@ -1,4 +1,7 @@
 <?php
+
+namespace aop;
+
 /**
  *   加密工具类
  *
@@ -6,9 +9,9 @@
  * Date: 16/3/30
  * Time: 下午3:25
  */
-namespace aop;
 
-class AopEncrypt{
+class AopEncrypt
+{
     /**
      * 加密方法
      * @param string $str

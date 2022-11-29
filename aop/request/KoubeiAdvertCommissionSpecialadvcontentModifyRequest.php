@@ -1,5 +1,6 @@
 <?php
 namespace aop\request;
+namespace aop\request;
 /**
  * ALIPAY API: koubei.advert.commission.specialadvcontent.modify request
  *

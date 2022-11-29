@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.twostage.common.use request
  *
  * @author auto create
- * @since 1.0, 2021-07-29 15:01:27
+ * @since 1.0, 2022-11-22 16:56:34
  */
 class AlipayUserTwostageCommonUseRequest
 {

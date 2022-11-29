@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.matchuser.label.delete request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 10:46:43
+ * @since 1.0, 2022-11-13 16:05:22
  */
 class AlipayOpenPublicMatchuserLabelDeleteRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.account.delete request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-11-18 14:24:23
  */
 class AlipayOpenPublicAccountDeleteRequest
 {

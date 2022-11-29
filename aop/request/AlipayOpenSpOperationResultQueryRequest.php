@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.operation.result.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:41
+ * @since 1.0, 2022-05-20 11:09:37
  */
 class AlipayOpenSpOperationResultQueryRequest
 {

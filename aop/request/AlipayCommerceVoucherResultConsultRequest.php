@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.voucher.result.consult request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 19:22:38
+ * @since 1.0, 2021-12-21 23:07:31
  */
 class AlipayCommerceVoucherResultConsultRequest
 {

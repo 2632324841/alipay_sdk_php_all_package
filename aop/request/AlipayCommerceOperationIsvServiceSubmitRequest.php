@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.isv.service.submit request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 16:16:28
+ * @since 1.0, 2022-01-05 14:44:43
  */
 class AlipayCommerceOperationIsvServiceSubmitRequest
 {

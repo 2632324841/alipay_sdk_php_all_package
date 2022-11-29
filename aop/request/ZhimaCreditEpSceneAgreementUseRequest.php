@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.scene.agreement.use request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 16:55:27
+ * @since 1.0, 2021-10-27 17:12:55
  */
 class ZhimaCreditEpSceneAgreementUseRequest
 {

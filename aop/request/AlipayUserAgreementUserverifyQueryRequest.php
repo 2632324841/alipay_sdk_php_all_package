@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.agreement.userverify.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-09 10:57:47
+ * @since 1.0, 2022-11-11 21:07:54
  */
 class AlipayUserAgreementUserverifyQueryRequest
 {

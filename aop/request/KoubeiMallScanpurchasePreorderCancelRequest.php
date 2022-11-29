@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.mall.scanpurchase.preorder.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-09-07 13:57:14
+ * @since 1.0, 2022-06-02 11:05:28
  */
 class KoubeiMallScanpurchasePreorderCancelRequest
 {

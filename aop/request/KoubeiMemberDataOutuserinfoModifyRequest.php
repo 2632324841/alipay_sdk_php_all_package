@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.member.data.outuserinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:35
+ * @since 1.0, 2022-10-11 11:58:58
  */
 class KoubeiMemberDataOutuserinfoModifyRequest
 {

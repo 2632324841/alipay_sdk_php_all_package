@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-05-09 22:42:41
+ * @since 1.0, 2021-12-02 14:06:16
  */
 class KoubeiItemBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.menu.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 16:45:01
+ * @since 1.0, 2021-12-09 00:30:02
  */
 class AlipayOpenPublicMenuQueryRequest
 {

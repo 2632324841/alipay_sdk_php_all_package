@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.chat.ginv.send request
  *
  * @author auto create
- * @since 1.0, 2020-07-28 17:13:17
+ * @since 1.0, 2022-10-31 22:03:56
  */
 class AlipaySocialBaseChatGinvSendRequest
 {

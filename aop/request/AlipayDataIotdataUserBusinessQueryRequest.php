@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.iotdata.user.business.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-04 21:56:56
+ * @since 1.0, 2021-12-21 23:10:45
  */
 class AlipayDataIotdataUserBusinessQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.service.offline request
  *
  * @author auto create
- * @since 1.0, 2021-02-22 09:50:15
+ * @since 1.0, 2021-12-08 22:04:27
  */
 class AlipayEbppCommunityServiceOfflineRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.formtemplate.set request
  *
  * @author auto create
- * @since 1.0, 2021-03-25 11:01:28
+ * @since 1.0, 2022-11-08 21:28:12
  */
 class AlipayMarketingCardFormtemplateSetRequest
 {

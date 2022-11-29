@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoice.delete request
  *
  * @author auto create
- * @since 1.0, 2021-01-29 15:42:32
+ * @since 1.0, 2021-12-08 21:24:17
  */
 class AlipayBossFncGfsettleprodInvoiceDeleteRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.card.disburse request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:56
+ * @since 1.0, 2022-11-04 10:27:11
  */
 class AlipayAssetCardDisburseRequest
 {

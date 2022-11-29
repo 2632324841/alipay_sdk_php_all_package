@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.vendorpay.devicedata.upload request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2021-12-22 00:11:30
  */
 class AlipayTradeVendorpayDevicedataUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.antlaw.manualfile.upload request
  *
  * @author auto create
- * @since 1.0, 2020-11-04 15:24:11
+ * @since 1.0, 2022-01-04 20:45:21
  */
 class AlipayBossProdAntlawManualfileUploadRequest
 {

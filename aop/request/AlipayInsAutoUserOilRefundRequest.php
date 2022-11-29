@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.user.oil.refund request
  *
  * @author auto create
- * @since 1.0, 2019-07-04 17:22:29
+ * @since 1.0, 2022-09-20 11:08:05
  */
 class AlipayInsAutoUserOilRefundRequest
 {

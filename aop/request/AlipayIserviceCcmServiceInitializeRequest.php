@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.ccm.service.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 11:18:56
+ * @since 1.0, 2022-11-09 11:18:31
  */
 class AlipayIserviceCcmServiceInitializeRequest
 {

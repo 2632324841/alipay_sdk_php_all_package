@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.servindustry.exercise.record.sync request
  *
  * @author auto create
- * @since 1.0, 2020-06-18 11:52:10
+ * @since 1.0, 2021-12-21 22:39:59
  */
 class KoubeiServindustryExerciseRecordSyncRequest
 {

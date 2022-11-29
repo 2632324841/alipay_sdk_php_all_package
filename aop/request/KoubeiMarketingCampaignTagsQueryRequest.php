@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.campaign.tags.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-14 09:47:05
+ * @since 1.0, 2022-06-27 11:29:58
  */
 class KoubeiMarketingCampaignTagsQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.order.rent.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-29 16:45:19
+ * @since 1.0, 2022-11-15 15:16:35
  */
 class ZhimaMerchantOrderRentQueryRequest
 {

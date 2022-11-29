@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.assetreverse.assign.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:54
+ * @since 1.0, 2022-03-23 22:31:38
  */
 class AntMerchantExpandAssetreverseAssignQueryRequest
 {

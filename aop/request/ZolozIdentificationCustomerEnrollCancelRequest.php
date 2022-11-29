@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.identification.customer.enroll.cancel request
  *
  * @author auto create
- * @since 1.0, 2020-12-18 15:35:56
+ * @since 1.0, 2022-04-14 20:41:42
  */
 class ZolozIdentificationCustomerEnrollCancelRequest
 {

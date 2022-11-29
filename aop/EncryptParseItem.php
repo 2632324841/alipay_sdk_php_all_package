@@ -1,4 +1,5 @@
 <?php
+namespace aop;
 /**
  *  TODO 补充说明
  *
@@ -6,8 +7,6 @@
  * Date: 16/3/30
  * Time: 下午8:55
  */
-
-namespace aop;
 
 class EncryptParseItem
 {

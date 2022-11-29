@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.member.data.oauth.query request
  *
  * @author auto create
- * @since 1.0, 2019-06-28 16:35:01
+ * @since 1.0, 2022-11-22 14:56:50
  */
 class KoubeiMemberDataOauthQueryRequest
 {

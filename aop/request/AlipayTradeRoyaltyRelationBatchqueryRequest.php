@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.royalty.relation.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-12-28 16:37:58
+ * @since 1.0, 2022-07-25 11:51:48
  */
 class AlipayTradeRoyaltyRelationBatchqueryRequest
 {

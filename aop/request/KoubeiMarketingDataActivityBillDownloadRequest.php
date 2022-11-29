@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.data.activity.bill.download request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 10:35:32
+ * @since 1.0, 2022-06-27 11:32:12
  */
 class KoubeiMarketingDataActivityBillDownloadRequest
 {

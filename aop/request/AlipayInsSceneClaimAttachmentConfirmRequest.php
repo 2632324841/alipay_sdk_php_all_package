@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.claim.attachment.confirm request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 23:00:12
+ * @since 1.0, 2022-09-23 16:28:33
  */
 class AlipayInsSceneClaimAttachmentConfirmRequest
 {

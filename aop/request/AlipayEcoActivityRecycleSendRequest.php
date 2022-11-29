@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.activity.recycle.send request
  *
  * @author auto create
- * @since 1.0, 2021-07-30 11:03:36
+ * @since 1.0, 2022-11-04 18:12:44
  */
 class AlipayEcoActivityRecycleSendRequest
 {

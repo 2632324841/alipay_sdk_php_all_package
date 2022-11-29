@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.payeeinfo.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-01 10:32:44
+ * @since 1.0, 2022-09-08 19:46:55
  */
 class AlipayMarketingActivityPayeeinfoCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.template.message.industry.modify request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 11:18:15
+ * @since 1.0, 2021-12-09 00:33:54
  */
 class AlipayOpenPublicTemplateMessageIndustryModifyRequest
 {

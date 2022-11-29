@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.message.topic.unsubscribe request
  *
  * @author auto create
- * @since 1.0, 2021-04-16 17:09:19
+ * @since 1.0, 2022-07-14 16:23:49
  */
 class AlipayOpenAppMessageTopicUnsubscribeRequest
 {

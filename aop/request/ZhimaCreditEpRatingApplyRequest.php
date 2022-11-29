@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.rating.apply request
  *
  * @author auto create
- * @since 1.0, 2019-01-15 15:40:00
+ * @since 1.0, 2021-12-21 22:46:46
  */
 class ZhimaCreditEpRatingApplyRequest
 {

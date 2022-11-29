@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.xwbtestabc.abc.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-07-07 11:15:41
  */
 class AlipaySecurityProdXwbtestabcAbcQueryRequest
 {

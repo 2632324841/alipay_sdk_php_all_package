@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.default.extension.create request
  *
  * @author auto create
- * @since 1.0, 2020-09-23 19:39:59
+ * @since 1.0, 2021-09-13 20:11:17
  */
 class AlipayOpenPublicDefaultExtensionCreateRequest
 {

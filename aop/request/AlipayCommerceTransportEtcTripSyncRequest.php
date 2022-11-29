@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.trip.sync request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:49
+ * @since 1.0, 2022-10-26 15:36:51
  */
 class AlipayCommerceTransportEtcTripSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.facepay.close request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 15:20:03
+ * @since 1.0, 2022-11-17 14:56:34
  */
 class AlipayCommerceEducateFacepayCloseRequest
 {

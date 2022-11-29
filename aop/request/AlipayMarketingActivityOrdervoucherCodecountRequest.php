@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.ordervoucher.codecount request
  *
  * @author auto create
- * @since 1.0, 2021-05-13 17:30:21
+ * @since 1.0, 2022-08-19 10:21:40
  */
 class AlipayMarketingActivityOrdervoucherCodecountRequest
 {

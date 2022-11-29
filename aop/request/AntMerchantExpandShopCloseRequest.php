@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.shop.close request
  *
  * @author auto create
- * @since 1.0, 2021-07-06 14:59:32
+ * @since 1.0, 2022-08-18 10:21:01
  */
 class AntMerchantExpandShopCloseRequest
 {

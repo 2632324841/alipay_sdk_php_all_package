@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2021-05-14 15:25:20
+ * @since 1.0, 2022-05-23 15:01:57
  */
 class AlipayTradeRefundApplyRequest
 {

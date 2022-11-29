@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.logistics.logisticscompany.instantdelivery.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-31 13:49:23
+ * @since 1.0, 2022-10-27 15:51:59
  */
 class AlipayCommerceLogisticsLogisticscompanyInstantdeliveryQueryRequest
 {

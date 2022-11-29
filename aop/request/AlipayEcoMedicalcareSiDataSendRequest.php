@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.medicalcare.si.data.send request
  *
  * @author auto create
- * @since 1.0, 2021-03-10 12:04:36
+ * @since 1.0, 2022-11-04 15:48:11
  */
 class AlipayEcoMedicalcareSiDataSendRequest
 {

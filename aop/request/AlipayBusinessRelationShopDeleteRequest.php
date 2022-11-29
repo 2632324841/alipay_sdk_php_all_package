@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.business.relation.shop.delete request
  *
  * @author auto create
- * @since 1.0, 2021-07-12 11:42:37
+ * @since 1.0, 2022-06-23 20:07:09
  */
 class AlipayBusinessRelationShopDeleteRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.crowdgroup.condition.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-24 14:24:48
+ * @since 1.0, 2022-10-11 12:03:56
  */
 class KoubeiCateringCrowdgroupConditionQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.insassetprod.petprofilelist.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-30 15:30:32
+ * @since 1.0, 2022-10-10 16:23:41
  */
 class AlipayInsSceneInsassetprodPetprofilelistQueryRequest
 {

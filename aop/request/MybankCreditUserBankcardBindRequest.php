@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.user.bankcard.bind request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:20
+ * @since 1.0, 2022-09-19 15:31:45
  */
 class MybankCreditUserBankcardBindRequest
 {

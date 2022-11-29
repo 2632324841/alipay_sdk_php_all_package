@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.twostage.indirect.use request
  *
  * @author auto create
- * @since 1.0, 2021-08-02 14:31:26
+ * @since 1.0, 2022-11-09 11:44:31
  */
 class AlipayUserTwostageIndirectUseRequest
 {

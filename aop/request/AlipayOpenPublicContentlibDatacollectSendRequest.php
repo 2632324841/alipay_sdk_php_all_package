@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.contentlib.datacollect.send request
  *
  * @author auto create
- * @since 1.0, 2019-11-22 14:25:41
+ * @since 1.0, 2021-12-09 00:25:41
  */
 class AlipayOpenPublicContentlibDatacollectSendRequest
 {

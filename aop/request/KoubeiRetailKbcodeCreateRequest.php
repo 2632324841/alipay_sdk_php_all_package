@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.retail.kbcode.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-06-02 11:17:47
  */
 class KoubeiRetailKbcodeCreateRequest
 {

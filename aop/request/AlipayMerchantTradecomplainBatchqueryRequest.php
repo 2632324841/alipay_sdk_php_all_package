@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.tradecomplain.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:16
+ * @since 1.0, 2022-10-17 20:53:51
  */
 class AlipayMerchantTradecomplainBatchqueryRequest
 {

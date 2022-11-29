@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pai.partner.result.get request
  *
  * @author auto create
- * @since 1.0, 2019-08-27 16:54:29
+ * @since 1.0, 2022-08-03 17:38:33
  */
 class AlipayPaiPartnerResultGetRequest
 {

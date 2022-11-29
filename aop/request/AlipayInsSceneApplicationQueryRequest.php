@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.application.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:52
+ * @since 1.0, 2022-10-12 18:35:48
  */
 class AlipayInsSceneApplicationQueryRequest
 {

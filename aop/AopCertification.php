@@ -291,20 +291,20 @@ class AopCertification{
     public static function getSignatureAlgorithmOid($der = null)
     {
         // Validate this is the der we need...
-        if (!is_string($der) or strlen($der) < 5) {
+        if (!is_string($der) || strlen($der) < 5) {
             return false;
         }
         $bit_seq1 = 0;
         $bit_seq2 = 2;
         $bit_oid = 4;
         if (ord($der[$bit_seq1]) !== 0x30) {
-            die('Invalid DER passed to getSignatureAlgorithmOid()');
+            throw new \Exception('Invalid DER passed to getSignatureAlgorithmOid()');
         }
         if (ord($der[$bit_seq2]) !== 0x30) {
-            die('Invalid DER passed to getSignatureAlgorithmOid()');
+            throw new \Exception('Invalid DER passed to getSignatureAlgorithmOid()');
         }
         if (ord($der[$bit_oid]) !== 0x06) {
-            die('Invalid DER passed to getSignatureAlgorithmOid');
+            throw new \Exception('Invalid DER passed to getSignatureAlgorithmOid');
         }
         // strip out what we don't need and get the oid
         $der = substr($der, $bit_oid);
@@ -351,16 +351,16 @@ class AopCertification{
     public static function getSignatureHash($der = null)
     {
         // Validate this is the der we need...
-        if (!is_string($der) or strlen($der) < 5) {
+        if (!is_string($der) || strlen($der) < 5) {
             return false;
         }
         if (ord($der[0]) !== 0x30) {
-            die('Invalid DER passed to getSignatureHash()');
+            throw new \Exception('Invalid DER passed to getSignatureHash()');
         }
         // strip out the container sequence
         $der = substr($der, 2);
         if (ord($der[0]) !== 0x30) {
-            die('Invalid DER passed to getSignatureHash()');
+            throw new \Exception('Invalid DER passed to getSignatureHash()');
         }
         // Get the length of the first sequence so we can strip it out.
         $len = ord($der[1]);
@@ -375,7 +375,7 @@ class AopCertification{
         $der = substr($der, 2 + $bytes + $len);
         // Now we should have an octet string
         if (ord($der[0]) !== 0x04) {
-            die('Invalid DER passed to getSignatureHash()');
+            throw new \Exception('Invalid DER passed to getSignatureHash()');
         }
         $len = ord($der[1]);
         $bytes = 0;
@@ -399,24 +399,33 @@ class AopCertification{
      */
     public static function isCertSigner($certPem = null, $caCertPem = null)
     {
-        if (empty($certPem) or empty($caCertPem)) {
+        if (!function_exists('openssl_pkey_get_public')) {
+            throw new \Exception('Need the openssl_pkey_get_public() public static function.');
+        }
+        if (!function_exists('openssl_public_decrypt')) {
+            throw new \Exception('Need the openssl_public_decrypt() public static function.');
+        }
+        if (!function_exists('hash')) {
+            throw new \Exception('Need the php hash() public static function.');
+        }
+        if (empty($certPem) || empty($caCertPem)) {
             return false;
         }
         // Convert the cert to der for feeding to extractSignature.
         $certDer = self::pemToDer($certPem);
         if (!is_string($certDer)) {
-            die('invalid certPem');
+            throw new \Exception('invalid certPem');
         }
         // Grab the encrypted signature from the der encoded cert.
         $encryptedSig = self::extractSignature($certDer);
         if (!is_string($encryptedSig)) {
-            die('Failed to extract encrypted signature from certPem.');
+            throw new \Exception('Failed to extract encrypted signature from certPem.');
         }
         // Extract the public key from the ca cert, which is what has
         // been used to encrypt the signature in the cert.
         $pubKey = openssl_pkey_get_public($caCertPem);
         if ($pubKey === false) {
-            die('Failed to extract the public key from the ca cert.');
+            throw new \Exception('Failed to extract the public key from the ca cert.');
         }
         // Attempt to decrypt the encrypted signature using the CA's public
         // key, returning the decrypted signature in $decryptedSig.  If
@@ -432,14 +441,14 @@ class AopCertification{
         // signature information.
         $origCert = self::stripSignerAsn($certDer);
         if ($origCert === false) {
-            die('Failed to extract unsigned cert.');
+            throw new \Exception('Failed to extract unsigned cert.');
         }
         // Get the oid of the signature hash algorithm, which is required
         // to generate our own hash of the original cert.  This hash is
         // what will be compared to the issuers hash.
         $oid = self::getSignatureAlgorithmOid($decryptedSig);
         if ($oid === false) {
-            die('Failed to determine the signature algorithm.');
+            throw new \Exception('Failed to determine the signature algorithm.');
         }
         switch ($oid) {
             case '1.2.840.113549.2.2':
@@ -467,7 +476,7 @@ class AopCertification{
                 $algo = 'sha512';
                 break;
             default:
-                die('Unknown signature hash algorithm oid: ' . $oid);
+                throw new \Exception('Unknown signature hash algorithm oid: ' . $oid);
                 break;
         }
         // Get the issuer generated hash from the decrypted signature.
@@ -503,7 +512,7 @@ class AopCertification{
      */
     public static function stripSignerAsn($der = null)
     {
-        if (!is_string($der) or strlen($der) < 8) {
+        if (!is_string($der) || strlen($der) < 8) {
             return false;
         }
         $bit = 4;
@@ -519,3 +528,4 @@ class AopCertification{
         return substr($der, 4, $len + 4);
     }
 }
+

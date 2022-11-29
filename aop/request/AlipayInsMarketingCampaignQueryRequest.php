@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.marketing.campaign.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 17:23:25
+ * @since 1.0, 2022-09-23 16:18:31
  */
 class AlipayInsMarketingCampaignQueryRequest
 {

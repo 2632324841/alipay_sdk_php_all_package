@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.sceneprod.benefit.add request
  *
  * @author auto create
- * @since 1.0, 2021-01-27 17:00:18
+ * @since 1.0, 2022-04-19 17:50:31
  */
 class AlipayPcreditHuabeiSceneprodBenefitAddRequest
 {

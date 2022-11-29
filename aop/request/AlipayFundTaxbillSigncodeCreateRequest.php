@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.taxbill.signcode.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-29 19:22:38
+ * @since 1.0, 2022-10-11 18:26:53
  */
 class AlipayFundTaxbillSigncodeCreateRequest
 {

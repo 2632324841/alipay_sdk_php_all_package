@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.micropay.order.direct.pay request
  *
  * @author auto create
- * @since 1.0, 2020-07-30 15:17:25
+ * @since 1.0, 2022-11-01 14:16:51
  */
 class AlipayMicropayOrderDirectPayRequest
 {
@@ -22,6 +22,11 @@ class AlipayMicropayOrderDirectPayRequest
 	 * 支付备注
 	 **/
 	private $memo;
+	
+	/** 
+	 * 收款方OpenId
+	 **/
+	private $receiveOpenId;
 	
 	/** 
 	 * 收款方的支付宝ID
@@ -74,6 +79,17 @@ class AlipayMicropayOrderDirectPayRequest
 	public function getMemo()
 	{
 		return $this->memo;
+	}
+
+	public function setReceiveOpenId($receiveOpenId)
+	{
+		$this->receiveOpenId = $receiveOpenId;
+		$this->apiParas["receive_open_id"] = $receiveOpenId;
+	}
+
+	public function getReceiveOpenId()
+	{
+		return $this->receiveOpenId;
 	}
 
 	public function setReceiveUserId($receiveUserId)

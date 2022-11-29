@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.merchant.externalbill.upload request
  *
  * @author auto create
- * @since 1.0, 2021-07-21 17:01:30
+ * @since 1.0, 2021-12-08 22:38:27
  */
 class AlipayEbppMerchantExternalbillUploadRequest
 {

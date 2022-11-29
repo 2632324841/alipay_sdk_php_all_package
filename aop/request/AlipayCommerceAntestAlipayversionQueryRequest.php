@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.antest.alipayversion.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-24 14:02:24
+ * @since 1.0, 2021-12-08 21:28:56
  */
 class AlipayCommerceAntestAlipayversionQueryRequest
 {

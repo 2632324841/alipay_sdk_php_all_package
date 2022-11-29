@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.guarantee.selleradmittance.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-26 19:42:25
+ * @since 1.0, 2022-02-15 15:25:08
  */
 class MybankCreditGuaranteeSelleradmittanceQueryRequest
 {

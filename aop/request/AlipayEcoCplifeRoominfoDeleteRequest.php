@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cplife.roominfo.delete request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 14:43:48
+ * @since 1.0, 2021-12-08 22:42:49
  */
 class AlipayEcoCplifeRoominfoDeleteRequest
 {

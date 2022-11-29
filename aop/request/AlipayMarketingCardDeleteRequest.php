@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.delete request
  *
  * @author auto create
- * @since 1.0, 2021-01-04 11:19:13
+ * @since 1.0, 2022-11-08 21:26:23
  */
 class AlipayMarketingCardDeleteRequest
 {

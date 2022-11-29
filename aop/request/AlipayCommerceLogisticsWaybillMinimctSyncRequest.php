@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.logistics.waybill.minimct.sync request
  *
  * @author auto create
- * @since 1.0, 2020-03-17 10:50:09
+ * @since 1.0, 2022-11-02 17:26:14
  */
 class AlipayCommerceLogisticsWaybillMinimctSyncRequest
 {

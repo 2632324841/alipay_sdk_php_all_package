@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.dialogonline.vehicle.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:47:45
+ * @since 1.0, 2022-09-29 10:04:48
  */
 class AlipayEcoMycarDialogonlineVehicleQueryRequest
 {

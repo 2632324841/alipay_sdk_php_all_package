@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.voucher.stop request
  *
  * @author auto create
- * @since 1.0, 2021-08-13 18:05:23
+ * @since 1.0, 2022-09-19 20:58:34
  */
 class AlipayMarketingActivityVoucherStopRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.carrental.order.sync request
  *
  * @author auto create
- * @since 1.0, 2021-07-12 20:55:23
+ * @since 1.0, 2022-11-04 18:13:01
  */
 class AlipayCommerceTransportCarrentalOrderSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.forest.tree.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:16
+ * @since 1.0, 2022-10-13 22:51:49
  */
 class AlipaySocialForestTreeQueryRequest
 {

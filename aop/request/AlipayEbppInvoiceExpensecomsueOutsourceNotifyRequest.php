@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.expensecomsue.outsource.notify request
  *
  * @author auto create
- * @since 1.0, 2021-07-09 19:25:47
+ * @since 1.0, 2022-11-18 23:41:34
  */
 class AlipayEbppInvoiceExpensecomsueOutsourceNotifyRequest
 {

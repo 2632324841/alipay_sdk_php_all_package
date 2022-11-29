@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.message.custom.send request
  *
  * @author auto create
- * @since 1.0, 2021-03-26 14:54:29
+ * @since 1.0, 2022-11-18 16:06:44
  */
 class AlipayOpenPublicMessageCustomSendRequest
 {

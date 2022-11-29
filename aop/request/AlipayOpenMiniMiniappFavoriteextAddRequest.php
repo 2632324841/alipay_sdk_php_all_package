@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.miniapp.favoriteext.add request
  *
  * @author auto create
- * @since 1.0, 2019-11-21 19:57:23
+ * @since 1.0, 2022-11-14 10:17:02
  */
 class AlipayOpenMiniMiniappFavoriteextAddRequest
 {

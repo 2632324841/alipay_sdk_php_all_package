@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.identity.info.certify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:01
+ * @since 1.0, 2022-10-27 16:02:26
  */
 class AnttechBlockchainIdentityInfoCertifyRequest
 {

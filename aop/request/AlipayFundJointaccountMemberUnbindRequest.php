@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.jointaccount.member.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:10
+ * @since 1.0, 2022-09-14 17:22:07
  */
 class AlipayFundJointaccountMemberUnbindRequest
 {

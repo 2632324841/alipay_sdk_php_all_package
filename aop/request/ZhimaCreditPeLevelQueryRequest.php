@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.level.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-15 13:59:04
+ * @since 1.0, 2022-11-03 17:30:06
  */
 class ZhimaCreditPeLevelQueryRequest
 {

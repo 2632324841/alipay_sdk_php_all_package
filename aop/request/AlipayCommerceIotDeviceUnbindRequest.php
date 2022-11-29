@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:04
+ * @since 1.0, 2022-10-14 15:23:02
  */
 class AlipayCommerceIotDeviceUnbindRequest
 {

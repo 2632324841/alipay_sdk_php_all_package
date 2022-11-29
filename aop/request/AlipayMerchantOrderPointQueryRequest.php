@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.order.point.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-13 12:03:03
+ * @since 1.0, 2022-11-15 11:52:45
  */
 class AlipayMerchantOrderPointQueryRequest
 {

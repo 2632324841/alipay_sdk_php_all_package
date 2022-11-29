@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.user.trade.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-20 15:52:22
+ * @since 1.0, 2022-11-19 00:21:37
  */
 class AlipayEbppInvoiceUserTradeQueryRequest
 {

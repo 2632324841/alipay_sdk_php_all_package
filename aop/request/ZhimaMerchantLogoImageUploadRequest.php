@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.logo.image.upload request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 17:00:30
+ * @since 1.0, 2022-11-15 10:30:36
  */
 class ZhimaMerchantLogoImageUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.deviceinfo.query request
  *
  * @author auto create
- * @since 1.0, 2019-12-17 17:01:25
+ * @since 1.0, 2021-12-13 19:52:10
  */
 class AlipaySecurityProdDeviceinfoQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.zdatafront.common.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-14 12:16:36
+ * @since 1.0, 2022-01-06 10:15:37
  */
 class AlipayZdatafrontCommonQueryRequest
 {

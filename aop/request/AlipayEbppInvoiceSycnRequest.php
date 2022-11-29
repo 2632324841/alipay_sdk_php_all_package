@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.sycn request
  *
  * @author auto create
- * @since 1.0, 2021-01-04 11:27:33
+ * @since 1.0, 2022-11-22 09:51:36
  */
 class AlipayEbppInvoiceSycnRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.trusteeship.account.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-02 10:31:47
+ * @since 1.0, 2022-06-21 17:21:42
  */
 class AlipayFundTransTrusteeshipAccountCreateRequest
 {

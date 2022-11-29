@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.label.user.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 14:44:07
+ * @since 1.0, 2022-11-18 15:56:36
  */
 class AlipayOpenPublicLabelUserQueryRequest
 {

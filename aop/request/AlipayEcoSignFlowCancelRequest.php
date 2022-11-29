@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.sign.flow.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 11:08:11
+ * @since 1.0, 2022-07-21 15:48:58
  */
 class AlipayEcoSignFlowCancelRequest
 {

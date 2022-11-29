@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.campaign.crowd.create request
  *
  * @author auto create
- * @since 1.0, 2021-02-24 14:39:25
+ * @since 1.0, 2022-06-27 11:31:16
  */
 class KoubeiMarketingCampaignCrowdCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.car.save request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 17:24:24
+ * @since 1.0, 2022-09-16 17:41:02
  */
 class AlipayInsAutoCarSaveRequest
 {

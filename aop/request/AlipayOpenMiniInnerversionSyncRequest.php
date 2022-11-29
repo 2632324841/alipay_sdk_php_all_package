@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerversion.sync request
  *
  * @author auto create
- * @since 1.0, 2020-02-13 23:50:18
+ * @since 1.0, 2021-12-09 00:09:17
  */
 class AlipayOpenMiniInnerversionSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerbaseinfo.categorytree.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:41:14
+ * @since 1.0, 2021-12-09 00:00:01
  */
 class AlipayOpenMiniInnerbaseinfoCategorytreeQueryRequest
 {

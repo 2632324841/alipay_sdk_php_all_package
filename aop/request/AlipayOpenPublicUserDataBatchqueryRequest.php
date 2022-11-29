@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.user.data.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-03-26 15:03:26
+ * @since 1.0, 2021-09-13 21:01:35
  */
 class AlipayOpenPublicUserDataBatchqueryRequest
 {

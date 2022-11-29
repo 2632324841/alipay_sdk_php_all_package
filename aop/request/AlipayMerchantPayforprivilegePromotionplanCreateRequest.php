@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.payforprivilege.promotionplan.create request
  *
  * @author auto create
- * @since 1.0, 2021-08-18 10:15:50
+ * @since 1.0, 2022-11-17 17:42:57
  */
 class AlipayMerchantPayforprivilegePromotionplanCreateRequest
 {

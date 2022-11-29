@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.gotone.message.sms.send request
  *
  * @author auto create
- * @since 1.0, 2021-07-16 15:13:20
+ * @since 1.0, 2022-03-28 16:52:36
  */
 class AlipayGotoneMessageSmsSendRequest
 {

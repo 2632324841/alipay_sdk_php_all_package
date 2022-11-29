@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.merchant.tmall.sync request
  *
  * @author auto create
- * @since 1.0, 2020-11-26 21:10:13
+ * @since 1.0, 2022-10-14 16:33:28
  */
 class KoubeiCateringMerchantTmallSyncRequest
 {

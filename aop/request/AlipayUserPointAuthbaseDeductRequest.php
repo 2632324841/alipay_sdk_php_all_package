@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.point.authbase.deduct request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:09
+ * @since 1.0, 2022-10-28 21:21:50
  */
 class AlipayUserPointAuthbaseDeductRequest
 {

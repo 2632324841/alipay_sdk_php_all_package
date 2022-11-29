@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.data.weather.sync request
  *
  * @author auto create
- * @since 1.0, 2019-08-27 10:21:47
+ * @since 1.0, 2022-03-28 17:12:34
  */
 class AlipayInsDataWeatherSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.app.channel.consult request
  *
  * @author auto create
- * @since 1.0, 2021-05-21 15:52:52
+ * @since 1.0, 2022-10-11 11:16:52
  */
 class AlipayPayAppChannelConsultRequest
 {

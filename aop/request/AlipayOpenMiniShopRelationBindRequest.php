@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.shop.relation.bind request
  *
  * @author auto create
- * @since 1.0, 2021-08-12 18:50:01
+ * @since 1.0, 2021-12-09 00:18:37
  */
 class AlipayOpenMiniShopRelationBindRequest
 {

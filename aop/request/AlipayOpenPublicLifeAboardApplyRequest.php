@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.life.aboard.apply request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 17:01:04
+ * @since 1.0, 2021-12-09 00:27:35
  */
 class AlipayOpenPublicLifeAboardApplyRequest
 {

@@ -1,12 +1,11 @@
 <?php
 namespace aop;
+use aop\AlipayMobilePublicMultiMediaExecute;
 /**
  * 多媒体文件客户端
  * @author yikai.hu
  * @version $Id: AlipayMobilePublicMultiMediaClient.php, v 0.1 Aug 15, 2014 10:19:01 AM yikai.hu Exp $
  */
-
-use aop\request\AlipayMobilePublicMultiMediaExecute;
 
 class AlipayMobilePublicMultiMediaClient
 {
@@ -26,7 +25,7 @@ class AlipayMobilePublicMultiMediaClient
     private $charset;
     private $apiVersion = "1.0";
     private $apiMethodName = "alipay.mobile.public.multimedia.download";
-    private $media_id = "L21pZnMvVDFQV3hYWGJKWFhYYUNucHJYP3Q9YW13ZiZ4c2lnPTU0MzRhYjg1ZTZjNWJmZTMxZGJiNjIzNDdjMzFkNzkw575";
+    private $media_id = "";
     //此处写死的，实际开发中，请传入
 
     private $connectTimeout = 3000;
@@ -39,6 +38,26 @@ class AlipayMobilePublicMultiMediaClient
         $this->privateKey = $partner_private_key;
         $this->format = $format;
         $this->charset = $charset;
+    }
+
+    /**
+     * 设置媒体id
+     *
+     * @param string $media_id
+     * @return void
+     */
+    public function setMediaId(string $media_id){
+        $this->media_id = $media_id;
+        return $this;
+    }
+
+    /**
+     * 获取媒体id
+     *
+     * @return void
+     */
+    public function getMediaId(){
+        return $this->media_id;
     }
 
     /**
@@ -83,8 +102,6 @@ class AlipayMobilePublicMultiMediaClient
         $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         curl_close($ch);
 
-        echo $output;
-
         $datas = explode("\r\n\r\n", $output, 2);
         $header = $datas[0];
 
@@ -112,7 +129,7 @@ class AlipayMobilePublicMultiMediaClient
     public function buildGetUrl($query = array())
     {
         if (!is_array($query)) {
-            //exit;
+            throw new \Exception('query is not array');
         }
         //排序参数，
         $data = $this->buildQuery($query);
@@ -157,8 +174,6 @@ class AlipayMobilePublicMultiMediaClient
         $signature = base64_encode($signature);
 
         $signature = urlencode($signature);
-
-        //$signature = 'XjUN6YM1Mc9HXebKMv7GTLy7gmyhktyOgKk2/Jf+cz4DtP6udkzTdpkjW2j/Z4ZSD7xD6CNYI1Spz4yS93HPT0a5X9LgFWYY8SaADqe+ArXg+FBSiTwUz49SE//Xd9+LEiIRsSFkbpkuiGoO6mqJmB7vXjlD5lx6qCM3nb41wb8=';
 
         $out = $data . '&' . $this->SIGN . '=' . $signature;
 

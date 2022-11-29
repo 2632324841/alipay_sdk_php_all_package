@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.stepcounter.sync request
  *
  * @author auto create
- * @since 1.0, 2021-08-10 11:06:38
+ * @since 1.0, 2022-03-18 10:51:28
  */
 class AlipayUserStepcounterSyncRequest
 {

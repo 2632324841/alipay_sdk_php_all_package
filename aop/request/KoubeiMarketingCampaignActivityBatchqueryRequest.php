@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.campaign.activity.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 14:24:03
+ * @since 1.0, 2022-09-06 15:51:54
  */
 class KoubeiMarketingCampaignActivityBatchqueryRequest
 {

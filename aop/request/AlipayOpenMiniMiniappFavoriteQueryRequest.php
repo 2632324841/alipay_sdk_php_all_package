@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.miniapp.favorite.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-14 10:19:36
+ * @since 1.0, 2022-11-22 10:06:25
  */
 class AlipayOpenMiniMiniappFavoriteQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.insserviceprod.certify request
  *
  * @author auto create
- * @since 1.0, 2019-05-28 10:05:04
+ * @since 1.0, 2021-12-08 23:09:56
  */
 class AlipayInsSceneInsserviceprodCertifyRequest
 {

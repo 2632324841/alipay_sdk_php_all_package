@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.merchant.goods.sync request
  *
  * @author auto create
- * @since 1.0, 2021-07-30 09:35:23
+ * @since 1.0, 2022-08-11 18:47:01
  */
 class AlipayPcreditHuabeiMerchantGoodsSyncRequest
 {

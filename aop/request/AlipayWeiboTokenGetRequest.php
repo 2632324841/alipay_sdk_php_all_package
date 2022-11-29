@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.weibo.token.get request
  *
  * @author auto create
- * @since 1.0, 2020-07-30 15:18:05
+ * @since 1.0, 2021-12-30 15:00:22
  */
 class AlipayWeiboTokenGetRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.rebate.balance.send request
  *
  * @author auto create
- * @since 1.0, 2021-03-26 14:52:34
+ * @since 1.0, 2021-11-01 11:21:18
  */
 class AlipayEcoRebateBalanceSendRequest
 {

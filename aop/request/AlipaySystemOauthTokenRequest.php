@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.system.oauth.token request
  *
  * @author auto create
- * @since 1.0, 2021-08-03 15:19:25
+ * @since 1.0, 2022-11-21 11:31:40
  */
 class AlipaySystemOauthTokenRequest
 {

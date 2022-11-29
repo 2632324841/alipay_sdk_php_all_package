@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.multimedia.download.proxy request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 14:45:32
+ * @since 1.0, 2022-08-05 19:31:44
  */
 class AlipayOpenPublicMultimediaDownloadProxyRequest
 {

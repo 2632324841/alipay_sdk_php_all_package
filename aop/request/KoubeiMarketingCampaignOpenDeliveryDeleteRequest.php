@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.campaign.open.delivery.delete request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-10-11 12:00:07
  */
 class KoubeiMarketingCampaignOpenDeliveryDeleteRequest
 {

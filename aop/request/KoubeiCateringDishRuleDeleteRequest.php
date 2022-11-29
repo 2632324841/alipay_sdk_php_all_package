@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.dish.rule.delete request
  *
  * @author auto create
- * @since 1.0, 2020-09-08 17:20:11
+ * @since 1.0, 2022-01-04 10:36:33
  */
 class KoubeiCateringDishRuleDeleteRequest
 {

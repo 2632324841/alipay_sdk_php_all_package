@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.message.subscription.modify request
  *
  * @author auto create
- * @since 1.0, 2021-04-16 17:11:06
+ * @since 1.0, 2022-07-21 15:48:34
  */
 class AlipayOpenAppMessageSubscriptionModifyRequest
 {

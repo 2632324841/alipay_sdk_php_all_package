@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.batch.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-09-01 10:24:33
+ * @since 1.0, 2022-11-02 10:41:04
  */
 class AlipayTradeBatchTransferRequest
 {

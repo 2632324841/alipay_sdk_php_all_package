@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.iotdevice.apply.upload request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 17:10:34
+ * @since 1.0, 2021-12-21 11:25:03
  */
 class AntMerchantExpandIotdeviceApplyUploadRequest
 {

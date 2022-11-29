@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.applepay.transactionauthtoken.delete request
  *
  * @author auto create
- * @since 1.0, 2020-06-09 20:25:11
+ * @since 1.0, 2022-11-03 15:10:42
  */
 class AlipayPayApplepayTransactionauthtokenDeleteRequest
 {

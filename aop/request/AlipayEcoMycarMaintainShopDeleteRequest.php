@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.maintain.shop.delete request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:44:35
+ * @since 1.0, 2022-09-29 10:03:24
  */
 class AlipayEcoMycarMaintainShopDeleteRequest
 {

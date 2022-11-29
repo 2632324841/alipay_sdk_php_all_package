@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.ccm.sw.article.delete request
  *
  * @author auto create
- * @since 1.0, 2021-01-26 15:22:31
+ * @since 1.0, 2022-11-07 19:31:36
  */
 class AlipayIserviceCcmSwArticleDeleteRequest
 {

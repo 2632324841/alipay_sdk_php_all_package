@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.visa.report.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-27 10:15:20
+ * @since 1.0, 2022-11-16 16:21:33
  */
 class ZhimaCreditPeVisaReportQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.coupon.order.agreement.pay request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:51
+ * @since 1.0, 2022-11-17 11:37:03
  */
 class AlipayFundCouponOrderAgreementPayRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.smartstore.data.sync request
  *
  * @author auto create
- * @since 1.0, 2020-11-24 15:50:19
+ * @since 1.0, 2022-11-22 15:13:38
  */
 class KoubeiCateringSmartstoreDataSyncRequest
 {

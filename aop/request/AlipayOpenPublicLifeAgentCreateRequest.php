@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.life.agent.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:50
+ * @since 1.0, 2022-08-05 16:46:57
  */
 class AlipayOpenPublicLifeAgentCreateRequest
 {

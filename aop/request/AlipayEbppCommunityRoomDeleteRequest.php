@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.room.delete request
  *
  * @author auto create
- * @since 1.0, 2021-03-31 13:46:21
+ * @since 1.0, 2021-12-08 22:03:54
  */
 class AlipayEbppCommunityRoomDeleteRequest
 {

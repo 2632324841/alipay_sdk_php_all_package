@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.template.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-02 18:14:05
+ * @since 1.0, 2022-11-11 16:54:12
  */
 class AlipayMarketingCardTemplateCreateRequest
 {

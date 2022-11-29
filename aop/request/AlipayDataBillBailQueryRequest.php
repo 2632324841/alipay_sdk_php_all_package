@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.bill.bail.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-11 10:58:49
+ * @since 1.0, 2022-05-23 11:58:27
  */
 class AlipayDataBillBailQueryRequest
 {

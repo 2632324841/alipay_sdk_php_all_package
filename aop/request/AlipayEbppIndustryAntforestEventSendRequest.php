@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.industry.antforest.event.send request
  *
  * @author auto create
- * @since 1.0, 2021-04-07 20:38:50
+ * @since 1.0, 2022-11-08 10:36:34
  */
 class AlipayEbppIndustryAntforestEventSendRequest
 {

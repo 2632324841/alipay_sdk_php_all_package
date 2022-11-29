@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.cooperation.product.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 22:59:35
+ * @since 1.0, 2022-09-23 16:27:54
  */
 class AlipayInsCooperationProductQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.health.drugcatalogue.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-26 16:31:19
+ * @since 1.0, 2022-06-09 19:31:43
  */
 class AlipayInsSceneHealthDrugcatalogueBatchqueryRequest
 {

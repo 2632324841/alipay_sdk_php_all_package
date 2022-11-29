@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.isv.order.sync request
  *
  * @author auto create
- * @since 1.0, 2021-08-26 15:47:44
+ * @since 1.0, 2021-11-10 10:00:34
  */
 class AlipayCommerceOperationIsvOrderSyncRequest
 {

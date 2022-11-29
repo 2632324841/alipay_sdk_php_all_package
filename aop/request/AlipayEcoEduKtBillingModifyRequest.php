@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.edu.kt.billing.modify request
  *
  * @author auto create
- * @since 1.0, 2021-08-30 16:50:27
+ * @since 1.0, 2022-11-07 19:46:32
  */
 class AlipayEcoEduKtBillingModifyRequest
 {

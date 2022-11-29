@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.bind request
  *
  * @author auto create
- * @since 1.0, 2021-03-29 11:20:16
+ * @since 1.0, 2022-03-31 11:49:44
  */
 class AlipayCommerceIotDeviceBindRequest
 {

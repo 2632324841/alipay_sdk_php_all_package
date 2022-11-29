@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.scene.photoremote.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-22 19:00:22
+ * @since 1.0, 2022-07-20 21:07:11
  */
 class AlipayCommerceEducateScenePhotoremoteApplyRequest
 {

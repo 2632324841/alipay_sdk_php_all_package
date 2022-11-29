@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.bill.service.modify request
  *
  * @author auto create
- * @since 1.0, 2021-08-27 17:11:46
+ * @since 1.0, 2022-11-04 18:12:49
  */
 class AlipayCommerceEducateBillServiceModifyRequest
 {

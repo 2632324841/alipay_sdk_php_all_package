@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.recruit.enroll.close request
  *
  * @author auto create
- * @since 1.0, 2021-07-02 14:50:46
+ * @since 1.0, 2022-05-06 20:33:52
  */
 class AlipayMarketingRecruitEnrollCloseRequest
 {

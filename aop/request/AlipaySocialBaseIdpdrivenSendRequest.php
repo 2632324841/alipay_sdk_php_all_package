@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.idpdriven.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-05 15:45:00
+ * @since 1.0, 2022-11-02 17:59:22
  */
 class AlipaySocialBaseIdpdrivenSendRequest
 {

@@ -1,12 +1,11 @@
 <?php
 namespace aop;
 
-use aop\request\AopEncrypt;
-use aop\request\EncryptParseItem;
-use aop\request\EncryptResponseData;
+use aop\AopEncrypt;
+use aop\EncryptParseItem;
+use aop\EncryptResponseData;
 use aop\SignData;
-
-use Exception;
+use aop\AlipayConfig;
 
 class AopClient
 {
@@ -66,7 +65,19 @@ class AopClient
     private $targetServiceUrl = "";
 
     protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
-
+    function __construct() {
+        //根据参数个数和参数类型 来做相应的判断
+        if(func_num_args()==1 && func_get_arg(0) instanceof AlipayConfig){
+            $config = func_get_arg(0);
+            $this->appId = $config->getAppId();
+            $this->format = $config->getFormat();
+            $this->gatewayUrl = $config->getServerUrl();
+            $this->signType = $config->getSignType();
+            $this->postCharset = $config->getCharset();
+            $this->rsaPrivateKey = $config->getPrivateKey();
+            $this->alipayrsaPublicKey = $config->getAlipayPublicKey();
+        }
+    }
     public function generateSign($params, $signType = "RSA")
     {
         $params = array_filter($params);
@@ -144,7 +155,9 @@ class AopClient
             $res = openssl_get_privatekey($priKey);
         }
 
-        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
+        if(!$res){
+            throw new \Exception('您使用的私钥格式错误，请检查RSA私钥配置');
+        }
 
         if ("RSA2" == $signType) {
             openssl_sign($data, $sign, $res, OPENSSL_ALGO_SHA256);
@@ -180,7 +193,9 @@ class AopClient
             $res = openssl_get_privatekey($priKey);
         }
 
-        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
+        if(!$res){
+            throw new \Exception('您使用的私钥格式错误，请检查RSA私钥配置');
+        }
 
         if ("RSA2" == $signType) {
             openssl_sign($data, $sign, $res, OPENSSL_ALGO_SHA256);
@@ -242,11 +257,11 @@ class AopClient
 
         if (curl_errno($ch)) {
 
-            throw new Exception(curl_error($ch), 0);
+            throw new \Exception(curl_error($ch), 0);
         } else {
             $httpStatusCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
             if (200 !== $httpStatusCode) {
-                throw new Exception($reponse, $httpStatusCode);
+                throw new \Exception($reponse, $httpStatusCode);
             }
         }
 
@@ -335,7 +350,7 @@ class AopClient
         if (strcasecmp($this->fileCharset, $this->postCharset)) {
 
             // writeLog("本地文件字符集编码与表单提交编码不一致，请务必设置成一样，属性名分别为postCharset!");
-            throw new Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
+            throw new \Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
         }
 
         $iv = null;
@@ -383,21 +398,21 @@ class AopClient
 
             if ($this->checkEmpty($apiParams['biz_content'])) {
 
-                throw new Exception(" api request Fail! The reason : encrypt request is not supperted!");
+                throw new \Exception(" api request Fail! The reason : encrypt request is not supperted!");
             }
 
             if ($this->checkEmpty($this->encryptKey) || $this->checkEmpty($this->encryptType)) {
 
-                throw new Exception(" encryptType and encryptKey must not null! ");
+                throw new \Exception(" encryptType and encryptKey must not null! ");
             }
 
             if ("AES" != $this->encryptType) {
 
-                throw new Exception("加密类型只支持AES");
+                throw new \Exception("加密类型只支持AES");
             }
 
             // 执行加密
-            $enCryptContent = encrypt($apiParams['biz_content'], $this->encryptKey);
+            $enCryptContent = AopEncrypt::encrypt($apiParams['biz_content'], $this->encryptKey);
             $apiParams['biz_content'] = $enCryptContent;
 
         }
@@ -478,7 +493,7 @@ class AopClient
         if (strcasecmp($this->fileCharset, $this->postCharset)) {
 
             // writeLog("本地文件字符集编码与表单提交编码不一致，请务必设置成一样，属性名分别为postCharset!");
-            throw new Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
+            throw new \Exception("文件编码：[" . $this->fileCharset . "] 与表单提交编码：[" . $this->postCharset . "]两者不一致!");
         }
 
         $iv = null;
@@ -534,21 +549,21 @@ class AopClient
 
             if ($this->checkEmpty($apiParams['biz_content'])) {
 
-                throw new Exception(" api request Fail! The reason : encrypt request is not supperted!");
+                throw new \Exception(" api request Fail! The reason : encrypt request is not supperted!");
             }
 
             if ($this->checkEmpty($this->encryptKey) || $this->checkEmpty($this->encryptType)) {
 
-                throw new Exception(" encryptType and encryptKey must not null! ");
+                throw new \Exception(" encryptType and encryptKey must not null! ");
             }
 
             if ("AES" != $this->encryptType) {
 
-                throw new Exception("加密类型只支持AES");
+                throw new \Exception("加密类型只支持AES");
             }
 
             // 执行加密
-            $enCryptContent = encrypt($apiParams['biz_content'], $this->encryptKey);
+            $enCryptContent = AopEncrypt::encrypt($apiParams['biz_content'], $this->encryptKey);
             $apiParams['biz_content'] = $enCryptContent;
 
         }
@@ -571,7 +586,7 @@ class AopClient
         //发起HTTP请求
         try {
             $resp = $this->curl($requestUrl, $apiParams);
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
 
             $this->logCommunicationError($sysParams["method"], $requestUrl, "HTTP_ERROR_" . $e->getCode(), $e->getMessage());
             return false;
@@ -618,7 +633,7 @@ class AopClient
         // 解密
         if (method_exists($request, "getNeedEncrypt") && $request->getNeedEncrypt()) {
 
-            if ("json" == $this->format) {
+            if ("json" == strtolower($this->format)) {
 
 
                 $resp = $this->encryptJSONSignSource($request, $resp);
@@ -742,7 +757,9 @@ class AopClient
             $res = openssl_get_publickey($pubKey);
         }
 
-        ($res) or die('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
+        if(!$res){
+            throw new \Exception('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
+        }
 
         //调用openssl内置方法验签，返回bool值
 
@@ -771,8 +788,7 @@ class AopClient
         $bizContent = $params['biz_content'];
         if ($isCheckSign) {
             if (!$this->rsaCheckV2($params, $rsaPublicKeyPem, $signType)) {
-                echo "<br/>checkSign failure<br/>";
-                exit;
+                throw new \Exception('checkSign failure');
             }
         }
         if ($isDecrypt) {
@@ -831,7 +847,9 @@ class AopClient
             $res = openssl_get_publickey($pubKey);
         }
 
-        ($res) or die('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
+        if($res){
+            throw new \Exception('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
+        }
         $blocks = $this->splitCN($data, 0, 30, $charset);
         $chrtext  = null;
         $encodes  = array();
@@ -863,7 +881,9 @@ class AopClient
             $priKey = file_get_contents($this->rsaPrivateKeyFilePath);
             $res = openssl_get_privatekey($priKey);
         }
-        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
+        if(!$res){
+            throw new \Exception('您使用的私钥格式错误，请检查RSA私钥配置');
+        }
         //转换为openssl格式密钥
         $decodes = explode(',', $data);
         $strnull = "";
@@ -908,7 +928,7 @@ class AopClient
     function parserResponseSubCode($request, $responseContent, $respObject, $format)
     {
 
-        if ("json" == $format) {
+        if ("json" == strtolower($format)) {
 
             $apiName = $request->getApiMethodName();
             $rootNodeName = str_replace(".", "_", $apiName) . $this->RESPONSE_SUFFIX;
@@ -1109,7 +1129,7 @@ class AopClient
 
             if ($signData == null || $this->checkEmpty($signData->sign) || $this->checkEmpty($signData->signSourceData)) {
 
-                throw new Exception(" check sign Fail! The reason : signData is Empty");
+                throw new \Exception(" check sign Fail! The reason : signData is Empty");
             }
 
 
@@ -1131,12 +1151,12 @@ class AopClient
                         $checkResult = $this->verify($signData->signSourceData, $signData->sign, $this->alipayPublicKey, $this->signType);
 
                         if (!$checkResult) {
-                            throw new Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
+                            throw new \Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
                         }
 
                     } else {
 
-                        throw new Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
+                        throw new \Exception("check sign Fail! [sign=" . $signData->sign . ", signSourceData=" . $signData->signSourceData . "]");
                     }
 
                 }
@@ -1165,7 +1185,7 @@ class AopClient
         $bodyIndexContent = substr($responseContent, 0, $parsetItem->startIndex);
         $bodyEndContent = substr($responseContent, $parsetItem->endIndex, strlen($responseContent) + 1 - $parsetItem->endIndex);
 
-        $bizContent = decrypt($parsetItem->encryptContent, $this->encryptKey);
+        $bizContent = AopEncrypt::decrypt($parsetItem->encryptContent, $this->encryptKey);
         return $bodyIndexContent . $bizContent . $bodyEndContent;
 
     }
@@ -1232,7 +1252,7 @@ class AopClient
 
         $bodyIndexContent = substr($responseContent, 0, $parsetItem->startIndex);
         $bodyEndContent = substr($responseContent, $parsetItem->endIndex, strlen($responseContent) + 1 - $parsetItem->endIndex);
-        $bizContent = decrypt($parsetItem->encryptContent, $this->encryptKey);
+        $bizContent = AopEncrypt::decrypt($parsetItem->encryptContent, $this->encryptKey);
 
         return $bodyIndexContent . $bizContent . $bodyEndContent;
 

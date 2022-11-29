@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoice.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-08-05 14:55:22
+ * @since 1.0, 2021-12-08 21:25:39
  */
 class AlipayBossFncGfsettleprodInvoiceCancelRequest
 {

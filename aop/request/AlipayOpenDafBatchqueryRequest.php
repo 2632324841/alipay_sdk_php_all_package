@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.daf.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-02-28 20:45:05
+ * @since 1.0, 2021-12-08 23:48:04
  */
 class AlipayOpenDafBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.data.customreport.delete request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 10:33:26
+ * @since 1.0, 2022-06-27 11:16:51
  */
 class KoubeiMarketingDataCustomreportDeleteRequest
 {

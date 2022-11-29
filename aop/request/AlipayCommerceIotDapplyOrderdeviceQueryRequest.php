@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.dapply.orderdevice.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-07 14:27:15
+ * @since 1.0, 2021-12-21 11:24:53
  */
 class AlipayCommerceIotDapplyOrderdeviceQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.auth.operator.password.modify request
  *
  * @author auto create
- * @since 1.0, 2020-09-28 10:23:44
+ * @since 1.0, 2022-10-27 17:38:28
  */
 class AlipayOpenAuthOperatorPasswordModifyRequest
 {

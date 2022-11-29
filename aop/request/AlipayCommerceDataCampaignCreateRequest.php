@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.data.campaign.create request
  *
  * @author auto create
- * @since 1.0, 2021-01-07 16:35:15
+ * @since 1.0, 2022-09-23 14:29:12
  */
 class AlipayCommerceDataCampaignCreateRequest
 {

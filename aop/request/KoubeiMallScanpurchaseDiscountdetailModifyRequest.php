@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.mall.scanpurchase.discountdetail.modify request
  *
  * @author auto create
- * @since 1.0, 2019-01-31 16:18:55
+ * @since 1.0, 2022-06-02 11:05:44
  */
 class KoubeiMallScanpurchaseDiscountdetailModifyRequest
 {

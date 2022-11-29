@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.medical.instcard.createandpay request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:06
+ * @since 1.0, 2022-03-14 10:24:43
  */
 class AlipayCommerceMedicalInstcardCreateandpayRequest
 {

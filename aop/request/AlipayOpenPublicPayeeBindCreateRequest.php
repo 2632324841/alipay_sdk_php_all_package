@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.payee.bind.create request
  *
  * @author auto create
- * @since 1.0, 2021-03-26 15:04:05
+ * @since 1.0, 2021-12-09 00:31:59
  */
 class AlipayOpenPublicPayeeBindCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.certification.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-08-25 10:04:33
+ * @since 1.0, 2022-11-07 19:31:37
  */
 class ZhimaCreditEpCertificationInitializeRequest
 {

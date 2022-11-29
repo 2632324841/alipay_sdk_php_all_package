@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.funditem.get request
  *
  * @author auto create
- * @since 1.0, 2021-04-26 21:38:20
+ * @since 1.0, 2022-05-24 11:18:43
  */
 class AlipayUserFunditemGetRequest
 {

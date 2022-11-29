@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certify.customer.relativenum.apply request
  *
  * @author auto create
- * @since 1.0, 2021-03-18 16:47:33
+ * @since 1.0, 2022-11-08 15:19:05
  */
 class AlipayUserCertifyCustomerRelativenumApplyRequest
 {

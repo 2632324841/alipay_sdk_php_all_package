@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.morpho.app.offline request
  *
  * @author auto create
- * @since 1.0, 2020-08-20 19:53:10
+ * @since 1.0, 2021-12-09 00:12:14
  */
 class AlipayOpenMiniMorphoAppOfflineRequest
 {

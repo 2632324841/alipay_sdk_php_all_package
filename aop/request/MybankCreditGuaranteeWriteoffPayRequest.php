@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.guarantee.writeoff.pay request
  *
  * @author auto create
- * @since 1.0, 2019-06-17 20:48:11
+ * @since 1.0, 2022-02-15 15:24:06
  */
 class MybankCreditGuaranteeWriteoffPayRequest
 {

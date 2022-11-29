@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.edu.kt.zftschool.modify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:21
+ * @since 1.0, 2022-09-05 20:43:11
  */
 class AlipayEcoEduKtZftschoolModifyRequest
 {

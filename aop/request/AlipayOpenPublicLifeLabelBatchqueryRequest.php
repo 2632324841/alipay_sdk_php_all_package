@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.life.label.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 10:45:31
+ * @since 1.0, 2021-12-09 00:28:08
  */
 class AlipayOpenPublicLifeLabelBatchqueryRequest
 {

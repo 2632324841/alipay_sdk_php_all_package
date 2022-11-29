@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.data.indicator.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 11:07:33
+ * @since 1.0, 2022-09-06 14:05:43
  */
 class KoubeiMarketingDataIndicatorQueryRequest
 {

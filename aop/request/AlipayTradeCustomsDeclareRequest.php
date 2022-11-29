@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.customs.declare request
  *
  * @author auto create
- * @since 1.0, 2021-08-10 17:45:43
+ * @since 1.0, 2022-11-23 11:11:38
  */
 class AlipayTradeCustomsDeclareRequest
 {

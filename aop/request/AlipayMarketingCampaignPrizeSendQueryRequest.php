@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.prize.send.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:39:11
+ * @since 1.0, 2022-11-08 14:29:23
  */
 class AlipayMarketingCampaignPrizeSendQueryRequest
 {

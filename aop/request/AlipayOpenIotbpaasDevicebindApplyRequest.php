@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotbpaas.devicebind.apply request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 18:45:58
+ * @since 1.0, 2022-10-10 11:05:23
  */
 class AlipayOpenIotbpaasDevicebindApplyRequest
 {

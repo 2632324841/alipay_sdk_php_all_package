@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.ordervoucher.refund request
  *
  * @author auto create
- * @since 1.0, 2021-05-13 17:27:36
+ * @since 1.0, 2022-08-19 12:58:45
  */
 class AlipayMarketingActivityOrdervoucherRefundRequest
 {

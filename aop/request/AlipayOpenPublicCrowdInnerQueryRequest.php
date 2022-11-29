@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.crowd.inner.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-25 16:30:27
+ * @since 1.0, 2022-06-01 15:29:59
  */
 class AlipayOpenPublicCrowdInnerQueryRequest
 {

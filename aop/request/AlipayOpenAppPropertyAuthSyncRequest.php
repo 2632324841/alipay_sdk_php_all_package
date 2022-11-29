@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.property.auth.sync request
  *
  * @author auto create
- * @since 1.0, 2019-03-20 15:25:00
+ * @since 1.0, 2021-12-08 23:39:06
  */
 class AlipayOpenAppPropertyAuthSyncRequest
 {

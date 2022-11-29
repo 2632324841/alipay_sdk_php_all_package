@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.air.callcenter.trade.apply request
  *
  * @author auto create
- * @since 1.0, 2020-03-03 12:10:07
+ * @since 1.0, 2021-12-08 21:28:40
  */
 class AlipayCommerceAirCallcenterTradeApplyRequest
 {

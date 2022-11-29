@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.voucher.delete request
  *
  * @author auto create
- * @since 1.0, 2019-12-09 11:11:01
+ * @since 1.0, 2022-11-13 19:46:34
  */
 class AlipayMarketingVoucherDeleteRequest
 {

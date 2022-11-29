@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.dtbankcust.activityorder.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-09 11:45:48
+ * @since 1.0, 2022-11-18 16:01:39
  */
 class AlipayUserDtbankcustActivityorderQueryRequest
 {

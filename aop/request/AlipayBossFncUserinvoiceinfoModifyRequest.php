@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.userinvoiceinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:47
+ * @since 1.0, 2022-07-15 14:09:28
  */
 class AlipayBossFncUserinvoiceinfoModifyRequest
 {

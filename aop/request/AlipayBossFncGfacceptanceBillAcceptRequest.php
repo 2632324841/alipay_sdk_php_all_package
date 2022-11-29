@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfacceptance.bill.accept request
  *
  * @author auto create
- * @since 1.0, 2021-07-06 16:35:45
+ * @since 1.0, 2022-11-08 14:40:09
  */
 class AlipayBossFncGfacceptanceBillAcceptRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.batch.refund request
  *
  * @author auto create
- * @since 1.0, 2019-06-04 15:13:43
+ * @since 1.0, 2022-05-09 12:19:29
  */
 class AlipayTradeBatchRefundRequest
 {

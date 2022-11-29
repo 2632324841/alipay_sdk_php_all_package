@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.data.hotel.service.sync request
  *
  * @author auto create
- * @since 1.0, 2021-08-10 19:27:39
+ * @since 1.0, 2022-04-22 10:31:40
  */
 class AlipayCommerceDataHotelServiceSyncRequest
 {

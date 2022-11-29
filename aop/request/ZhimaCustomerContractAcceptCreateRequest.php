@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.contract.accept.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:44
+ * @since 1.0, 2022-11-16 15:41:35
  */
 class ZhimaCustomerContractAcceptCreateRequest
 {

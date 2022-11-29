@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2021-01-04 10:43:30
+ * @since 1.0, 2021-12-08 22:54:03
  */
 class AlipayEcoMycarTradeRefundRequest
 {

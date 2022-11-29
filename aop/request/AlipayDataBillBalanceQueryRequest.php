@@ -4,10 +4,14 @@ namespace aop\request;
  * ALIPAY API: alipay.data.bill.balance.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-11 10:58:22
+ * @since 1.0, 2022-05-23 12:01:40
  */
 class AlipayDataBillBalanceQueryRequest
 {
+	/** 
+	 * 支付宝商家账户当前余额查询
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -19,6 +23,17 @@ class AlipayDataBillBalanceQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.data.bill.balance.query";

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.relationship.modify request
  *
  * @author auto create
- * @since 1.0, 2021-07-29 14:46:26
+ * @since 1.0, 2021-12-08 22:05:38
  */
 class AlipayEbppCommunityRelationshipModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.members.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-13 15:50:56
+ * @since 1.0, 2022-11-06 22:57:15
  */
 class AlipayOpenAppMembersQueryRequest
 {

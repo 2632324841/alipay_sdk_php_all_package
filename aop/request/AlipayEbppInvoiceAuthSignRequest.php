@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.auth.sign request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:14
+ * @since 1.0, 2022-11-19 16:51:33
  */
 class AlipayEbppInvoiceAuthSignRequest
 {

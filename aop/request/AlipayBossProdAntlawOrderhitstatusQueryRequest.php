@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.antlaw.orderhitstatus.query request
  *
  * @author auto create
- * @since 1.0, 2020-11-04 15:24:41
+ * @since 1.0, 2022-07-28 20:13:37
  */
 class AlipayBossProdAntlawOrderhitstatusQueryRequest
 {

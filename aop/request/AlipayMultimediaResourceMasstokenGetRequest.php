@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.multimedia.resource.masstoken.get request
  *
  * @author auto create
- * @since 1.0, 2020-05-06 14:15:09
+ * @since 1.0, 2021-12-08 23:30:24
  */
 class AlipayMultimediaResourceMasstokenGetRequest
 {

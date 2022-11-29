@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.polymer.sync.send request
  *
  * @author auto create
- * @since 1.0, 2020-05-12 10:18:59
+ * @since 1.0, 2021-12-08 22:40:04
  */
 class AlipayEcoCityservicePolymerSyncSendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.payment.trade.business.order.refund request
  *
  * @author auto create
- * @since 1.0, 2021-09-02 17:32:42
+ * @since 1.0, 2022-02-09 14:41:48
  */
 class MybankPaymentTradeBusinessOrderRefundRequest
 {

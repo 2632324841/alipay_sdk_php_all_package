@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.antbudget.return request
  *
  * @author auto create
- * @since 1.0, 2020-09-25 15:34:20
+ * @since 1.0, 2022-07-15 19:36:45
  */
 class AlipayBossFncAntbudgetReturnRequest
 {

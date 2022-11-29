@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.intelligentize.singletripduration.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-07 19:52:31
+ * @since 1.0, 2022-11-03 14:43:55
  */
 class AlipayCommerceTransportIntelligentizeSingletripdurationQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.servindustry.leads.record.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-31 17:35:27
+ * @since 1.0, 2022-04-27 17:07:00
  */
 class KoubeiServindustryLeadsRecordBatchqueryRequest
 {

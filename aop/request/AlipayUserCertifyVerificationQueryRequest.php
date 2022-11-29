@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certify.verification.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-15 19:50:17
+ * @since 1.0, 2022-04-16 18:10:19
  */
 class AlipayUserCertifyVerificationQueryRequest
 {

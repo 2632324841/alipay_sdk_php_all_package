@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.codec.acode.cert.expire request
  *
  * @author auto create
- * @since 1.0, 2019-11-27 17:34:02
+ * @since 1.0, 2022-06-20 18:42:06
  */
 class AlipayPayCodecAcodeCertExpireRequest
 {

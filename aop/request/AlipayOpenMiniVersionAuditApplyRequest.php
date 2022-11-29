@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.version.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-27 11:45:22
+ * @since 1.0, 2022-11-07 17:06:45
  */
 class AlipayOpenMiniVersionAuditApplyRequest
 {
@@ -26,7 +26,7 @@ class AlipayOpenMiniVersionAuditApplyRequest
 	private $appEnglishName;
 	
 	/** 
-	 * 小程序logo图标，图片格式仅支持 jpeg,png,jpg,PNG,JPG ,JPEG格式，不支持 bmp,gif,BMP,GIF格式。建议上传像素为180*180 px，logo图片最大 256KB，图片高度与宽度必须一致。
+	 * 小程序logo图标，图片格式仅支持 jpeg,png,jpg,PNG,JPG ,JPEG格式，不支持 bmp,gif,BMP,GIF格式。建议上传像素为180*180 px，logo图片最大 2M，图片高度与宽度必须一致。
 如果不填默认采用当前小程序 logo 图标。
 	 **/
 	private $appLogo;
@@ -47,6 +47,19 @@ class AlipayOpenMiniVersionAuditApplyRequest
 	 * 小程序版本号，请选择开发版本执行提交审核操作。
 	 **/
 	private $appVersion;
+	
+	/** 
+	 * 审核类型：
+NONE： 不拆分准入、营销（默认）
+BASE_PROMOTE：准入、营销拆分审核
+	 **/
+	private $auditRule;
+	
+	/** 
+	 * 审核通过后是否自动上架，
+自动上架：true；不自动上架（默认）：false
+	 **/
+	private $autoOnline;
 	
 	/** 
 	 * 小程序投放的端参数。例如投放到支付宝钱包是支付宝端。默认支付宝端。支持：
@@ -184,6 +197,13 @@ LOCATION-指定区域
 	private $serviceRegionInfo;
 	
 	/** 
+	 * 如果有绿通权益，是否使用绿通权益加速审核：
+加速（默认）：true
+不加速：false
+	 **/
+	private $speedUp;
+	
+	/** 
 	 * 测试账号，是否需要填写请参见https://opendocs.alipay.com/mini/operation/standard/case/akxg6r#3.%20%E6%B5%8B%E8%AF%95%E5%86%85%E5%AE%B9%E6%8F%90%E4%BA%A4%E4%B8%8D%E5%AE%8C%E6%95%B4
 	 **/
 	private $testAccout;
@@ -307,6 +327,28 @@ LOCATION-指定区域
 	public function getAppVersion()
 	{
 		return $this->appVersion;
+	}
+
+	public function setAuditRule($auditRule)
+	{
+		$this->auditRule = $auditRule;
+		$this->apiParas["audit_rule"] = $auditRule;
+	}
+
+	public function getAuditRule()
+	{
+		return $this->auditRule;
+	}
+
+	public function setAutoOnline($autoOnline)
+	{
+		$this->autoOnline = $autoOnline;
+		$this->apiParas["auto_online"] = $autoOnline;
+	}
+
+	public function getAutoOnline()
+	{
+		return $this->autoOnline;
 	}
 
 	public function setBundleId($bundleId)
@@ -538,6 +580,17 @@ LOCATION-指定区域
 	public function getServiceRegionInfo()
 	{
 		return $this->serviceRegionInfo;
+	}
+
+	public function setSpeedUp($speedUp)
+	{
+		$this->speedUp = $speedUp;
+		$this->apiParas["speed_up"] = $speedUp;
+	}
+
+	public function getSpeedUp()
+	{
+		return $this->speedUp;
 	}
 
 	public function setTestAccout($testAccout)

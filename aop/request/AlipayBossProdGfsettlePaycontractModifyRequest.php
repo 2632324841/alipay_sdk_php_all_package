@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.gfsettle.paycontract.modify request
  *
  * @author auto create
- * @since 1.0, 2021-01-29 15:40:42
+ * @since 1.0, 2022-10-28 11:46:51
  */
 class AlipayBossProdGfsettlePaycontractModifyRequest
 {

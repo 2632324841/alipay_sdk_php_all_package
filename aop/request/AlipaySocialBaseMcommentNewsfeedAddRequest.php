@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.mcomment.newsfeed.add request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-08-26 14:21:45
  */
 class AlipaySocialBaseMcommentNewsfeedAddRequest
 {

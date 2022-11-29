@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.life.msg.recall request
  *
  * @author auto create
- * @since 1.0, 2021-03-26 15:14:22
+ * @since 1.0, 2022-10-12 17:25:45
  */
 class AlipayOpenPublicLifeMsgRecallRequest
 {

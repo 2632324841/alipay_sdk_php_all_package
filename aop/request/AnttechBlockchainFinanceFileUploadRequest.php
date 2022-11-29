@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.finance.file.upload request
  *
  * @author auto create
- * @since 1.0, 2020-01-14 15:14:19
+ * @since 1.0, 2022-11-07 17:37:25
  */
 class AnttechBlockchainFinanceFileUploadRequest
 {

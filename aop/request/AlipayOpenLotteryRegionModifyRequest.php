@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.lottery.region.modify request
  *
  * @author auto create
- * @since 1.0, 2020-01-07 19:36:42
+ * @since 1.0, 2021-12-08 23:53:09
  */
 class AlipayOpenLotteryRegionModifyRequest
 {

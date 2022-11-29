@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.shopcode.apply request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 18:48:01
+ * @since 1.0, 2022-10-17 11:12:21
  */
 class AlipayCommerceIotShopcodeApplyRequest
 {

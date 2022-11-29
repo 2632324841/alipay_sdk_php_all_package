@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.bcgroup.joined.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-19 14:30:24
+ * @since 1.0, 2022-11-04 18:12:57
  */
 class AlipaySocialBaseBcgroupJoinedConsultRequest
 {

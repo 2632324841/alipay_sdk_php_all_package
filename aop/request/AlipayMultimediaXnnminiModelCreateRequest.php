@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.multimedia.xnnmini.model.create request
  *
  * @author auto create
- * @since 1.0, 2020-11-19 16:07:27
+ * @since 1.0, 2022-11-03 21:46:34
  */
 class AlipayMultimediaXnnminiModelCreateRequest
 {

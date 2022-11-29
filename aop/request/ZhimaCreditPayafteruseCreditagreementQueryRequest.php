@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.payafteruse.creditagreement.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-08 17:13:34
+ * @since 1.0, 2022-07-27 18:01:39
  */
 class ZhimaCreditPayafteruseCreditagreementQueryRequest
 {

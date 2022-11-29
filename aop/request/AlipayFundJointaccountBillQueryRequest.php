@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.jointaccount.bill.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-18 10:44:36
+ * @since 1.0, 2022-11-21 14:47:28
  */
 class AlipayFundJointaccountBillQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.contract.borrow.delay request
  *
  * @author auto create
- * @since 1.0, 2021-07-30 14:35:22
+ * @since 1.0, 2022-11-03 11:49:35
  */
 class ZhimaCreditContractBorrowDelayRequest
 {

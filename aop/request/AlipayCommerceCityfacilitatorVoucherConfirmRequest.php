@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.confirm request
  *
  * @author auto create
- * @since 1.0, 2019-10-10 16:30:39
+ * @since 1.0, 2022-10-28 15:25:41
  */
 class AlipayCommerceCityfacilitatorVoucherConfirmRequest
 {

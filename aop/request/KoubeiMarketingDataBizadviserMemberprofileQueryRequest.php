@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.data.bizadviser.memberprofile.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-24 14:21:25
+ * @since 1.0, 2022-11-22 14:57:45
  */
 class KoubeiMarketingDataBizadviserMemberprofileQueryRequest
 {

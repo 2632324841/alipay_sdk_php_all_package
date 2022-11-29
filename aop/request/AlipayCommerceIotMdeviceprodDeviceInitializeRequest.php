@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.mdeviceprod.device.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:38
+ * @since 1.0, 2022-05-31 19:30:33
  */
 class AlipayCommerceIotMdeviceprodDeviceInitializeRequest
 {

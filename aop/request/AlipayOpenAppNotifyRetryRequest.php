@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.notify.retry request
  *
  * @author auto create
- * @since 1.0, 2021-08-18 17:57:37
+ * @since 1.0, 2022-05-26 21:33:22
  */
 class AlipayOpenAppNotifyRetryRequest
 {

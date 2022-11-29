@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.kids.msg.scene.send request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 15:19:34
+ * @since 1.0, 2022-10-21 17:30:08
  */
 class AlipayCommerceKidsMsgSceneSendRequest
 {

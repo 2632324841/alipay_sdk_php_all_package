@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.merchant.department.detail.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-06 14:55:02
+ * @since 1.0, 2022-06-17 16:41:47
  */
 class KoubeiMerchantDepartmentDetailQueryRequest
 {

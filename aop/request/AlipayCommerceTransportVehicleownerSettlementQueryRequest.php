@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.vehicleowner.settlement.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-10 20:40:22
+ * @since 1.0, 2022-10-17 16:05:40
  */
 class AlipayCommerceTransportVehicleownerSettlementQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.templatemessage.usertemplate.apply request
  *
  * @author auto create
- * @since 1.0, 2021-01-06 19:44:08
+ * @since 1.0, 2021-09-13 20:58:22
  */
 class AlipayOpenMiniTemplatemessageUsertemplateApplyRequest
 {

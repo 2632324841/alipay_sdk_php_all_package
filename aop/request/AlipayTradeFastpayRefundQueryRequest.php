@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.fastpay.refund.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-26 20:16:27
+ * @since 1.0, 2022-11-21 20:06:37
  */
 class AlipayTradeFastpayRefundQueryRequest
 {

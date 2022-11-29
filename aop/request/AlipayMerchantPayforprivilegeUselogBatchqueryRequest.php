@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.payforprivilege.uselog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-18 10:15:21
+ * @since 1.0, 2022-11-01 16:16:51
  */
 class AlipayMerchantPayforprivilegeUselogBatchqueryRequest
 {

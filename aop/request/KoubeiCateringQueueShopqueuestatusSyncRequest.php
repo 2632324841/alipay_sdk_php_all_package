@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.queue.shopqueuestatus.sync request
  *
  * @author auto create
- * @since 1.0, 2021-04-22 11:22:47
+ * @since 1.0, 2021-12-21 22:22:48
  */
 class KoubeiCateringQueueShopqueuestatusSyncRequest
 {

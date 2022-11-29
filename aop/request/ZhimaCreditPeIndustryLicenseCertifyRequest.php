@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.industry.license.certify request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 10:52:40
+ * @since 1.0, 2022-11-09 16:31:34
  */
 class ZhimaCreditPeIndustryLicenseCertifyRequest
 {

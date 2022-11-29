@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.merchant.operator.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2021-05-06 14:57:49
+ * @since 1.0, 2022-06-17 16:44:48
  */
 class KoubeiMerchantOperatorUnfreezeRequest
 {

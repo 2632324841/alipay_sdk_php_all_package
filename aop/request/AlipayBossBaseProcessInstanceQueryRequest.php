@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.base.process.instance.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-26 10:03:09
+ * @since 1.0, 2022-10-18 19:27:36
  */
 class AlipayBossBaseProcessInstanceQueryRequest
 {

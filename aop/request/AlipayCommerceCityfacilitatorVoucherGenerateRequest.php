@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.generate request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 11:19:26
+ * @since 1.0, 2022-10-12 19:59:33
  */
 class AlipayCommerceCityfacilitatorVoucherGenerateRequest
 {

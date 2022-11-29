@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.itask.merchant.record.sync request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:59
+ * @since 1.0, 2022-08-01 09:56:34
  */
 class AlipayIserviceItaskMerchantRecordSyncRequest
 {

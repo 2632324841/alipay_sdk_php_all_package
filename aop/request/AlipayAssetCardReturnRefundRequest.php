@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.card.return.refund request
  *
  * @author auto create
- * @since 1.0, 2020-04-20 13:32:38
+ * @since 1.0, 2022-11-04 10:15:50
  */
 class AlipayAssetCardReturnRefundRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.appcontent.function.offline request
  *
  * @author auto create
- * @since 1.0, 2021-03-29 15:45:30
+ * @since 1.0, 2021-09-13 20:57:36
  */
 class AlipayOpenAppAppcontentFunctionOfflineRequest
 {

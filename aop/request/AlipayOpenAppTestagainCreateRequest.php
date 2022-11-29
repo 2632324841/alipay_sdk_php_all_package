@@ -4,10 +4,14 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.testagain.create request
  *
  * @author auto create
- * @since 1.0, 2020-12-04 20:23:29
+ * @since 1.0, 2022-11-20 14:39:25
  */
 class AlipayOpenAppTestagainCreateRequest
 {
+	/** 
+	 * 测试openapi
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -19,6 +23,17 @@ class AlipayOpenAppTestagainCreateRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.open.app.testagain.create";

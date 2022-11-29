@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.facetoface.twostage.use request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 15:42:37
+ * @since 1.0, 2022-11-22 20:11:36
  */
 class AlipayMarketingFacetofaceTwostageUseRequest
 {

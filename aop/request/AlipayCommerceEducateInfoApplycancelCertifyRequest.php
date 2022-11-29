@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.info.applycancel.certify request
  *
  * @author auto create
- * @since 1.0, 2021-04-20 16:15:17
+ * @since 1.0, 2021-12-08 21:34:31
  */
 class AlipayCommerceEducateInfoApplycancelCertifyRequest
 {

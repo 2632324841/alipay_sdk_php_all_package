@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.payment.trade.business.order.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-03 10:07:02
+ * @since 1.0, 2022-02-09 14:41:47
  */
 class MybankPaymentTradeBusinessOrderCreateRequest
 {

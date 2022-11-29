@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.message.dynamicicondata.modify request
  *
  * @author auto create
- * @since 1.0, 2021-03-25 13:47:34
+ * @since 1.0, 2022-10-12 16:01:50
  */
 class AlipaySocialBaseMessageDynamicicondataModifyRequest
 {

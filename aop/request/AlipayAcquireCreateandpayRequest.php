@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.acquire.createandpay request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:56
+ * @since 1.0, 2022-11-21 11:20:03
  */
 class AlipayAcquireCreateandpayRequest
 {

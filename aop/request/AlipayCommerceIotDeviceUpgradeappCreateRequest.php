@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.upgradeapp.create request
  *
  * @author auto create
- * @since 1.0, 2021-01-29 11:12:29
+ * @since 1.0, 2021-12-08 21:43:36
  */
 class AlipayCommerceIotDeviceUpgradeappCreateRequest
 {

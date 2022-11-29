@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.miniapp.brand.cancel request
  *
  * @author auto create
- * @since 1.0, 2020-12-24 12:45:18
+ * @since 1.0, 2021-12-09 00:11:08
  */
 class AlipayOpenMiniMiniappBrandCancelRequest
 {

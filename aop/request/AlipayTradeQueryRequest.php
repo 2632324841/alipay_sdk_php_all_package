@@ -4,13 +4,13 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-08 10:05:42
+ * @since 1.0, 2022-11-23 00:21:34
  */
 class AlipayTradeQueryRequest
 {
 	/** 
 	 * 统一收单线下交易查询
-修改路由策略到R
+	 * 修改路由策略到R
 	 **/
 	private $bizContent;
 

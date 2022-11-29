@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.data.dishdiagnose.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 10:07:38
+ * @since 1.0, 2022-11-22 14:57:31
  */
 class KoubeiMarketingDataDishdiagnoseBatchqueryRequest
 {

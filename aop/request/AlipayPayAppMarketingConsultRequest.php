@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.app.marketing.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 21:15:23
+ * @since 1.0, 2022-11-14 10:23:24
  */
 class AlipayPayAppMarketingConsultRequest
 {

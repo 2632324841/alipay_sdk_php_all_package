@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.batch.uni.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-08-06 16:35:22
+ * @since 1.0, 2022-09-06 22:15:42
  */
 class AlipayFundBatchUniTransferRequest
 {

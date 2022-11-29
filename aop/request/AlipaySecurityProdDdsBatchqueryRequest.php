@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.dds.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-02-07 17:22:46
+ * @since 1.0, 2021-11-05 15:12:43
  */
 class AlipaySecurityProdDdsBatchqueryRequest
 {

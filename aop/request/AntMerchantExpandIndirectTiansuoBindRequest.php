@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.indirect.tiansuo.bind request
  *
  * @author auto create
- * @since 1.0, 2021-06-17 10:40:43
+ * @since 1.0, 2022-04-20 17:51:34
  */
 class AntMerchantExpandIndirectTiansuoBindRequest
 {

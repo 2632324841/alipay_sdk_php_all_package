@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.logistics.invoice.istdwaybill.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-31 13:47:32
+ * @since 1.0, 2022-05-31 16:13:55
  */
 class AlipayCommerceLogisticsInvoiceIstdwaybillQueryRequest
 {

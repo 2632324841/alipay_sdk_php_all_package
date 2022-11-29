@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.vehicle.servicenotify.send request
  *
  * @author auto create
- * @since 1.0, 2021-09-02 21:57:42
+ * @since 1.0, 2022-11-18 21:31:36
  */
 class AlipayEcoMycarVehicleServicenotifySendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.payforprivilege.cardbinactivity.delete request
  *
  * @author auto create
- * @since 1.0, 2021-04-16 16:20:17
+ * @since 1.0, 2021-09-10 14:50:55
  */
 class AlipayMerchantPayforprivilegeCardbinactivityDeleteRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.offlinepay.key.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-07 19:57:27
+ * @since 1.0, 2022-08-18 17:30:40
  */
 class AlipayCommerceTransportOfflinepayKeyQueryRequest
 {

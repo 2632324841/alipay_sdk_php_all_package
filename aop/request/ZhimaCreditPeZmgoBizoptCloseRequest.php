@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.zmgo.bizopt.close request
  *
  * @author auto create
- * @since 1.0, 2021-02-24 19:05:15
+ * @since 1.0, 2022-11-15 21:29:18
  */
 class ZhimaCreditPeZmgoBizoptCloseRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.veh.order.refund request
  *
  * @author auto create
- * @since 1.0, 2021-06-05 22:16:25
+ * @since 1.0, 2022-11-16 15:06:57
  */
 class AlipayCommerceTransportVehOrderRefundRequest
 {

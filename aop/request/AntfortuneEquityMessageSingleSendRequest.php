@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.equity.message.single.send request
  *
  * @author auto create
- * @since 1.0, 2020-09-03 11:00:12
+ * @since 1.0, 2022-03-08 15:15:03
  */
 class AntfortuneEquityMessageSingleSendRequest
 {

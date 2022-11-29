@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.benefit.edit request
  *
  * @author auto create
- * @since 1.0, 2020-08-17 21:21:10
+ * @since 1.0, 2021-12-21 21:55:05
  */
 class AlipayUserBenefitEditRequest
 {

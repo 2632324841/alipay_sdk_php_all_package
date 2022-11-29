@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.eprint.printer.delete request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:54:16
+ * @since 1.0, 2021-12-08 22:45:12
  */
 class AlipayEcoEprintPrinterDeleteRequest
 {

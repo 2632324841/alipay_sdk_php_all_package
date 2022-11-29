@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.alipaypoint.budgetlib.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-28 13:05:21
+ * @since 1.0, 2022-09-22 19:13:04
  */
 class AlipayUserAlipaypointBudgetlibQueryRequest
 {

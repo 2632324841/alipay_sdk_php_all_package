@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.parking.paymentinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-08-26 20:10:29
+ * @since 1.0, 2022-06-23 11:46:43
  */
 class AlipayEcoMycarParkingPaymentinfoSyncRequest
 {

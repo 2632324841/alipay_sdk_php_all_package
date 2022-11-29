@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.common.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-14 13:43:17
+ * @since 1.0, 2022-04-12 15:49:59
  */
 class AlipayFundTransCommonQueryRequest
 {

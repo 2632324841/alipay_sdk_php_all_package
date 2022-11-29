@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.instantdelivery.merchantshopstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2020-09-26 20:20:13
+ * @since 1.0, 2022-09-14 20:28:58
  */
 class AlipayOpenInstantdeliveryMerchantshopstatusModifyRequest
 {

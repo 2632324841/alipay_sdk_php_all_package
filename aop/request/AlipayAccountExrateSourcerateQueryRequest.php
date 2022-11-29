@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.account.exrate.sourcerate.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-08 00:55:01
+ * @since 1.0, 2021-11-25 11:51:04
  */
 class AlipayAccountExrateSourcerateQueryRequest
 {

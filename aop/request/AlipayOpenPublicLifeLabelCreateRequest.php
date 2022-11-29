@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.life.label.create request
  *
  * @author auto create
- * @since 1.0, 2021-05-27 16:32:48
+ * @since 1.0, 2021-09-13 20:59:43
  */
 class AlipayOpenPublicLifeLabelCreateRequest
 {
