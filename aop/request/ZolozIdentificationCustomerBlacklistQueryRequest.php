@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.identification.customer.blacklist.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:45
+ * @since 1.0, 2023-05-31 00:13:37
  */
 class ZolozIdentificationCustomerBlacklistQueryRequest
 {

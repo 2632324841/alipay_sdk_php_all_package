@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.data.dashboard.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-09-03 22:58:15
  */
 class AlipayMarketingDataDashboardQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.mall.scanpurchase.traderesult.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:06:02
+ * @since 1.0, 2023-08-24 21:33:03
  */
 class KoubeiMallScanpurchaseTraderesultQueryRequest
 {

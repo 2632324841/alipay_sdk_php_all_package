@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.loanscheme.full.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 17:22:56
+ * @since 1.0, 2023-03-23 20:11:40
  */
 class MybankCreditLoantradeLoanschemeFullQueryRequest
 {

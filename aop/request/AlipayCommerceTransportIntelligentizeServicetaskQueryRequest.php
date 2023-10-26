@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.intelligentize.servicetask.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:44:59
+ * @since 1.0, 2023-08-23 20:38:45
  */
 class AlipayCommerceTransportIntelligentizeServicetaskQueryRequest
 {

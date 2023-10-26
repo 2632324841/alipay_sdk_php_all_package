@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.data.scenic.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:58
+ * @since 1.0, 2023-09-04 00:11:04
  */
 class AlipayCommerceDataScenicQueryRequest
 {

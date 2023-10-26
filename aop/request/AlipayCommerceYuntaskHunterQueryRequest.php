@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.yuntask.hunter.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 15:07:14
+ * @since 1.0, 2023-08-21 05:46:39
  */
 class AlipayCommerceYuntaskHunterQueryRequest
 {

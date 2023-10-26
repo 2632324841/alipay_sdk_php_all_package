@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.title.fuzzy.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-24 15:31:50
+ * @since 1.0, 2023-08-23 19:41:05
  */
 class AlipayEbppInvoiceTitleFuzzyQueryRequest
 {

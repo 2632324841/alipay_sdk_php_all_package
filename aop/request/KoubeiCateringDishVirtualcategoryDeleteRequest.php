@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.dish.virtualcategory.delete request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:33:14
+ * @since 1.0, 2023-09-04 00:37:42
  */
 class KoubeiCateringDishVirtualcategoryDeleteRequest
 {

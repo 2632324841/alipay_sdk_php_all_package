@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.sss.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 13:56:34
+ * @since 1.0, 2023-09-11 17:01:50
  */
 class AlipaySecurityProdSssQueryRequest
 {

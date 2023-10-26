@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.memberwallet.balance.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 15:16:43
+ * @since 1.0, 2023-09-04 01:18:39
  */
 class AntMerchantMemberwalletBalanceQueryRequest
 {

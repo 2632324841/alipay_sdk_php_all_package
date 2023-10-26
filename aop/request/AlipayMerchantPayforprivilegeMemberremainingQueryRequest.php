@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.payforprivilege.memberremaining.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 17:26:35
+ * @since 1.0, 2023-08-24 22:31:48
  */
 class AlipayMerchantPayforprivilegeMemberremainingQueryRequest
 {

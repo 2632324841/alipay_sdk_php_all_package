@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.buyer.credit.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-07-10 19:39:50
+ * @since 1.0, 2023-08-23 20:49:24
  */
 class AlipayTradeBuyerCreditConfirmRequest
 {

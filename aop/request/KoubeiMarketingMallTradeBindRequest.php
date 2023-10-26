@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.mall.trade.bind request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:02:21
+ * @since 1.0, 2023-08-23 20:48:21
  */
 class KoubeiMarketingMallTradeBindRequest
 {

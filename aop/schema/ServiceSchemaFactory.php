@@ -1,9 +1,8 @@
 <?php
 namespace aop\schema;
-
-use aop\schema\XMLAttribute;
-use aop\schema\AttributeRule;
-use aop\schema\Option;
+require_once 'XMLAttribute.php';
+require_once 'AttributeRule.php';
+require_once 'Option.php';
 
 class ServiceSchemaFactory
 {

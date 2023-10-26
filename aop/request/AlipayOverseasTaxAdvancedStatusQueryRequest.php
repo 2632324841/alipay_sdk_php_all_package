@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.tax.advanced.status.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 13:46:48
+ * @since 1.0, 2023-05-31 07:07:00
  */
 class AlipayOverseasTaxAdvancedStatusQueryRequest
 {

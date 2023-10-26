@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.point.refund request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 21:21:50
+ * @since 1.0, 2023-09-04 02:41:49
  */
 class AlipayUserPointRefundRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.mobile.public.contact.follow.list request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:41:06
+ * @since 1.0, 2023-09-04 01:40:27
  */
 class AlipayMobilePublicContactFollowListRequest
 {

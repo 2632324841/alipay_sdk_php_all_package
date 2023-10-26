@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.payforprivilege.pay.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 17:26:35
+ * @since 1.0, 2023-05-31 21:26:52
  */
 class AlipayMerchantPayforprivilegePayCreateRequest
 {

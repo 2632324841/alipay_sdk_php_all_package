@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certdoc.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-01 11:06:51
+ * @since 1.0, 2023-08-21 03:01:47
  */
 class AlipayUserCertdocSyncRequest
 {

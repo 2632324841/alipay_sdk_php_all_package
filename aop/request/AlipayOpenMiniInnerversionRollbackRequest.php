@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerversion.rollback request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:08:45
+ * @since 1.0, 2023-08-21 04:07:21
  */
 class AlipayOpenMiniInnerversionRollbackRequest
 {

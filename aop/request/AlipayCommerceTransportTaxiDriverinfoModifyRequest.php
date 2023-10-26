@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.taxi.driverinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:21:36
+ * @since 1.0, 2023-08-21 06:01:47
  */
 class AlipayCommerceTransportTaxiDriverinfoModifyRequest
 {

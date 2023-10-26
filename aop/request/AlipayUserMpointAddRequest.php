@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.mpoint.add request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 19:14:15
+ * @since 1.0, 2023-09-05 18:16:48
  */
 class AlipayUserMpointAddRequest
 {

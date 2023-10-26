@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.gotone.message.courier.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 13:51:37
+ * @since 1.0, 2023-08-21 01:41:48
  */
 class AlipayGotoneMessageCourierSendRequest
 {

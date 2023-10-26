@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.insserviceprod.serprogress.sync request
  *
  * @author auto create
- * @since 1.0, 2020-11-26 14:05:16
+ * @since 1.0, 2023-09-04 01:14:18
  */
 class AlipayInsSceneInsserviceprodSerprogressSyncRequest
 {

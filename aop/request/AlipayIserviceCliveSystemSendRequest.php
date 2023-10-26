@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.clive.system.send request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:47
+ * @since 1.0, 2023-10-07 15:25:45
  */
 class AlipayIserviceCliveSystemSendRequest
 {

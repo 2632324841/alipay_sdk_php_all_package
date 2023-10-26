@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.ext.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 16:46:19
+ * @since 1.0, 2023-06-25 19:47:55
  */
 class AlipayEcoCityserviceExtOrderSyncRequest
 {

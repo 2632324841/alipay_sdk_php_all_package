@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.notice.publish request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:33:36
+ * @since 1.0, 2023-05-31 00:03:37
  */
 class AlipayEbppCommunityNoticePublishRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.dataservice.cropbase.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 13:36:34
+ * @since 1.0, 2023-08-21 04:01:45
  */
 class AnttechBlockchainDefinDataserviceCropbaseBatchqueryRequest
 {

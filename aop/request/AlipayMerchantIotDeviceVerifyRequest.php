@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.iot.device.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:24:00
+ * @since 1.0, 2023-09-11 19:23:41
  */
 class AlipayMerchantIotDeviceVerifyRequest
 {

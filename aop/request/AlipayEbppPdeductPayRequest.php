@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.pdeduct.pay request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 20:21:40
+ * @since 1.0, 2023-09-11 18:04:03
  */
 class AlipayEbppPdeductPayRequest
 {

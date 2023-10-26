@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.cognitive.ocr.bankcard.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:59
+ * @since 1.0, 2023-05-30 23:12:03
  */
 class AlipayIserviceCognitiveOcrBankcardQueryRequest
 {

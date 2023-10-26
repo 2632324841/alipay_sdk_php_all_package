@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.msaas.itap.user.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 11:41:42
+ * @since 1.0, 2023-08-20 17:23:35
  */
 class AlipayMsaasItapUserConfirmRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.kds.info.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-05 15:48:56
+ * @since 1.0, 2023-09-04 01:38:44
  */
 class KoubeiCateringKdsInfoQueryRequest
 {

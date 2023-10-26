@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.account.cashpool.rulegroup.create request
  *
  * @author auto create
- * @since 1.0, 2020-07-06 11:20:40
+ * @since 1.0, 2023-05-31 03:12:19
  */
 class AlipayAccountCashpoolRulegroupCreateRequest
 {

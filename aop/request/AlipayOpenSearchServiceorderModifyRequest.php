@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.search.serviceorder.modify request
  *
  * @author auto create
- * @since 1.0, 2021-08-19 14:19:39
+ * @since 1.0, 2023-08-21 03:57:48
  */
 class AlipayOpenSearchServiceorderModifyRequest
 {

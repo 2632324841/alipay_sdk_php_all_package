@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.signature.task.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 18:14:10
+ * @since 1.0, 2023-09-04 02:15:13
  */
 class AlipaySecurityProdSignatureTaskCancelRequest
 {

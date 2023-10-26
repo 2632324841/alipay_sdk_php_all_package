@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ssdata.dataservice.risk.antifinfraud.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:44
+ * @since 1.0, 2023-05-31 01:21:28
  */
 class SsdataDataserviceRiskAntifinfraudQueryRequest
 {

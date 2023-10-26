@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.aiservice.cloudbus.historygeo.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-19 09:36:11
+ * @since 1.0, 2023-05-31 00:57:04
  */
 class AlipayDataAiserviceCloudbusHistorygeoQueryRequest
 {

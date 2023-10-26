@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.marketing.mcaplatform.level.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:51:46
+ * @since 1.0, 2023-08-21 02:13:57
  */
 class MybankMarketingMcaplatformLevelQueryRequest
 {

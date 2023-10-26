@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.wallet.depositorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-26 20:58:05
+ * @since 1.0, 2023-09-06 16:56:46
  */
 class AlipayFundWalletDepositorderCreateRequest
 {

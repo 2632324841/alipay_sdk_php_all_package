@@ -1,6 +1,7 @@
 <?php
 namespace aop\request;
 namespace aop\request;
+namespace aop\request;
 /**
  * ALIPAY API: alipay.marketing.cdp.recommend.query request
  *

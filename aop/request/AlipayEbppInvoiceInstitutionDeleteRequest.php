@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.institution.delete request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 14:29:52
+ * @since 1.0, 2023-09-11 18:46:43
  */
 class AlipayEbppInvoiceInstitutionDeleteRequest
 {

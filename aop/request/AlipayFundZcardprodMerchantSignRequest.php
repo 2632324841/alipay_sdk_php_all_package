@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.zcardprod.merchant.sign request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 01:36:48
+ * @since 1.0, 2023-09-20 13:53:45
  */
 class AlipayFundZcardprodMerchantSignRequest
 {

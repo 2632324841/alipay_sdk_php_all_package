@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.digitalop.ucdp.apeselect.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 22:07:03
+ * @since 1.0, 2023-05-29 21:07:01
  */
 class AlipayDigitalopUcdpApeselectSyncRequest
 {

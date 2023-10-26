@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.assetproduce.assign.sync request
  *
  * @author auto create
- * @since 1.0, 2021-11-19 16:03:01
+ * @since 1.0, 2023-09-04 02:06:37
  */
 class AntMerchantExpandAssetproduceAssignSyncRequest
 {

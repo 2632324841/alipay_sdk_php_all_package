@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.geofence.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:42:00
+ * @since 1.0, 2023-08-21 05:42:13
  */
 class AlipayCommerceIotDeviceGeofenceBindRequest
 {

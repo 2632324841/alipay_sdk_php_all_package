@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.order.print.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:45:46
+ * @since 1.0, 2023-08-21 02:26:59
  */
 class AlipayCommerceIotOrderPrintSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.cashvoucher.template.modify request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 09:57:48
+ * @since 1.0, 2023-09-26 11:39:29
  */
 class AlipayMarketingCashvoucherTemplateModifyRequest
 {

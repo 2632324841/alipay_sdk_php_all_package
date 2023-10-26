@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.kids.account.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:05
+ * @since 1.0, 2023-05-29 23:28:11
  */
 class AlipayCommerceKidsAccountConsultRequest
 {

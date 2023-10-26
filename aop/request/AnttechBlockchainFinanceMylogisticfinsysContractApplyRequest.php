@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.finance.mylogisticfinsys.contract.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:01
+ * @since 1.0, 2023-05-31 00:07:34
  */
 class AnttechBlockchainFinanceMylogisticfinsysContractApplyRequest
 {

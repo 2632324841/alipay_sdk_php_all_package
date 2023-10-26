@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.category.require.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-31 14:10:04
+ * @since 1.0, 2023-09-11 18:57:15
  */
 class AlipayOpenMiniCategoryRequireQueryRequest
 {

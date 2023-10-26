@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.order.refund request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 11:52:38
+ * @since 1.0, 2023-08-21 01:56:45
  */
 class AlipayMerchantOrderRefundRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.auth.ecsign.dataprepare.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 13:26:31
+ * @since 1.0, 2023-08-21 05:21:47
  */
 class AlipayFinancialnetAuthEcsignDataprepareCreateRequest
 {

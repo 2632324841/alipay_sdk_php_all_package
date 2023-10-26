@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.vehicleowner.blacklist.sync request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 10:34:16
+ * @since 1.0, 2023-08-28 16:37:33
  */
 class AlipayCommerceTransportVehicleownerBlacklistSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.aaf.adfa.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:57:17
+ * @since 1.0, 2023-05-30 19:57:19
  */
 class AlipaySecurityAafAdfaBatchqueryRequest
 {

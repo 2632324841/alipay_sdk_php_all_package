@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.yuntask.guidedcode.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 16:07:09
+ * @since 1.0, 2023-08-20 18:01:48
  */
 class AlipayCommerceYuntaskGuidedcodeQueryRequest
 {

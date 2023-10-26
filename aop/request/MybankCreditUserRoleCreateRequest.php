@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.user.role.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 15:46:49
+ * @since 1.0, 2023-01-13 14:51:37
  */
 class MybankCreditUserRoleCreateRequest
 {

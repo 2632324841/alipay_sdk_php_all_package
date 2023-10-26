@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.aiservice.cloudbus.scheduletaskod.query request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:35:15
+ * @since 1.0, 2023-05-29 20:28:51
  */
 class AlipayDataAiserviceCloudbusScheduletaskodQueryRequest
 {

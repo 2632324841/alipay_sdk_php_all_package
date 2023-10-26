@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.dataservice.logistics.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-01 10:15:31
+ * @since 1.0, 2023-08-24 21:52:48
  */
 class AnttechBlockchainDefinDataserviceLogisticsQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.auth.zhimaper.inner.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:18
+ * @since 1.0, 2023-08-21 01:33:19
  */
 class AlipayUserAuthZhimaperInnerApplyRequest
 {

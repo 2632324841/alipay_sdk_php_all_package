@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.craftsman.data.work.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:57:08
+ * @since 1.0, 2023-05-29 23:01:34
  */
 class KoubeiCraftsmanDataWorkCreateRequest
 {

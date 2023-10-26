@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.content.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 11:16:34
+ * @since 1.0, 2023-08-21 04:16:47
  */
 class AlipayCommerceOperationContentQueryRequest
 {

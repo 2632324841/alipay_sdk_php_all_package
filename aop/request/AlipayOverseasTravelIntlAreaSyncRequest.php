@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.travel.intl.area.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 18:56:34
+ * @since 1.0, 2023-05-29 22:02:05
  */
 class AlipayOverseasTravelIntlAreaSyncRequest
 {

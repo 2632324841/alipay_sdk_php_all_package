@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.service.bizabilitydata.set request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:39:53
+ * @since 1.0, 2023-09-18 13:55:27
  */
 class AlipayOpenAppServiceBizabilitydataSetRequest
 {

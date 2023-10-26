@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.ecommerce.pre.order request
  *
  * @author auto create
- * @since 1.0, 2022-10-09 12:06:54
+ * @since 1.0, 2023-08-21 03:06:46
  */
 class AlipayInsSceneEcommercePreOrderRequest
 {

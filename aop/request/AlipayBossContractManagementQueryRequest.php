@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.contract.management.query request
  *
  * @author auto create
- * @since 1.0, 2019-12-23 13:59:35
+ * @since 1.0, 2023-05-30 00:00:10
  */
 class AlipayBossContractManagementQueryRequest
 {

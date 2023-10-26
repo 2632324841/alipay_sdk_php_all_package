@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.identification.user.web.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:10
+ * @since 1.0, 2023-08-23 21:51:45
  */
 class ZolozIdentificationUserWebInitializeRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.receipt.invalid request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 16:28:16
+ * @since 1.0, 2023-05-30 23:11:49
  */
 class AlipayCommerceReceiptInvalidRequest
 {

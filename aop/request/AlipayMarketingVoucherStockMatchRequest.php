@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.voucher.stock.match request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:39:46
+ * @since 1.0, 2023-05-31 02:53:34
  */
 class AlipayMarketingVoucherStockMatchRequest
 {

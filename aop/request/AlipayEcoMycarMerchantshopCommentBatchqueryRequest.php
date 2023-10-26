@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.merchantshop.comment.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:54
+ * @since 1.0, 2023-08-24 22:54:56
  */
 class AlipayEcoMycarMerchantshopCommentBatchqueryRequest
 {

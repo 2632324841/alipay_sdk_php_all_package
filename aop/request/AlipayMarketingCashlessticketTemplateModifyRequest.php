@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.cashlessticket.template.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:20:57
+ * @since 1.0, 2023-09-26 11:40:17
  */
 class AlipayMarketingCashlessticketTemplateModifyRequest
 {

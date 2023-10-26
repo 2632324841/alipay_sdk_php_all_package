@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.ampe.mobileapp.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-07-14 10:50:54
+ * @since 1.0, 2023-05-29 22:10:30
  */
 class AlipayOpenMiniAmpeMobileappBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.templatemsg.tinypayswitch.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-07-12 15:16:46
+ * @since 1.0, 2023-09-11 16:00:11
  */
 class AlipayOpenMiniTemplatemsgTinypayswitchConfirmRequest
 {

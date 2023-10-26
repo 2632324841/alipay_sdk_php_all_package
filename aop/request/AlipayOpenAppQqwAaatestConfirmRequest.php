@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.qqw.aaatest.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:55:12
+ * @since 1.0, 2023-01-04 19:30:59
  */
 class AlipayOpenAppQqwAaatestConfirmRequest
 {

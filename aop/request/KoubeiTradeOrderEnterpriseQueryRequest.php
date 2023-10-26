@@ -1,6 +1,7 @@
 <?php
 namespace aop\request;
 namespace aop\request;
+namespace aop\request;
 /**
  * ALIPAY API: koubei.trade.order.enterprise.query request
  *

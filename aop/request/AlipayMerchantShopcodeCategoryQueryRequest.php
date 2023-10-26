@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.shopcode.category.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-11 14:19:46
+ * @since 1.0, 2023-08-23 20:03:52
  */
 class AlipayMerchantShopcodeCategoryQueryRequest
 {

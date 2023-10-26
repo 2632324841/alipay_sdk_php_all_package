@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.world.virtualcard.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:50
+ * @since 1.0, 2023-05-31 01:05:33
  */
 class AlipayCommerceTransportWorldVirtualcardBatchqueryRequest
 {

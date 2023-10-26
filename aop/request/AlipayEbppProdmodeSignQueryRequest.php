@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.prodmode.sign.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:02:13
+ * @since 1.0, 2023-08-21 01:10:27
  */
 class AlipayEbppProdmodeSignQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.user.benefit.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:36:34
+ * @since 1.0, 2023-09-04 01:54:33
  */
 class AlipayCommerceOperationUserBenefitBatchqueryRequest
 {

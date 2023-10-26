@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.remit.beneficialinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-15 15:10:23
+ * @since 1.0, 2023-08-21 03:15:24
  */
 class AlipayOverseasRemitBeneficialinfoQueryRequest
 {

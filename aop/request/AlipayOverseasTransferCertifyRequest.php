@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.transfer.certify request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 17:36:34
+ * @since 1.0, 2023-08-21 06:51:46
  */
 class AlipayOverseasTransferCertifyRequest
 {

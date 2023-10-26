@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.forest.simplecertificate.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:10:11
+ * @since 1.0, 2023-08-21 02:11:51
  */
 class AlipaySocialForestSimplecertificateQueryRequest
 {

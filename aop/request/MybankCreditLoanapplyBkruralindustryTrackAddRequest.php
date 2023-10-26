@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loanapply.bkruralindustry.track.add request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 10:15:39
+ * @since 1.0, 2023-09-04 02:06:26
  */
 class MybankCreditLoanapplyBkruralindustryTrackAddRequest
 {

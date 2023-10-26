@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 15:16:35
+ * @since 1.0, 2023-08-20 18:21:46
  */
 class ZhimaMerchantOrderConfirmRequest
 {

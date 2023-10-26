@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.dossier.courtassess.submit request
  *
  * @author auto create
- * @since 1.0, 2022-01-07 14:37:56
+ * @since 1.0, 2023-05-31 22:51:58
  */
 class ZhimaCreditEpDossierCourtassessSubmitRequest
 {

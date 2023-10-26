@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.data.autodamage.estimate.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:07:14
+ * @since 1.0, 2023-08-20 17:45:16
  */
 class AlipayInsDataAutodamageEstimateApplyRequest
 {

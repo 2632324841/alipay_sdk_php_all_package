@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.base.process.task.take request
  *
  * @author auto create
- * @since 1.0, 2022-03-25 14:06:48
+ * @since 1.0, 2023-08-11 14:42:02
  */
 class AlipayBossBaseProcessTaskTakeRequest
 {

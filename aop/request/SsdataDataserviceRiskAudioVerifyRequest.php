@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ssdata.dataservice.risk.audio.verify request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:05:58
+ * @since 1.0, 2023-08-21 03:12:04
  */
 class SsdataDataserviceRiskAudioVerifyRequest
 {

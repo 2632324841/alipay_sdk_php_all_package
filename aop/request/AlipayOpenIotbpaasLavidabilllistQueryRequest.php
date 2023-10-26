@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotbpaas.lavidabilllist.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 11:10:56
+ * @since 1.0, 2023-08-21 01:39:31
  */
 class AlipayOpenIotbpaasLavidabilllistQueryRequest
 {

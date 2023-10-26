@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.pos.paymodesort.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:20:56
+ * @since 1.0, 2023-05-31 00:17:40
  */
 class KoubeiCateringPosPaymodesortModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.industry.job.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 16:15:23
+ * @since 1.0, 2023-09-19 15:41:45
  */
 class AlipayEbppIndustryJobSyncRequest
 {

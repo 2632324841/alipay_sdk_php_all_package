@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.financialplatform.budget.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 18:01:36
+ * @since 1.0, 2023-08-21 02:56:44
  */
 class MybankFinancialplatformBudgetBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.gamecenter.incrementgameaction.submit request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 15:46:37
+ * @since 1.0, 2023-08-21 01:31:46
  */
 class AlipayUserGamecenterIncrementgameactionSubmitRequest
 {

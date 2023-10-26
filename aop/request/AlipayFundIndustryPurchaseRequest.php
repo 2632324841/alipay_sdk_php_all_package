@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.industry.purchase request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 16:21:39
+ * @since 1.0, 2023-05-30 23:11:49
  */
 class AlipayFundIndustryPurchaseRequest
 {

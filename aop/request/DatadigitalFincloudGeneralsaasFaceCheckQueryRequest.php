@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.generalsaas.face.check.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 11:37:02
+ * @since 1.0, 2023-09-11 17:51:56
  */
 class DatadigitalFincloudGeneralsaasFaceCheckQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.agreement.auth.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:52:23
+ * @since 1.0, 2023-05-31 06:49:38
  */
 class AlipayUserAgreementAuthConfirmRequest
 {

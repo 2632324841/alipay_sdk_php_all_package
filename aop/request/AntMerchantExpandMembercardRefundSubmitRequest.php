@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.membercard.refund.submit request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:36:36
+ * @since 1.0, 2023-08-21 02:06:47
  */
 class AntMerchantExpandMembercardRefundSubmitRequest
 {

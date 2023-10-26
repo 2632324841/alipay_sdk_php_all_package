@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.renthouse.renter.zhima.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:05
+ * @since 1.0, 2023-08-21 05:41:52
  */
 class AlipayEcoRenthouseRenterZhimaQueryRequest
 {

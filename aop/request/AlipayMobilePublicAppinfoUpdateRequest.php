@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.mobile.public.appinfo.update request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2023-05-29 20:20:56
  */
 class AlipayMobilePublicAppinfoUpdateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.data.dsb.estimate.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 15:16:38
+ * @since 1.0, 2023-09-04 01:37:14
  */
 class AlipayInsDataDsbEstimateSyncRequest
 {

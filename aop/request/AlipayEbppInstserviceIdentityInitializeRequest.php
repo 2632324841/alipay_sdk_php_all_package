@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.instservice.identity.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 16:56:25
+ * @since 1.0, 2023-08-24 21:41:48
  */
 class AlipayEbppInstserviceIdentityInitializeRequest
 {

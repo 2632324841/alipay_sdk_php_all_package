@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.bizdata.templatemessage.delete request
  *
  * @author auto create
- * @since 1.0, 2019-12-03 20:10:12
+ * @since 1.0, 2023-08-21 03:51:44
  */
 class AlipayOpenMiniBizdataTemplatemessageDeleteRequest
 {

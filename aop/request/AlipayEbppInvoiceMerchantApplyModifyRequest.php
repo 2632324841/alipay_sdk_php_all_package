@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.merchant.apply.modify request
  *
  * @author auto create
- * @since 1.0, 2022-06-22 09:58:31
+ * @since 1.0, 2023-08-24 21:11:44
  */
 class AlipayEbppInvoiceMerchantApplyModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.customertag.save request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 16:46:49
+ * @since 1.0, 2023-05-30 23:22:03
  */
 class AlipayUserCustomertagSaveRequest
 {

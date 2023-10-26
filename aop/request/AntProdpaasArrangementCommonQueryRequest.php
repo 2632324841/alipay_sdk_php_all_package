@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.prodpaas.arrangement.common.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-05-30 22:16:41
  */
 class AntProdpaasArrangementCommonQueryRequest
 {

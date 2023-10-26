@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.antcommonweal.donate.consume.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-24 15:41:49
+ * @since 1.0, 2023-08-21 03:11:48
  */
 class AlipaySocialAntcommonwealDonateConsumeSyncRequest
 {

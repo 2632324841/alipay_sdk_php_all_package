@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.enterpriseexctrl.employertitle.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 09:59:25
+ * @since 1.0, 2023-09-11 17:51:44
  */
 class AlipayEbppInvoiceEnterpriseexctrlEmployertitleCreateRequest
 {

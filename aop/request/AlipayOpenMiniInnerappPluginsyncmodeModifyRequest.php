@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerapp.pluginsyncmode.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:00:34
+ * @since 1.0, 2023-09-11 18:10:48
  */
 class AlipayOpenMiniInnerappPluginsyncmodeModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.ext.ordertoc.notify request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 11:16:37
+ * @since 1.0, 2023-08-21 04:46:42
  */
 class AlipayEcoCityserviceExtOrdertocNotifyRequest
 {

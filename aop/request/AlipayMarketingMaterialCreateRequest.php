@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.material.create request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 20:51:49
+ * @since 1.0, 2023-09-26 17:26:38
  */
 class AlipayMarketingMaterialCreateRequest
 {

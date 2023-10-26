@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: huanxu.trade.order.refund request
  *
  * @author auto create
- * @since 1.0, 2020-10-15 15:37:28
+ * @since 1.0, 2023-08-21 02:22:51
  */
 class HuanxuTradeOrderRefundRequest
 {

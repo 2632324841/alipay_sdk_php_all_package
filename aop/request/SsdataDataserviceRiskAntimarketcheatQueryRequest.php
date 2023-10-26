@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ssdata.dataservice.risk.antimarketcheat.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:49
+ * @since 1.0, 2023-09-04 00:45:55
  */
 class SsdataDataserviceRiskAntimarketcheatQueryRequest
 {

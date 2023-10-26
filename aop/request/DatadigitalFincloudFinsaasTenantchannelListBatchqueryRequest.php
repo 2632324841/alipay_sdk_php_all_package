@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.finsaas.tenantchannel.list.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 17:21:39
+ * @since 1.0, 2023-08-21 02:06:55
  */
 class DatadigitalFincloudFinsaasTenantchannelListBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.ecny.entwallet.create.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 19:20:20
+ * @since 1.0, 2023-05-29 22:35:10
  */
 class MybankEcnyEntwalletCreateQueryRequest
 {

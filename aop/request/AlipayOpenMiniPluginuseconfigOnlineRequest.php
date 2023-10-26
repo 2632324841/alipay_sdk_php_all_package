@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.pluginuseconfig.online request
  *
  * @author auto create
- * @since 1.0, 2022-02-27 18:16:36
+ * @since 1.0, 2023-09-04 01:32:27
  */
 class AlipayOpenMiniPluginuseconfigOnlineRequest
 {

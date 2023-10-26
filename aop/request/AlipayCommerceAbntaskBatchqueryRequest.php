@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.abntask.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-09-11 10:56:57
+ * @since 1.0, 2023-05-31 05:24:40
  */
 class AlipayCommerceAbntaskBatchqueryRequest
 {

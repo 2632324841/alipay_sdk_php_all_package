@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.facepay.bill.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-11 16:34:08
+ * @since 1.0, 2023-05-31 10:16:59
  */
 class AlipayEbppFacepayBillQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.notifycenter.notifyuser.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-11 16:31:27
+ * @since 1.0, 2023-08-21 05:16:47
  */
 class AlipayCommerceTransportNotifycenterNotifyuserQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.codec.hschool.decode.use request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:43:29
+ * @since 1.0, 2023-08-20 16:54:02
  */
 class AlipayPayCodecHschoolDecodeUseRequest
 {

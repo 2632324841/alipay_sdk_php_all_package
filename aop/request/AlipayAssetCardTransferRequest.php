@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.card.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 10:24:36
+ * @since 1.0, 2023-08-23 19:51:48
  */
 class AlipayAssetCardTransferRequest
 {

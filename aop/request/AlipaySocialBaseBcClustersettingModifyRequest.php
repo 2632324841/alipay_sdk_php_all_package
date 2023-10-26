@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.bc.clustersetting.modify request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 19:27:27
+ * @since 1.0, 2023-08-24 22:02:59
  */
 class AlipaySocialBaseBcClustersettingModifyRequest
 {

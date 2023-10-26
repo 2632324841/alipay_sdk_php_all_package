@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.bc.clustermsg.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 19:28:08
+ * @since 1.0, 2023-05-30 22:53:56
  */
 class AlipaySocialBaseBcClustermsgQueryRequest
 {

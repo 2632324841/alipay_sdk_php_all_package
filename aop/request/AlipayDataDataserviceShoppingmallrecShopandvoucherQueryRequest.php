@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.shoppingmallrec.shopandvoucher.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:06
+ * @since 1.0, 2023-08-23 21:22:10
  */
 class AlipayDataDataserviceShoppingmallrecShopandvoucherQueryRequest
 {

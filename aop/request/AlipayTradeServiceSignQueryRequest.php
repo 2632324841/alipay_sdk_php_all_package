@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.service.sign.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 20:44:20
+ * @since 1.0, 2023-09-04 01:46:45
  */
 class AlipayTradeServiceSignQueryRequest
 {

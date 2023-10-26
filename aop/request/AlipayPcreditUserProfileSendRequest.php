@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.user.profile.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:45:14
+ * @since 1.0, 2023-05-30 00:01:50
  */
 class AlipayPcreditUserProfileSendRequest
 {

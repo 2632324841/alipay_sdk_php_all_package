@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.digitalmgmt.hrcampuscore.niukeexamreport.result.upload request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 21:36:54
+ * @since 1.0, 2023-08-20 16:59:41
  */
 class AlipayDigitalmgmtHrcampuscoreNiukeexamreportResultUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.ad.principaldmp.set request
  *
  * @author auto create
- * @since 1.0, 2021-05-08 11:46:05
+ * @since 1.0, 2023-05-30 23:28:44
  */
 class AlipayDataDataserviceAdPrincipaldmpSetRequest
 {

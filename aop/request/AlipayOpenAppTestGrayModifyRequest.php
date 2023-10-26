@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.test.gray.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 22:11:50
+ * @since 1.0, 2023-09-04 01:26:47
  */
 class AlipayOpenAppTestGrayModifyRequest
 {

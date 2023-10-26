@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoicetaxloss.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-28 14:25:07
+ * @since 1.0, 2023-09-04 00:27:21
  */
 class AlipayBossFncGfsettleprodInvoicetaxlossQueryRequest
 {

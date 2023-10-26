@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.paysharingprod.sharepeerpay.apply request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 15:16:47
+ * @since 1.0, 2023-08-21 05:01:46
  */
 class AlipayPayPaysharingprodSharepeerpayApplyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.search.box.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 19:30:42
+ * @since 1.0, 2023-09-11 17:16:45
  */
 class AlipayOpenSearchBoxBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.world.carddata.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:49
+ * @since 1.0, 2022-12-08 11:42:50
  */
 class AlipayCommerceTransportWorldCarddataApplyRequest
 {

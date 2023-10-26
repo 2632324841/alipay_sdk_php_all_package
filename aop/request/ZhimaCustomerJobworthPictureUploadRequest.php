@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.jobworth.picture.upload request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 10:21:41
+ * @since 1.0, 2023-09-11 18:59:30
  */
 class ZhimaCustomerJobworthPictureUploadRequest
 {

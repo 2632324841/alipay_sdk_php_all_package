@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.oppor.feedback.modify request
  *
  * @author auto create
- * @since 1.0, 2022-05-16 14:26:43
+ * @since 1.0, 2023-09-11 17:15:51
  */
 class AlipayOpenSpOpporFeedbackModifyRequest
 {

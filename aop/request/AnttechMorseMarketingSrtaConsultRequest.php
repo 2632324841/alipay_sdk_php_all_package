@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.morse.marketing.srta.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 18:02:49
+ * @since 1.0, 2023-05-30 22:16:58
  */
 class AnttechMorseMarketingSrtaConsultRequest
 {

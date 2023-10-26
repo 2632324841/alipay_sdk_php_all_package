@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.authentication.customer.anonymousfacesearch.match request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:13
+ * @since 1.0, 2023-09-04 00:36:17
  */
 class ZolozAuthenticationCustomerAnonymousfacesearchMatchRequest
 {

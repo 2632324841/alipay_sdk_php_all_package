@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.wf.billsummary.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:58
+ * @since 1.0, 2023-08-23 20:06:31
  */
 class MybankCreditSupplychainWfBillsummaryQueryRequest
 {

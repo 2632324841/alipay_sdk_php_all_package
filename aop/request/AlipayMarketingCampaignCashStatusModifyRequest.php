@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.cash.status.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:19:21
+ * @since 1.0, 2023-09-12 06:59:38
  */
 class AlipayMarketingCampaignCashStatusModifyRequest
 {

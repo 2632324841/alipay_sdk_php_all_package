@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.jobworth.jobdata.add request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 17:31:35
+ * @since 1.0, 2023-09-11 19:36:49
  */
 class ZhimaCustomerJobworthJobdataAddRequest
 {

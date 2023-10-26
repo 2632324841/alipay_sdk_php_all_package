@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.openbizmock.msg.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 20:36:48
+ * @since 1.0, 2023-03-20 23:41:46
  */
 class AlipayOpenAppOpenbizmockMsgSyncRequest
 {

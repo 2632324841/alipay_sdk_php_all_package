@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.carowner.userdata.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 10:42:25
+ * @since 1.0, 2023-05-29 20:37:18
  */
 class AlipayInsAutoCarownerUserdataSyncRequest
 {

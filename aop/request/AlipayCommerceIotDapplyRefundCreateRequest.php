@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.dapply.refund.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:30:48
+ * @since 1.0, 2023-08-21 03:31:13
  */
 class AlipayCommerceIotDapplyRefundCreateRequest
 {

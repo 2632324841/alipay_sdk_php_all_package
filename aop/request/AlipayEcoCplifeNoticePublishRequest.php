@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cplife.notice.publish request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:30:50
+ * @since 1.0, 2023-08-21 02:50:48
  */
 class AlipayEcoCplifeNoticePublishRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.pdeduct.sign.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 20:21:49
+ * @since 1.0, 2023-09-11 19:32:01
  */
 class AlipayEbppPdeductSignCancelRequest
 {

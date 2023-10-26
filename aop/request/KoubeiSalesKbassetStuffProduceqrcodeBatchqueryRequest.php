@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.sales.kbasset.stuff.produceqrcode.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-05-29 23:57:22
  */
 class KoubeiSalesKbassetStuffProduceqrcodeBatchqueryRequest
 {

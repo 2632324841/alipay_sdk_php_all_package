@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.rainscore.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 10:13:22
+ * @since 1.0, 2023-05-31 05:17:21
  */
 class AlipaySecurityRiskRainscoreQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2022-10-31 18:07:55
+ * @since 1.0, 2023-09-11 16:46:44
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
@@ -29,6 +29,14 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	private $fileContent;
 	
 	/** 
+	 * 活体检测类型，当前枚举支持：
+OFF：关闭活体检测；
+CHECK：正常活体检测。
+不传默认CHECK。
+	 **/
+	private $livenessStrategy;
+	
+	/** 
 	 * 客户业务单据号
 	 **/
 	private $outerBizNo;
@@ -42,6 +50,11 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	 * true：需要留底；false：无需留底。默认留底
 	 **/
 	private $reserved;
+	
+	/** 
+	 * ON：开启安全拦截。OFF：关闭安全拦截。默认取值为ON。
+	 **/
+	private $securityStrategy;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -97,6 +110,17 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 		return $this->fileContent;
 	}
 
+	public function setLivenessStrategy($livenessStrategy)
+	{
+		$this->livenessStrategy = $livenessStrategy;
+		$this->apiParas["liveness_strategy"] = $livenessStrategy;
+	}
+
+	public function getLivenessStrategy()
+	{
+		return $this->livenessStrategy;
+	}
+
 	public function setOuterBizNo($outerBizNo)
 	{
 		$this->outerBizNo = $outerBizNo;
@@ -128,6 +152,17 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	public function getReserved()
 	{
 		return $this->reserved;
+	}
+
+	public function setSecurityStrategy($securityStrategy)
+	{
+		$this->securityStrategy = $securityStrategy;
+		$this->apiParas["security_strategy"] = $securityStrategy;
+	}
+
+	public function getSecurityStrategy()
+	{
+		return $this->securityStrategy;
 	}
 
 	public function getApiMethodName()

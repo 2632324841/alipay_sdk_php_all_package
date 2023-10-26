@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.violation.violationevent.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 15:17:02
+ * @since 1.0, 2023-09-11 18:06:44
  */
 class AlipayOpenViolationViolationeventBatchqueryRequest
 {

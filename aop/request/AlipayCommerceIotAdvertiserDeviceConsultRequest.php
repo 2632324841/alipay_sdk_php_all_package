@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.advertiser.device.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:04
+ * @since 1.0, 2023-05-29 19:26:12
  */
 class AlipayCommerceIotAdvertiserDeviceConsultRequest
 {

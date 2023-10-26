@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.acommunication.event.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-27 10:06:49
+ * @since 1.0, 2023-05-29 21:11:53
  */
 class AlipayCommerceAcommunicationEventSyncRequest
 {

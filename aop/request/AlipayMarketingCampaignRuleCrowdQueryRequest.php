@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.rule.crowd.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:40:39
+ * @since 1.0, 2023-05-31 07:33:53
  */
 class AlipayMarketingCampaignRuleCrowdQueryRequest
 {

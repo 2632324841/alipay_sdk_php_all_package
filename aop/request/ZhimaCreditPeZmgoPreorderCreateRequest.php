@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.zmgo.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 19:31:34
+ * @since 1.0, 2023-09-11 18:46:48
  */
 class ZhimaCreditPeZmgoPreorderCreateRequest
 {

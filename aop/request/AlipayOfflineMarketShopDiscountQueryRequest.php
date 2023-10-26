@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.offline.market.shop.discount.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 09:51:16
+ * @since 1.0, 2023-08-21 03:01:45
  */
 class AlipayOfflineMarketShopDiscountQueryRequest
 {

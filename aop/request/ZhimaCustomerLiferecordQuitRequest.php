@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.liferecord.quit request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 16:01:50
+ * @since 1.0, 2023-09-04 02:51:48
  */
 class ZhimaCustomerLiferecordQuitRequest
 {

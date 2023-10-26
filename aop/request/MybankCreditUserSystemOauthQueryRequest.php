@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.user.system.oauth.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-12 10:36:16
+ * @since 1.0, 2023-09-04 01:17:12
  */
 class MybankCreditUserSystemOauthQueryRequest
 {

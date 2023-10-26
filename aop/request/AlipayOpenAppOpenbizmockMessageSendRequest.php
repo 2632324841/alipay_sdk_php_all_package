@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.openbizmock.message.send request
  *
  * @author auto create
- * @since 1.0, 2019-01-11 18:35:00
+ * @since 1.0, 2023-05-25 16:31:52
  */
 class AlipayOpenAppOpenbizmockMessageSendRequest
 {

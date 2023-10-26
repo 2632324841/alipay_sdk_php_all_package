@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.kids.relation.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:05
+ * @since 1.0, 2023-01-11 08:01:10
  */
 class AlipayCommerceKidsRelationQueryRequest
 {

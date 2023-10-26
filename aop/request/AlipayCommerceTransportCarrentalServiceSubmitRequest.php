@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.carrental.service.submit request
  *
  * @author auto create
- * @since 1.0, 2022-05-25 10:20:53
+ * @since 1.0, 2023-09-03 22:57:52
  */
 class AlipayCommerceTransportCarrentalServiceSubmitRequest
 {

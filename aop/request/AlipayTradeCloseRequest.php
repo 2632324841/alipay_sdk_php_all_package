@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.close request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:02:24
+ * @since 1.0, 2023-09-26 16:37:37
  */
 class AlipayTradeCloseRequest
 {

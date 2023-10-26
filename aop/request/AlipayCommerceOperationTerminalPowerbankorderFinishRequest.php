@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.terminal.powerbankorder.finish request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:52:49
+ * @since 1.0, 2023-05-30 23:55:22
  */
 class AlipayCommerceOperationTerminalPowerbankorderFinishRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.clive.chat.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:16:42
+ * @since 1.0, 2023-10-07 15:24:39
  */
 class AlipayIserviceCliveChatSendRequest
 {

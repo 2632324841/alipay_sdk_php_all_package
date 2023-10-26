@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.ownercard.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 13:41:34
+ * @since 1.0, 2023-08-21 05:01:48
  */
 class AlipayEbppCommunityOwnercardSyncRequest
 {

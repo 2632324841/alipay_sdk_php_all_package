@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.blacklist.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-24 20:51:41
+ * @since 1.0, 2023-05-29 23:06:50
  */
 class AlipayCommerceTransportEtcBlacklistQueryRequest
 {

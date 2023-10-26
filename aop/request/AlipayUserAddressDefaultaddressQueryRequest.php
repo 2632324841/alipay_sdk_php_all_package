@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.address.defaultaddress.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 19:21:59
+ * @since 1.0, 2023-05-30 22:41:49
  */
 class AlipayUserAddressDefaultaddressQueryRequest
 {

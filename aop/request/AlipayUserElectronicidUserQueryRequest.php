@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.electronicid.user.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:19
+ * @since 1.0, 2023-08-24 22:43:57
  */
 class AlipayUserElectronicidUserQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.indirect.promotask.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 15:31:36
+ * @since 1.0, 2023-08-24 22:16:45
  */
 class AlipayMerchantIndirectPromotaskSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.pcreditamount.queryprocessor.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-31 18:10:33
+ * @since 1.0, 2023-08-23 20:24:01
  */
 class AlipayPcreditHuabeiPcreditamountQueryprocessorQueryRequest
 {

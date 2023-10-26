@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.quanyibao.openbenefit.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 19:14:17
+ * @since 1.0, 2023-08-24 21:56:47
  */
 class AlipayUserQuanyibaoOpenbenefitSendRequest
 {

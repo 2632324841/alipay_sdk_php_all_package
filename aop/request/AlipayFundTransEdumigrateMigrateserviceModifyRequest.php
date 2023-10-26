@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.edumigrate.migrateservice.modify request
  *
  * @author auto create
- * @since 1.0, 2022-10-26 11:12:47
+ * @since 1.0, 2023-05-29 23:48:00
  */
 class AlipayFundTransEdumigrateMigrateserviceModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.dapply.devicetradestatlist.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:24:35
+ * @since 1.0, 2023-05-31 01:23:18
  */
 class AlipayCommerceIotDapplyDevicetradestatlistQueryRequest
 {

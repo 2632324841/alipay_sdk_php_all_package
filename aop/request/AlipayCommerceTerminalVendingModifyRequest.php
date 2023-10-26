@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.terminal.vending.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:55:37
+ * @since 1.0, 2023-09-04 00:51:52
  */
 class AlipayCommerceTerminalVendingModifyRequest
 {

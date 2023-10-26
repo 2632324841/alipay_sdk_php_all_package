@@ -1,6 +1,7 @@
 <?php
 namespace aop\request;
 namespace aop\request;
+namespace aop\request;
 /**
  * ALIPAY API: alipay.commerce.transport.parking.reserve.confirm request
  *

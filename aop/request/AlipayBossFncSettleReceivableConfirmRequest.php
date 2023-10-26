@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.settle.receivable.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-03-26 17:45:10
+ * @since 1.0, 2023-05-31 03:04:44
  */
 class AlipayBossFncSettleReceivableConfirmRequest
 {

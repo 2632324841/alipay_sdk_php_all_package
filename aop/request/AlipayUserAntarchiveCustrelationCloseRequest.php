@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.antarchive.custrelation.close request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 16:09:39
+ * @since 1.0, 2023-09-03 23:12:17
  */
 class AlipayUserAntarchiveCustrelationCloseRequest
 {

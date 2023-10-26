@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.liferecord.sign request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 15:01:49
+ * @since 1.0, 2023-09-03 23:25:50
  */
 class ZhimaCustomerLiferecordSignRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2022-11-11 20:56:54
+ * @since 1.0, 2023-08-24 22:26:46
  */
 class AlipayUserAgreementSignRequest
 {

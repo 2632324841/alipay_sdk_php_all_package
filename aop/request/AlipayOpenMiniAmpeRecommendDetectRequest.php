@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.ampe.recommend.detect request
  *
  * @author auto create
- * @since 1.0, 2021-10-14 14:00:32
+ * @since 1.0, 2023-05-31 01:28:14
  */
 class AlipayOpenMiniAmpeRecommendDetectRequest
 {

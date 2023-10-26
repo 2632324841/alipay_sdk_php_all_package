@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.carbon.data.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 16:35:15
+ * @since 1.0, 2023-05-31 01:21:59
  */
 class AlipayCommerceTransportCarbonDataQueryRequest
 {

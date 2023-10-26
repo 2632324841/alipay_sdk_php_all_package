@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certdoc.certverify.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 20:37:13
+ * @since 1.0, 2023-09-11 19:38:03
  */
 class AlipayUserCertdocCertverifyPreconsultRequest
 {

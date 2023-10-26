@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.card.newtemplate.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:37:41
+ * @since 1.0, 2023-05-31 02:57:35
  */
 class AlipayAssetCardNewtemplateCreateRequest
 {

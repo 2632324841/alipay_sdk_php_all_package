@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fincore.compliance.rcsmart.rulemark.submit request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 10:39:19
+ * @since 1.0, 2023-08-21 02:48:39
  */
 class AlipayFincoreComplianceRcsmartRulemarkSubmitRequest
 {

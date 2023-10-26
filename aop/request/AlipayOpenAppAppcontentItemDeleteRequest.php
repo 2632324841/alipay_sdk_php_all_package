@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.appcontent.item.delete request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:40:03
+ * @since 1.0, 2023-08-20 16:48:11
  */
 class AlipayOpenAppAppcontentItemDeleteRequest
 {

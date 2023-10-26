@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.finsaas.formtemplate.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 21:06:56
+ * @since 1.0, 2023-08-21 05:30:43
  */
 class DatadigitalFincloudFinsaasFormtemplateQueryRequest
 {

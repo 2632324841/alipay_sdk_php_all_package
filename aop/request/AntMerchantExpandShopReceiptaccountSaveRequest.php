@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.shop.receiptaccount.save request
  *
  * @author auto create
- * @since 1.0, 2022-08-26 14:16:46
+ * @since 1.0, 2023-09-11 19:22:21
  */
 class AntMerchantExpandShopReceiptaccountSaveRequest
 {

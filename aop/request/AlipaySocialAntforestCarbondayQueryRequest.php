@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.antforest.carbonday.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 15:34:15
+ * @since 1.0, 2023-08-23 22:01:48
  */
 class AlipaySocialAntforestCarbondayQueryRequest
 {

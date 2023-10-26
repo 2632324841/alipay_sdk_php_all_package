@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.app.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 14:35:48
+ * @since 1.0, 2023-09-26 11:20:14
  */
 class AlipayMarketingActivityAppBatchqueryRequest
 {

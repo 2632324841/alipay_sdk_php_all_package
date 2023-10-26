@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotvsp.userext.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:58
+ * @since 1.0, 2023-09-18 14:09:08
  */
 class AlipayOpenIotvspUserextModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.finance.order.submit request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 18:46:56
+ * @since 1.0, 2023-09-03 23:39:02
  */
 class AnttechBlockchainDefinFinanceOrderSubmitRequest
 {

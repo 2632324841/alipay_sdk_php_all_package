@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.yuntask.stop request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 15:36:32
+ * @since 1.0, 2023-09-04 02:26:47
  */
 class AlipayCommerceYuntaskStopRequest
 {

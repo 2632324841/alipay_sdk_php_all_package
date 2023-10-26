@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.codec.applepay.establish.set request
  *
  * @author auto create
- * @since 1.0, 2020-08-20 20:11:56
+ * @since 1.0, 2023-08-23 20:40:24
  */
 class AlipayPayCodecApplepayEstablishSetRequest
 {

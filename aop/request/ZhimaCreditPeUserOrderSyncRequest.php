@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.user.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 16:34:45
+ * @since 1.0, 2023-09-26 14:52:00
  */
 class ZhimaCreditPeUserOrderSyncRequest
 {

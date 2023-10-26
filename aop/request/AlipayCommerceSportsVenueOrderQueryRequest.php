@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.sports.venue.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-06 16:45:17
+ * @since 1.0, 2023-08-20 17:40:48
  */
 class AlipayCommerceSportsVenueOrderQueryRequest
 {

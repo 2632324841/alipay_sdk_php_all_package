@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.jointaccount.fund.withdraw request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 13:11:39
+ * @since 1.0, 2023-03-13 03:16:21
  */
 class AlipayFundJointaccountFundWithdrawRequest
 {

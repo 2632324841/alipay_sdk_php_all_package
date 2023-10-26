@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.thirdparty.reward.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:51
+ * @since 1.0, 2023-09-04 01:19:01
  */
 class AlipayFundTransThirdpartyRewardQueryRequest
 {

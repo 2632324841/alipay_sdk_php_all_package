@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.creditpay.buyerunsignadmit.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:13
+ * @since 1.0, 2023-01-11 10:24:08
  */
 class MybankCreditSupplychainCreditpayBuyerunsignadmitQueryRequest
 {

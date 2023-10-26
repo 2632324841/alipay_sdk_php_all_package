@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.autocheck.case.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 09:21:53
+ * @since 1.0, 2023-08-23 21:03:03
  */
 class AlipayOpenMiniAutocheckCaseQueryRequest
 {

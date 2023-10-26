@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.charity.recordexist.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 21:06:54
+ * @since 1.0, 2023-09-03 23:55:40
  */
 class AlipayUserCharityRecordexistQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.data.alibaba.securitydata.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 14:31:35
+ * @since 1.0, 2023-09-04 01:31:48
  */
 class AlipaySecurityDataAlibabaSecuritydataQueryRequest
 {

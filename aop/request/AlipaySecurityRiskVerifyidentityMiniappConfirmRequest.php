@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.verifyidentity.miniapp.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 10:02:01
+ * @since 1.0, 2023-09-11 18:56:47
  */
 class AlipaySecurityRiskVerifyidentityMiniappConfirmRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.finance.risk.warning.add request
  *
  * @author auto create
- * @since 1.0, 2022-07-27 16:37:19
+ * @since 1.0, 2023-08-20 17:18:50
  */
 class AnttechBlockchainFinanceRiskWarningAddRequest
 {

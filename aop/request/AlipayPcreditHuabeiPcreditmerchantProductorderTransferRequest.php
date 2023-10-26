@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.pcreditmerchant.productorder.transfer request
  *
  * @author auto create
- * @since 1.0, 2020-08-11 13:51:37
+ * @since 1.0, 2023-08-21 02:31:24
  */
 class AlipayPcreditHuabeiPcreditmerchantProductorderTransferRequest
 {

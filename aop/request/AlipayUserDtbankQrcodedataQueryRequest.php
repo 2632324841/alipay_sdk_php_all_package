@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.dtbank.qrcodedata.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-07 19:16:45
+ * @since 1.0, 2023-09-03 23:25:16
  */
 class AlipayUserDtbankQrcodedataQueryRequest
 {

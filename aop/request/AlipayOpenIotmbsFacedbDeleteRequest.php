@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotmbs.facedb.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-08 14:31:41
+ * @since 1.0, 2023-08-24 21:13:02
  */
 class AlipayOpenIotmbsFacedbDeleteRequest
 {

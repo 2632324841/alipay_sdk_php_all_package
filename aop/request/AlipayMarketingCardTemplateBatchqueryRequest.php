@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.template.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 21:22:57
+ * @since 1.0, 2023-09-12 06:58:22
  */
 class AlipayMarketingCardTemplateBatchqueryRequest
 {

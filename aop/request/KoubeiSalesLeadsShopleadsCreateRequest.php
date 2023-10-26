@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.sales.leads.shopleads.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:35
+ * @since 1.0, 2023-05-30 20:28:39
  */
 class KoubeiSalesLeadsShopleadsCreateRequest
 {

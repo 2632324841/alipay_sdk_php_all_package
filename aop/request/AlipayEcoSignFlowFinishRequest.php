@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.sign.flow.finish request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:57:34
+ * @since 1.0, 2023-09-11 17:48:07
  */
 class AlipayEcoSignFlowFinishRequest
 {

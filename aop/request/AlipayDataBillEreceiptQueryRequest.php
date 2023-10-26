@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.bill.ereceipt.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-30 15:38:01
+ * @since 1.0, 2023-09-11 19:31:47
  */
 class AlipayDataBillEreceiptQueryRequest
 {

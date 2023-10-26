@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.enterprise.merchantrelation.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 19:31:37
+ * @since 1.0, 2023-09-11 18:46:45
  */
 class AlipayEbppInvoiceEnterpriseMerchantrelationCreateRequest
 {

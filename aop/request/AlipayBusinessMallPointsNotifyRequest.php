@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.business.mall.points.notify request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 10:56:32
+ * @since 1.0, 2023-05-29 21:16:54
  */
 class AlipayBusinessMallPointsNotifyRequest
 {

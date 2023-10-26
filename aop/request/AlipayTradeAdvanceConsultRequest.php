@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.advance.consult request
  *
  * @author auto create
- * @since 1.0, 2021-10-21 18:52:48
+ * @since 1.0, 2023-09-11 19:42:53
  */
 class AlipayTradeAdvanceConsultRequest
 {

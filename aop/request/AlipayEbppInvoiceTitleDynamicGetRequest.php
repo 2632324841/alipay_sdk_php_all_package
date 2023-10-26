@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.title.dynamic.get request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 11:52:56
+ * @since 1.0, 2023-09-12 07:01:23
  */
 class AlipayEbppInvoiceTitleDynamicGetRequest
 {

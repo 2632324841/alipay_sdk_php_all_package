@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.point.voucherprod.benefittemplate.offline request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:38:17
+ * @since 1.0, 2023-05-30 21:13:32
  */
 class AlipayAssetPointVoucherprodBenefittemplateOfflineRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.signinfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 13:31:44
+ * @since 1.0, 2023-08-28 16:31:14
  */
 class AlipayCommerceTransportEtcSigninfoQueryRequest
 {

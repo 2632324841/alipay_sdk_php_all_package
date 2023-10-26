@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.rpacrawler.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-08 15:16:23
+ * @since 1.0, 2023-08-24 22:36:07
  */
 class AlipayPcreditHuabeiRpacrawlerQueryRequest
 {

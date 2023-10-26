@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.app.transport.cardinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-09 14:10:52
+ * @since 1.0, 2023-08-21 04:26:57
  */
 class AlipayPayAppTransportCardinfoQueryRequest
 {

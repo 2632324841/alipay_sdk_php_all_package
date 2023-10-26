@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.renthouse.publicrent.applyschedule.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:56:46
+ * @since 1.0, 2023-08-21 05:43:43
  */
 class AlipayEcoRenthousePublicrentApplyscheduleSyncRequest
 {

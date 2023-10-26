@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.instservice.deductagreement.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 10:56:38
+ * @since 1.0, 2023-08-21 04:43:03
  */
 class AlipayEbppInstserviceDeductagreementModifyRequest
 {

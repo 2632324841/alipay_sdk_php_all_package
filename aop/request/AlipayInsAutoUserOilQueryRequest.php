@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.user.oil.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-04 17:22:37
+ * @since 1.0, 2023-08-21 01:26:00
  */
 class AlipayInsAutoUserOilQueryRequest
 {

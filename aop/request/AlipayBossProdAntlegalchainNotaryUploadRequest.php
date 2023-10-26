@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.antlegalchain.notary.upload request
  *
  * @author auto create
- * @since 1.0, 2022-07-07 18:59:35
+ * @since 1.0, 2023-08-21 04:31:04
  */
 class AlipayBossProdAntlegalchainNotaryUploadRequest
 {

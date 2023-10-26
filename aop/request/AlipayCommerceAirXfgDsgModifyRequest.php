@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.air.xfg.dsg.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-06 09:57:35
+ * @since 1.0, 2023-08-20 17:38:54
  */
 class AlipayCommerceAirXfgDsgModifyRequest
 {

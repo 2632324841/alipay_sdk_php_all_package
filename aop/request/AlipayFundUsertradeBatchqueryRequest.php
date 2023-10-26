@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.usertrade.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-18 20:56:39
+ * @since 1.0, 2023-01-12 20:02:08
  */
 class AlipayFundUsertradeBatchqueryRequest
 {

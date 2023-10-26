@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.certification.material.certify request
  *
  * @author auto create
- * @since 1.0, 2020-11-18 15:27:02
+ * @since 1.0, 2023-08-21 03:45:20
  */
 class ZhimaCustomerCertificationMaterialCertifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.messagetemplate.subscribe.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 14:51:14
+ * @since 1.0, 2023-09-11 19:51:43
  */
 class AlipayOpenAppMessagetemplateSubscribeQueryRequest
 {

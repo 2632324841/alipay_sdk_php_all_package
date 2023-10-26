@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.sceneprod.payment.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:12
+ * @since 1.0, 2023-08-21 04:37:06
  */
 class MybankCreditSceneprodPaymentApplyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.dossier.qrcode.apply request
  *
  * @author auto create
- * @since 1.0, 2022-06-14 15:46:36
+ * @since 1.0, 2023-08-24 22:31:46
  */
 class ZhimaCreditEpDossierQrcodeApplyRequest
 {

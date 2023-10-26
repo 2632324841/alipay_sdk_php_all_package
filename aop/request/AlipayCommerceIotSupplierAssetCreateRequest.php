@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.supplier.asset.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:28:50
+ * @since 1.0, 2023-05-30 20:05:56
  */
 class AlipayCommerceIotSupplierAssetCreateRequest
 {

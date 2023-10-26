@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.recharge.notify.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 10:28:19
+ * @since 1.0, 2023-05-31 02:26:56
  */
 class AlipayEbppRechargeNotifySendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.industry.energy.check request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 15:46:32
+ * @since 1.0, 2023-08-20 18:16:47
  */
 class AlipayEcoCityserviceIndustryEnergyCheckRequest
 {

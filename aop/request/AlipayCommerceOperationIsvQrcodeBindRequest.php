@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.isv.qrcode.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-15 10:40:37
+ * @since 1.0, 2023-09-04 00:29:50
  */
 class AlipayCommerceOperationIsvQrcodeBindRequest
 {

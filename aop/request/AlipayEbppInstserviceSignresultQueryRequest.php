@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.instservice.signresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 10:46:37
+ * @since 1.0, 2023-09-04 02:03:57
  */
 class AlipayEbppInstserviceSignresultQueryRequest
 {

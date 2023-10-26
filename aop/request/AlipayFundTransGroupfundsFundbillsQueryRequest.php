@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.groupfunds.fundbills.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-17 17:45:01
+ * @since 1.0, 2023-08-23 20:31:17
  */
 class AlipayFundTransGroupfundsFundbillsQueryRequest
 {

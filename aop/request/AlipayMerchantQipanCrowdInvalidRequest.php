@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.qipan.crowd.invalid request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 15:26:46
+ * @since 1.0, 2023-09-04 00:21:48
  */
 class AlipayMerchantQipanCrowdInvalidRequest
 {

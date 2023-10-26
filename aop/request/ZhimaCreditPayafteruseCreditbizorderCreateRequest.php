@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.payafteruse.creditbizorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 17:16:37
+ * @since 1.0, 2023-06-16 11:47:00
  */
 class ZhimaCreditPayafteruseCreditbizorderCreateRequest
 {

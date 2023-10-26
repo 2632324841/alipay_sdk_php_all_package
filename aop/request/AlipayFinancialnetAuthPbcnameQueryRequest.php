@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.auth.pbcname.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 10:16:37
+ * @since 1.0, 2023-08-20 17:56:43
  */
 class AlipayFinancialnetAuthPbcnameQueryRequest
 {

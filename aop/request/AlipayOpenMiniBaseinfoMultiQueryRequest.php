@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.baseinfo.multi.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:46
+ * @since 1.0, 2023-08-20 18:12:32
  */
 class AlipayOpenMiniBaseinfoMultiQueryRequest
 {

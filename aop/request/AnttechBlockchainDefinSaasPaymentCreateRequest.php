@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.saas.payment.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 22:26:45
+ * @since 1.0, 2023-08-21 04:31:45
  */
 class AnttechBlockchainDefinSaasPaymentCreateRequest
 {

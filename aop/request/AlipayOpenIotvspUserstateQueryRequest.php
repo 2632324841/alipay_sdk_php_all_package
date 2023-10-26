@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotvsp.userstate.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 20:06:54
+ * @since 1.0, 2023-09-18 14:11:26
  */
 class AlipayOpenIotvspUserstateQueryRequest
 {

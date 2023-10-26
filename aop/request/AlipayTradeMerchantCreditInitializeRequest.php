@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.merchant.credit.initialize request
  *
  * @author auto create
- * @since 1.0, 2020-07-10 19:41:44
+ * @since 1.0, 2023-08-24 20:59:04
  */
 class AlipayTradeMerchantCreditInitializeRequest
 {

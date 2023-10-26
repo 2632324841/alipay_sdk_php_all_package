@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.retail.wms.outboundwork.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:36:46
+ * @since 1.0, 2023-08-21 02:03:42
  */
 class KoubeiRetailWmsOutboundworkConfirmRequest
 {

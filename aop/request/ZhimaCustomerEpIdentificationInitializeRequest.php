@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.ep.identification.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-04-15 12:02:23
+ * @since 1.0, 2023-09-03 23:53:12
  */
 class ZhimaCustomerEpIdentificationInitializeRequest
 {

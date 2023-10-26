@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.mall.scanpurchase.userverify.verify request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:04:57
+ * @since 1.0, 2023-08-24 21:53:03
  */
 class KoubeiMallScanpurchaseUserverifyVerifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.sportshealth.account.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-24 15:11:50
+ * @since 1.0, 2023-05-29 11:17:07
  */
 class AlipayUserSportshealthAccountQueryRequest
 {

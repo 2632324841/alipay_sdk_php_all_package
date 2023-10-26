@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.industry.gov.healthcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:14:05
+ * @since 1.0, 2023-09-04 01:29:21
  */
 class AlipayEbppIndustryGovHealthcodeQueryRequest
 {

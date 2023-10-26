@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loanapply.rzzl.open.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 11:29:30
+ * @since 1.0, 2023-09-03 22:58:04
  */
 class MybankCreditLoanapplyRzzlOpenSendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.antarchive.face.identify request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 16:10:01
+ * @since 1.0, 2023-08-20 18:25:29
  */
 class AlipayUserAntarchiveFaceIdentifyRequest
 {

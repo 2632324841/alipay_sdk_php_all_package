@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.timescard.authority.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 10:51:36
+ * @since 1.0, 2023-05-29 22:32:00
  */
 class AlipayCommerceOperationTimescardAuthorityDeleteRequest
 {

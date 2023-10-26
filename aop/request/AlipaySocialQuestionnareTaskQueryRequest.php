@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.questionnare.task.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-29 11:10:52
+ * @since 1.0, 2023-08-21 01:20:54
  */
 class AlipaySocialQuestionnareTaskQueryRequest
 {

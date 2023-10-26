@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.message.notify request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 15:41:34
+ * @since 1.0, 2023-09-11 16:50:45
  */
 class AlipayMarketingCardMessageNotifyRequest
 {

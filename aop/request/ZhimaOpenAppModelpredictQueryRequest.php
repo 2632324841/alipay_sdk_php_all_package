@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.open.app.modelpredict.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-11 12:56:33
+ * @since 1.0, 2023-05-31 21:21:58
  */
 class ZhimaOpenAppModelpredictQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.agreement.migrate request
  *
  * @author auto create
- * @since 1.0, 2022-06-29 11:46:47
+ * @since 1.0, 2023-09-11 17:11:44
  */
 class AlipayUserAgreementMigrateRequest
 {

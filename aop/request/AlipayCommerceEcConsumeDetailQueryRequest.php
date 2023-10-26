@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.ec.consume.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 19:51:34
+ * @since 1.0, 2023-09-11 16:56:43
  */
 class AlipayCommerceEcConsumeDetailQueryRequest
 {

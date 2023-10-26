@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.zmgo.cumulation.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 12:59:02
+ * @since 1.0, 2023-09-11 16:11:39
  */
 class ZhimaCreditPeZmgoCumulationSyncRequest
 {

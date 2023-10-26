@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.session.get request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 13:46:35
+ * @since 1.0, 2023-08-21 04:33:28
  */
 class AlipayUserSessionGetRequest
 {

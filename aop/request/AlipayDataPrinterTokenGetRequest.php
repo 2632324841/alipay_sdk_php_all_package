@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.printer.token.get request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 11:05:22
+ * @since 1.0, 2023-08-23 20:48:36
  */
 class AlipayDataPrinterTokenGetRequest
 {

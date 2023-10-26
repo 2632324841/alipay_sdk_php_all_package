@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.trade.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-03-10 16:27:08
+ * @since 1.0, 2023-05-30 23:01:12
  */
 class MybankCreditSupplychainTradeCancelRequest
 {

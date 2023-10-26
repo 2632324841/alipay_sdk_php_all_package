@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.member.data.isv.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 15:14:19
+ * @since 1.0, 2023-05-31 06:01:17
  */
 class KoubeiMemberDataIsvCreateRequest
 {

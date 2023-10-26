@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.account.cashpool.allocaterule.create request
  *
  * @author auto create
- * @since 1.0, 2020-07-06 11:21:31
+ * @since 1.0, 2023-08-21 01:26:57
  */
 class AlipayAccountCashpoolAllocateruleCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.yuntask.transfer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-05-30 20:18:01
+ * @since 1.0, 2023-08-20 16:43:32
  */
 class AlipayCommerceYuntaskTransferBatchqueryRequest
 {

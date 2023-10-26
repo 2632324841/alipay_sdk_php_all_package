@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.parking.exitinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:36:38
+ * @since 1.0, 2023-09-11 18:46:44
  */
 class AlipayCommerceTransportParkingExitinfoSyncRequest
 {

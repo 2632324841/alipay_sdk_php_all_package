@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.pushmsg.permit.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:15
+ * @since 1.0, 2023-09-04 02:15:49
  */
 class AlipayEcoCityservicePushmsgPermitQueryRequest
 {

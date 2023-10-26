@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.inventory.out.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:42:05
+ * @since 1.0, 2023-08-21 05:23:36
  */
 class MybankCreditSupplychainInventoryOutApplyRequest
 {

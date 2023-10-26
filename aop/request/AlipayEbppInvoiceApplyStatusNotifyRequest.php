@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.apply.status.notify request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 13:51:40
+ * @since 1.0, 2023-09-11 20:01:49
  */
 class AlipayEbppInvoiceApplyStatusNotifyRequest
 {

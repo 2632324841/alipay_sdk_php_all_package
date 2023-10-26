@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.cs.datacollect.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:22:40
+ * @since 1.0, 2023-08-21 01:08:44
  */
 class AlipayBossCsDatacollectSendRequest
 {

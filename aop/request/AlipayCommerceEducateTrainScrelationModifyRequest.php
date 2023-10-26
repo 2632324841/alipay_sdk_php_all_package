@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.train.screlation.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:37:28
+ * @since 1.0, 2023-09-04 01:41:00
  */
 class AlipayCommerceEducateTrainScrelationModifyRequest
 {

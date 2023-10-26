@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.community.userpromo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:34:47
+ * @since 1.0, 2023-08-21 01:34:28
  */
 class AlipayOpenAppCommunityUserpromoSyncRequest
 {

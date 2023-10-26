@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.tradeorder.refund request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:32
+ * @since 1.0, 2023-08-21 02:18:01
  */
 class AntMerchantExpandTradeorderRefundRequest
 {

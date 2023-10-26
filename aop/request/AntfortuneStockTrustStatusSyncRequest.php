@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.stock.trust.status.sync request
  *
  * @author auto create
- * @since 1.0, 2021-11-23 15:55:36
+ * @since 1.0, 2023-08-21 03:44:57
  */
 class AntfortuneStockTrustStatusSyncRequest
 {

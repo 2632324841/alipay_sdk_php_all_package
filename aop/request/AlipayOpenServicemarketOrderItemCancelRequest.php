@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.servicemarket.order.item.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:38:01
+ * @since 1.0, 2023-09-12 06:46:54
  */
 class AlipayOpenServicemarketOrderItemCancelRequest
 {

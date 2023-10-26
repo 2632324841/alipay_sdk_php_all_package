@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.repaybill.create request
  *
  * @author auto create
- * @since 1.0, 2019-11-25 20:58:42
+ * @since 1.0, 2023-08-24 21:55:38
  */
 class AlipayTradeRepaybillCreateRequest
 {

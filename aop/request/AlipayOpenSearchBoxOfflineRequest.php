@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.search.box.offline request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 19:31:12
+ * @since 1.0, 2023-09-11 18:17:40
  */
 class AlipayOpenSearchBoxOfflineRequest
 {

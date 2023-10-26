@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.schoolcard.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 17:21:38
+ * @since 1.0, 2023-09-11 19:46:48
  */
 class AlipayCommerceEducateSchoolcardOrderSyncRequest
 {

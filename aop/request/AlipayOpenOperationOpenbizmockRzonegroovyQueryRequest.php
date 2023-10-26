@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.operation.openbizmock.rzonegroovy.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 18:47:00
+ * @since 1.0, 2023-07-21 11:06:54
  */
 class AlipayOpenOperationOpenbizmockRzonegroovyQueryRequest
 {

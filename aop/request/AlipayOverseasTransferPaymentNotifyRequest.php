@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.transfer.payment.notify request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 15:05:16
+ * @since 1.0, 2023-08-21 02:08:45
  */
 class AlipayOverseasTransferPaymentNotifyRequest
 {

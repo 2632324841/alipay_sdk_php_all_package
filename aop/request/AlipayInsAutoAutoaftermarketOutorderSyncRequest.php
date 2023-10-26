@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.autoaftermarket.outorder.sync request
  *
  * @author auto create
- * @since 1.0, 2020-04-21 10:29:13
+ * @since 1.0, 2023-09-03 23:07:09
  */
 class AlipayInsAutoAutoaftermarketOutorderSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.taxi.heatmap.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 19:16:52
+ * @since 1.0, 2023-10-09 20:10:44
  */
 class AlipayCommerceTransportTaxiHeatmapQueryRequest
 {

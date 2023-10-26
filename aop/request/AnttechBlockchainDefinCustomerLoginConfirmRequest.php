@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.customer.login.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-04-27 09:23:40
+ * @since 1.0, 2023-05-29 22:26:27
  */
 class AnttechBlockchainDefinCustomerLoginConfirmRequest
 {

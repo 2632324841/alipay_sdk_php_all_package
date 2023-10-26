@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.user.credit.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 14:19:14
+ * @since 1.0, 2023-08-21 03:43:50
  */
 class ZhimaCreditPeUserCreditUnfreezeRequest
 {

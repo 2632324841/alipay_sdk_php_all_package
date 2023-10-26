@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.vehicleowner.message.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-19 01:39:59
+ * @since 1.0, 2023-08-21 03:36:05
  */
 class AlipayCommerceTransportVehicleownerMessageSendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iot.membershipcoupon.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 13:25:46
+ * @since 1.0, 2023-08-21 04:17:16
  */
 class AlipayOpenIotMembershipcouponQueryRequest
 {

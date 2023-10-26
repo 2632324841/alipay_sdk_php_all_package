@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.templatemsg.maketingstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 18:01:35
+ * @since 1.0, 2023-09-11 16:05:32
  */
 class AlipayOpenMiniTemplatemsgMaketingstatusModifyRequest
 {

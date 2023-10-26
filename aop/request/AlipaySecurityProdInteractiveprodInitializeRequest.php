@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.interactiveprod.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-04-07 19:41:42
+ * @since 1.0, 2023-08-15 16:40:10
  */
 class AlipaySecurityProdInteractiveprodInitializeRequest
 {

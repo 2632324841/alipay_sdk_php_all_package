@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loanapply.blockchain.open.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:42:51
+ * @since 1.0, 2023-08-20 17:52:23
  */
 class MybankCreditLoanapplyBlockchainOpenQueryRequest
 {

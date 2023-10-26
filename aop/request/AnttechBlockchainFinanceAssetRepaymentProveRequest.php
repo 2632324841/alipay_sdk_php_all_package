@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.finance.asset.repayment.prove request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 12:46:18
+ * @since 1.0, 2023-08-24 22:12:06
  */
 class AnttechBlockchainFinanceAssetRepaymentProveRequest
 {

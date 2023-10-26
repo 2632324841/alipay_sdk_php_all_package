@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.ec.employee.add request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 19:07:22
+ * @since 1.0, 2023-10-13 14:16:45
  */
 class AlipayCommerceEcEmployeeAddRequest
 {

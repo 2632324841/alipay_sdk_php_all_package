@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.order.refund request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 16:26:13
+ * @since 1.0, 2023-08-24 21:49:11
  */
 class KoubeiCateringOrderRefundRequest
 {

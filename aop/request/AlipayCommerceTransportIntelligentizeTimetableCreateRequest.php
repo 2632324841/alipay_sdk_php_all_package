@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.intelligentize.timetable.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:45:32
+ * @since 1.0, 2023-09-03 23:26:13
  */
 class AlipayCommerceTransportIntelligentizeTimetableCreateRequest
 {

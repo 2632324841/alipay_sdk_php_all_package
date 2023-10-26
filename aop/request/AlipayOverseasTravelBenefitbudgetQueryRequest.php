@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.travel.benefitbudget.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 18:07:09
+ * @since 1.0, 2023-05-31 02:36:59
  */
 class AlipayOverseasTravelBenefitbudgetQueryRequest
 {

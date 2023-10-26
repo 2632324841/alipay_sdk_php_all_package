@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.goods.apply request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 11:18:30
+ * @since 1.0, 2023-09-04 00:45:20
  */
 class AlipayMsaasMediarecogMmtcaftscvGoodsApplyRequest
 {

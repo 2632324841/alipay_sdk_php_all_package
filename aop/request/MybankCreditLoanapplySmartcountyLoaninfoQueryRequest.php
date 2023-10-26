@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loanapply.smartcounty.loaninfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 19:10:06
+ * @since 1.0, 2023-08-10 10:23:47
  */
 class MybankCreditLoanapplySmartcountyLoaninfoQueryRequest
 {

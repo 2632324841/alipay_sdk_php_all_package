@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.merge.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 19:51:44
+ * @since 1.0, 2023-05-31 03:12:49
  */
 class AlipayFundTransMergeDetailQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.entity.location.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-05 22:16:43
+ * @since 1.0, 2023-05-29 22:17:15
  */
 class ZhimaMerchantEntityLocationQueryRequest
 {

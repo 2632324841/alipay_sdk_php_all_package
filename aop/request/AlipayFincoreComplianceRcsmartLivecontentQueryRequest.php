@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fincore.compliance.rcsmart.livecontent.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 10:39:41
+ * @since 1.0, 2023-09-04 01:55:29
  */
 class AlipayFincoreComplianceRcsmartLivecontentQueryRequest
 {

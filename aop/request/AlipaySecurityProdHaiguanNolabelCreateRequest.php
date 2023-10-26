@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.haiguan.nolabel.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-01 20:39:17
+ * @since 1.0, 2023-08-20 18:03:57
  */
 class AlipaySecurityProdHaiguanNolabelCreateRequest
 {

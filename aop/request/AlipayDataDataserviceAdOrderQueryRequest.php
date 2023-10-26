@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.ad.order.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-10 20:25:48
+ * @since 1.0, 2023-08-21 04:06:58
  */
 class AlipayDataDataserviceAdOrderQueryRequest
 {

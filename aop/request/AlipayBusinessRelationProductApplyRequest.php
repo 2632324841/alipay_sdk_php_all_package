@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.business.relation.product.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 10:26:47
+ * @since 1.0, 2023-08-24 22:40:02
  */
 class AlipayBusinessRelationProductApplyRequest
 {

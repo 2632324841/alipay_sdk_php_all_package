@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.printmodel.print.send request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 15:07:34
+ * @since 1.0, 2023-08-21 05:11:41
  */
 class AlipayCommerceIotPrintmodelPrintSendRequest
 {

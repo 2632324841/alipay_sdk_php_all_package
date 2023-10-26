@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.wallet.scene.sign request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 14:54:23
+ * @since 1.0, 2023-08-21 03:31:44
  */
 class AlipayFundWalletSceneSignRequest
 {

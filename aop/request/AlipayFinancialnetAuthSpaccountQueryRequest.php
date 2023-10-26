@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.auth.spaccount.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 10:42:42
+ * @since 1.0, 2022-12-08 04:43:19
  */
 class AlipayFinancialnetAuthSpaccountQueryRequest
 {

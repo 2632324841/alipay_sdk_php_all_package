@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.antforest.energy.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 22:51:49
+ * @since 1.0, 2023-05-29 22:32:00
  */
 class AlipaySocialAntforestEnergyQueryRequest
 {

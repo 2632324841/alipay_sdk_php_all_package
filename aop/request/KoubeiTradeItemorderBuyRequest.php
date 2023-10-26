@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.trade.itemorder.buy request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 13:52:21
+ * @since 1.0, 2023-08-24 22:26:50
  */
 class KoubeiTradeItemorderBuyRequest
 {

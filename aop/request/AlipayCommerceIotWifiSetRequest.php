@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.wifi.set request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:47:05
+ * @since 1.0, 2023-08-23 20:36:26
  */
 class AlipayCommerceIotWifiSetRequest
 {

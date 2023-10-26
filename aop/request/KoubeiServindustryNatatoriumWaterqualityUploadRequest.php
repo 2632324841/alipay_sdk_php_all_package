@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.servindustry.natatorium.waterquality.upload request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:55:51
+ * @since 1.0, 2023-08-21 03:40:21
  */
 class KoubeiServindustryNatatoriumWaterqualityUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ssdata.dataservice.dteval.identitycheck.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 17:11:43
+ * @since 1.0, 2023-05-31 01:59:29
  */
 class SsdataDataserviceDtevalIdentitycheckQueryRequest
 {

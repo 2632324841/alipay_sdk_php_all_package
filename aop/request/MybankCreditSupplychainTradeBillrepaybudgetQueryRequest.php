@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.trade.billrepaybudget.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:17
+ * @since 1.0, 2023-09-04 01:38:22
  */
 class MybankCreditSupplychainTradeBillrepaybudgetQueryRequest
 {

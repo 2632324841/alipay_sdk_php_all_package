@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.stepcounter.data.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-01 20:23:58
+ * @since 1.0, 2023-08-21 01:56:45
  */
 class AlipayUserStepcounterDataBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.lottery.campresult.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-07 19:35:53
+ * @since 1.0, 2023-08-20 18:09:27
  */
 class AlipayOpenLotteryCampresultQueryRequest
 {

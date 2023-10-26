@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.resource.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:16:45
+ * @since 1.0, 2023-08-21 05:52:04
  */
 class AlipayOpenMiniResourceDeleteRequest
 {

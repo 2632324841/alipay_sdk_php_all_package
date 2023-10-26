@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.isv.signauth.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-10 10:27:57
+ * @since 1.0, 2023-09-11 17:41:47
  */
 class AlipayOpenSpIsvSignauthCreateRequest
 {

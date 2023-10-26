@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.scode.elede.unsign request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:49:33
+ * @since 1.0, 2023-08-20 17:41:03
  */
 class AntMerchantExpandScodeEledeUnsignRequest
 {

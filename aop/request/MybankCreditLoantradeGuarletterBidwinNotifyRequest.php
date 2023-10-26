@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.guarletter.bidwin.notify request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 18:50:40
+ * @since 1.0, 2023-09-18 20:03:10
  */
 class MybankCreditLoantradeGuarletterBidwinNotifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.membercard.userinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-10-26 20:06:18
+ * @since 1.0, 2023-08-24 21:02:27
  */
 class AntMerchantExpandMembercardUserinfoBatchqueryRequest
 {

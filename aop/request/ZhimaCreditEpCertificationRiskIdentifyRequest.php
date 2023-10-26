@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.certification.risk.identify request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 17:31:34
+ * @since 1.0, 2023-09-03 23:21:45
  */
 class ZhimaCreditEpCertificationRiskIdentifyRequest
 {

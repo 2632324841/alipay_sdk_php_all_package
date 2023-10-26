@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.marketing.mcaplatform.constract.sign request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:55:39
+ * @since 1.0, 2023-05-31 21:51:41
  */
 class MybankMarketingMcaplatformConstractSignRequest
 {

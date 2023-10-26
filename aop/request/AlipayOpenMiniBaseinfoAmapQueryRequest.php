@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.baseinfo.amap.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:46
+ * @since 1.0, 2023-09-03 23:28:44
  */
 class AlipayOpenMiniBaseinfoAmapQueryRequest
 {

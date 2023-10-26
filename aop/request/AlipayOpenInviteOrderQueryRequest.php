@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.invite.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-28 10:33:17
+ * @since 1.0, 2023-09-11 19:53:18
  */
 class AlipayOpenInviteOrderQueryRequest
 {

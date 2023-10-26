@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.cognitive.ocr.driverlicense.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:13
+ * @since 1.0, 2023-08-21 03:05:33
  */
 class AlipayIserviceCognitiveOcrDriverlicenseQueryRequest
 {

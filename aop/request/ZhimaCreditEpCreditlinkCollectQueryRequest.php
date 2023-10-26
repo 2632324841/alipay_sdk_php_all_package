@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.creditlink.collect.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-28 20:41:45
+ * @since 1.0, 2023-08-20 17:21:45
  */
 class ZhimaCreditEpCreditlinkCollectQueryRequest
 {

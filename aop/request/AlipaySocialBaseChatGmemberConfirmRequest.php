@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.chat.gmember.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-10-31 22:03:28
+ * @since 1.0, 2023-09-04 02:05:51
  */
 class AlipaySocialBaseChatGmemberConfirmRequest
 {

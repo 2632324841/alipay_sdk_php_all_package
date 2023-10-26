@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.cityfacilitator.function.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 15:57:25
+ * @since 1.0, 2023-05-31 02:37:03
  */
 class AlipayCommerceCityfacilitatorFunctionQueryRequest
 {

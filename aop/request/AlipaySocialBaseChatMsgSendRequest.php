@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.chat.msg.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 17:46:34
+ * @since 1.0, 2023-05-30 21:56:59
  */
 class AlipaySocialBaseChatMsgSendRequest
 {

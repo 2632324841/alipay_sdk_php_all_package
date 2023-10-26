@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.item.security.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:08:03
+ * @since 1.0, 2023-09-04 01:59:41
  */
 class AntMerchantExpandItemSecurityModifyRequest
 {

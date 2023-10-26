@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfaccenter.consolidation.accept request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 20:36:43
+ * @since 1.0, 2023-08-20 17:09:26
  */
 class AlipayBossFncGfaccenterConsolidationAcceptRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.competition.result.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:33:42
+ * @since 1.0, 2023-05-30 20:12:25
  */
 class AlipayCommerceEducateCompetitionResultNotifyRequest
 {

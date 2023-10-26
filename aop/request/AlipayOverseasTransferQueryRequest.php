@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.transfer.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-19 20:50:10
+ * @since 1.0, 2023-08-21 05:14:33
  */
 class AlipayOverseasTransferQueryRequest
 {

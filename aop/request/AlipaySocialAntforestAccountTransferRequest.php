@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.antforest.account.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 23:01:50
+ * @since 1.0, 2023-08-20 18:26:47
  */
 class AlipaySocialAntforestAccountTransferRequest
 {

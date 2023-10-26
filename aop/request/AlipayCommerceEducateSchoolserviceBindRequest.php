@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.schoolservice.bind request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 10:36:45
+ * @since 1.0, 2023-08-20 18:35:34
  */
 class AlipayCommerceEducateSchoolserviceBindRequest
 {

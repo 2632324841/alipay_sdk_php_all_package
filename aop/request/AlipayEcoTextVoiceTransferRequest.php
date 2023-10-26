@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.text.voice.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:57:45
+ * @since 1.0, 2023-08-21 03:43:25
  */
 class AlipayEcoTextVoiceTransferRequest
 {

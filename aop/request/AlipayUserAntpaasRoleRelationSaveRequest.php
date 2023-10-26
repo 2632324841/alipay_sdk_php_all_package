@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.antpaas.role.relation.save request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:54:49
+ * @since 1.0, 2023-05-31 10:21:34
  */
 class AlipayUserAntpaasRoleRelationSaveRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.creditpay.syncname.create request
  *
  * @author auto create
- * @since 1.0, 2020-03-20 11:30:10
+ * @since 1.0, 2023-08-21 01:13:40
  */
 class MybankCreditSupplychainCreditpaySyncnameCreateRequest
 {

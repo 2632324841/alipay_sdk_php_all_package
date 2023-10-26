@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.instservice.deduct.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 16:39:52
+ * @since 1.0, 2023-08-24 22:37:27
  */
 class AlipayEbppInstserviceDeductUnsignRequest
 {

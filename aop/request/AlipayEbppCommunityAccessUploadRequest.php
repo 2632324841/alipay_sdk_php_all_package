@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.access.upload request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:34:06
+ * @since 1.0, 2023-08-21 03:57:36
  */
 class AlipayEbppCommunityAccessUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.printer.task.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 11:06:59
+ * @since 1.0, 2023-08-23 21:45:43
  */
 class AlipayDataPrinterTaskCancelRequest
 {

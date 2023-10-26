@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.signflows.url.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 16:30:16
+ * @since 1.0, 2023-09-11 18:47:42
  */
 class AlipayEcoSignflowsUrlQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.offline.market.shop.category.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-09-12 06:56:53
  */
 class AlipayOfflineMarketShopCategoryQueryRequest
 {

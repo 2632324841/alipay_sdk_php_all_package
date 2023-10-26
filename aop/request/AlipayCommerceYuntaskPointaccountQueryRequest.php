@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.yuntask.pointaccount.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 15:56:32
+ * @since 1.0, 2023-05-30 21:36:52
  */
 class AlipayCommerceYuntaskPointaccountQueryRequest
 {

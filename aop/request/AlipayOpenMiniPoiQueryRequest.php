@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.poi.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:50
+ * @since 1.0, 2023-09-04 00:05:08
  */
 class AlipayOpenMiniPoiQueryRequest
 {

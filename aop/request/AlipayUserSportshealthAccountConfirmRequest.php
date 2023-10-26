@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.sportshealth.account.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-10-24 15:11:49
+ * @since 1.0, 2023-09-04 01:56:38
  */
 class AlipayUserSportshealthAccountConfirmRequest
 {

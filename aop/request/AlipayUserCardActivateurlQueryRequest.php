@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.card.activateurl.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 21:23:14
+ * @since 1.0, 2023-08-21 01:48:05
  */
 class AlipayUserCardActivateurlQueryRequest
 {

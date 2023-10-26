@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.twc.tradeinfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 20:21:51
+ * @since 1.0, 2023-05-31 01:51:50
  */
 class AnttechBlockchainTwcTradeinfoQueryRequest
 {

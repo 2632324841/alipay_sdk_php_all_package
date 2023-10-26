@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.auth.cardbin.private.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 14:35:06
+ * @since 1.0, 2023-05-30 21:52:41
  */
 class AlipayFinancialnetAuthCardbinPrivateQueryRequest
 {

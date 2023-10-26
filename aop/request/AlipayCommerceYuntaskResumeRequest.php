@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.yuntask.resume request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 19:46:33
+ * @since 1.0, 2023-08-23 20:46:48
  */
 class AlipayCommerceYuntaskResumeRequest
 {

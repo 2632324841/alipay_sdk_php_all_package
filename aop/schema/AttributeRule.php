@@ -1,6 +1,5 @@
 <?php
 namespace aop\schema;
-
 class AttributeRule
 {
     private $type;

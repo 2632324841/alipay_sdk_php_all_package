@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.ai.cv.ua.async.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-03 18:36:41
+ * @since 1.0, 2023-05-29 20:17:30
  */
 class AnttechAiCvUaAsyncQueryRequest
 {

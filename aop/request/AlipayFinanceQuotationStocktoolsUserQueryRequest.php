@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.finance.quotation.stocktools.user.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-21 11:11:51
+ * @since 1.0, 2023-08-20 17:51:46
  */
 class AlipayFinanceQuotationStocktoolsUserQueryRequest
 {

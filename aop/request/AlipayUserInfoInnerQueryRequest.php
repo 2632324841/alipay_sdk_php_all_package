@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.info.inner.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 15:55:24
+ * @since 1.0, 2023-09-04 01:53:32
  */
 class AlipayUserInfoInnerQueryRequest
 {

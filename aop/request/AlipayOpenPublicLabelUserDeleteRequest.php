@@ -1,6 +1,7 @@
 <?php
 namespace aop\request;
 namespace aop\request;
+namespace aop\request;
 /**
  * ALIPAY API: alipay.open.public.label.user.delete request
  *

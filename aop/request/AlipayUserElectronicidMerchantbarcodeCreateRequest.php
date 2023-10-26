@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.electronicid.merchantbarcode.create request
  *
  * @author auto create
- * @since 1.0, 2020-08-27 15:05:13
+ * @since 1.0, 2023-08-20 18:43:27
  */
 class AlipayUserElectronicidMerchantbarcodeCreateRequest
 {

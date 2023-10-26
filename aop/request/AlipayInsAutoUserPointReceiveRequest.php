@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.user.point.receive request
  *
  * @author auto create
- * @since 1.0, 2022-10-08 16:25:18
+ * @since 1.0, 2023-08-20 18:41:49
  */
 class AlipayInsAutoUserPointReceiveRequest
 {

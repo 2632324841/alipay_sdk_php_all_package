@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.receipt.send request
  *
  * @author auto create
- * @since 1.0, 2021-11-18 15:40:20
+ * @since 1.0, 2023-05-29 21:47:12
  */
 class AlipayCommerceIotReceiptSendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.auth.contract.merchant.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-06-10 14:49:47
+ * @since 1.0, 2023-08-20 17:46:46
  */
 class AlipayFinancialnetAuthContractMerchantUnsignRequest
 {

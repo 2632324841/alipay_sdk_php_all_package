@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfacceptance.bill.reverse request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 14:58:22
+ * @since 1.0, 2023-08-21 03:39:59
  */
 class AlipayBossFncGfacceptanceBillReverseRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.isv.importedbill.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-24 10:10:16
+ * @since 1.0, 2023-09-04 00:00:53
  */
 class AlipayEbppIsvImportedbillQueryRequest
 {

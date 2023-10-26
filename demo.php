@@ -12,7 +12,7 @@ $aop->gatewayUrl = "https://openapi.alipay.com/gateway.do";
 $aop->appId = "appid";
 $aop->rsaPrivateKey = '' ;
 $aop->format = "json";
-$aop->charset= "UTF-8";
+$aop->postCharset= "UTF-8";
 $aop->signType= "RSA2";
 //调用getPublicKey从支付宝公钥证书中提取公钥
 $aop->alipayrsaPublicKey = $aop->getPublicKey($alipayCertPath);

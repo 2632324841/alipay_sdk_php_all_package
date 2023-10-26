@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.receipt.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 10:01:36
+ * @since 1.0, 2023-05-29 23:21:52
  */
 class AlipayCommerceReceiptSyncRequest
 {

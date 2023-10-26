@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.order.status.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:50:42
+ * @since 1.0, 2023-08-21 02:00:26
  */
 class AlipayEcoMycarOrderStatusQueryRequest
 {

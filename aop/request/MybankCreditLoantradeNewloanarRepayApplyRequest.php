@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.newloanar.repay.apply request
  *
  * @author auto create
- * @since 1.0, 2019-08-30 16:58:13
+ * @since 1.0, 2023-08-21 05:09:47
  */
 class MybankCreditLoantradeNewloanarRepayApplyRequest
 {

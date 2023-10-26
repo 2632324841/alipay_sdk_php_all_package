@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.blueseaactivity.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:01:48
+ * @since 1.0, 2023-09-11 16:32:46
  */
 class AlipayOpenSpBlueseaactivityQueryRequest
 {

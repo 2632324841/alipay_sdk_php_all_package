@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.servicemarket.instance.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:37:28
+ * @since 1.0, 2023-08-21 02:24:08
  */
 class AlipayOpenServicemarketInstanceSyncRequest
 {

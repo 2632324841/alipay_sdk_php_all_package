@@ -1,5 +1,6 @@
 <?php
 namespace aop\schema;
+
 class XMLAttribute
 {
     private $id;

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.merge.precreate request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 17:36:36
+ * @since 1.0, 2023-10-12 17:26:46
  */
 class AlipayTradeMergePrecreateRequest
 {

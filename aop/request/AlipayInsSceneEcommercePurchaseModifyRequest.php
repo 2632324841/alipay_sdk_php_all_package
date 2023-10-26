@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.ecommerce.purchase.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:41:48
+ * @since 1.0, 2023-08-20 18:31:49
  */
 class AlipayInsSceneEcommercePurchaseModifyRequest
 {

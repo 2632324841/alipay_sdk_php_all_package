@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.antlescenter.esignresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 15:10:53
+ * @since 1.0, 2023-08-21 04:21:22
  */
 class AlipayBossProdAntlescenterEsignresultQueryRequest
 {

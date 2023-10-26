@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.antsports.currentpath.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-18 10:51:51
+ * @since 1.0, 2023-08-21 01:46:45
  */
 class AlipaySocialAntsportsCurrentpathQueryRequest
 {

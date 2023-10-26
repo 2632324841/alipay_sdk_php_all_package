@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.aiservice.smartprice.merchanteffect.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-25 11:19:03
+ * @since 1.0, 2023-05-31 06:14:17
  */
 class AlipayDataAiserviceSmartpriceMerchanteffectQueryRequest
 {

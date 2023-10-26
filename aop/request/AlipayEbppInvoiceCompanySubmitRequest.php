@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.company.submit request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:06:19
+ * @since 1.0, 2023-05-29 20:35:35
  */
 class AlipayEbppInvoiceCompanySubmitRequest
 {

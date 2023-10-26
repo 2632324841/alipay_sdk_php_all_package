@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.ad.promotepagestatistic.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-08 11:48:29
+ * @since 1.0, 2023-09-03 23:25:28
  */
 class AlipayDataDataserviceAdPromotepagestatisticQueryRequest
 {

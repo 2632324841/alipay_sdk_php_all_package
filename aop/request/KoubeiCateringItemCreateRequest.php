@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.item.create request
  *
  * @author auto create
- * @since 1.0, 2022-07-07 15:33:24
+ * @since 1.0, 2023-05-29 21:53:57
  */
 class KoubeiCateringItemCreateRequest
 {

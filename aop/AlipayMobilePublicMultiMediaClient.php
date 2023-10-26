@@ -1,11 +1,14 @@
 <?php
+
 namespace aop;
-use aop\AlipayMobilePublicMultiMediaExecute;
+
 /**
  * 多媒体文件客户端
  * @author yikai.hu
  * @version $Id: AlipayMobilePublicMultiMediaClient.php, v 0.1 Aug 15, 2014 10:19:01 AM yikai.hu Exp $
  */
+
+use aop\AlipayMobilePublicMultiMediaExecute;
 
 class AlipayMobilePublicMultiMediaClient
 {
@@ -14,7 +17,7 @@ class AlipayMobilePublicMultiMediaClient
     private $METHOD_GET = "GET";
     private $SIGN = 'sign'; //get name
 
-    private $timeout = 10;// 超时时间
+    private $timeout = 10; // 超时时间
     private $serverUrl;
     private $appId;
     private $privateKey;
@@ -31,32 +34,34 @@ class AlipayMobilePublicMultiMediaClient
     private $connectTimeout = 3000;
     private $readTimeout = 15000;
 
-    function __construct($serverUrl = '', $appId = '', $partner_private_key = '', $format = '', $charset = 'GBK')
+    function __construct($serverUrl = '', $appId = '', $partner_private_key = '', $format = '', $charset = 'GBK', $media_id = '')
     {
         $this->serverUrl = $serverUrl;
         $this->appId = $appId;
         $this->privateKey = $partner_private_key;
         $this->format = $format;
         $this->charset = $charset;
+        $this->media_id = $media_id;
     }
 
     /**
      * 设置媒体id
      *
      * @param string $media_id
-     * @return void
+     * @return string
      */
-    public function setMediaId(string $media_id){
+    public function setMediaId(string $media_id)
+    {
         $this->media_id = $media_id;
-        return $this;
     }
 
     /**
-     * 获取媒体id
+     * 获取当前媒体id
      *
-     * @return void
+     * @return string
      */
-    public function getMediaId(){
+    public function getMediaId()
+    {
         return $this->media_id;
     }
 
@@ -72,7 +77,7 @@ class AlipayMobilePublicMultiMediaClient
             "method" => $this->METHOD_POST,
             "sign_type" => $this->sign_type,
             "version" => $this->apiVersion,
-            "timestamp" => date('Y-m-d H:i:s'),//yyyy-MM-dd HH:mm:ss
+            "timestamp" => date('Y-m-d H:i:s'), //yyyy-MM-dd HH:mm:ss
             "biz_content" => '{"mediaId":"' . $this->media_id . '"}',
             "charset" => $this->charset
         );
@@ -102,6 +107,8 @@ class AlipayMobilePublicMultiMediaClient
         $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         curl_close($ch);
 
+        echo $output;
+
         $datas = explode("\r\n\r\n", $output, 2);
         $header = $datas[0];
 
@@ -109,7 +116,6 @@ class AlipayMobilePublicMultiMediaClient
             $body = $datas[1];
         } else {
             $body = '';
-
         }
 
         return $this->execute($header, $body, $httpCode);
@@ -129,7 +135,7 @@ class AlipayMobilePublicMultiMediaClient
     public function buildGetUrl($query = array())
     {
         if (!is_array($query)) {
-            throw new \Exception('query is not array');
+            //exit;
         }
         //排序参数，
         $data = $this->buildQuery($query);
@@ -168,12 +174,16 @@ class AlipayMobilePublicMultiMediaClient
             openssl_sign($data, $signature, $private_id, OPENSSL_ALGO_SHA1);
         }
 
-        openssl_free_key($private_id);
+        if (version_compare(PHP_VERSION, '8.0', '<')) {
+            openssl_free_key($private_id);
+        }
 
         //加密后的内容通常含有特殊字符，需要编码转换下
         $signature = base64_encode($signature);
 
         $signature = urlencode($signature);
+
+        //$signature = 'XjUN6YM1Mc9HXebKMv7GTLy7gmyhktyOgKk2/Jf+cz4DtP6udkzTdpkjW2j/Z4ZSD7xD6CNYI1Spz4yS93HPT0a5X9LgFWYY8SaADqe+ArXg+FBSiTwUz49SE//Xd9+LEiIRsSFkbpkuiGoO6mqJmB7vXjlD5lx6qCM3nb41wb8=';
 
         $out = $data . '&' . $this->SIGN . '=' . $signature;
 
@@ -199,5 +209,4 @@ class AlipayMobilePublicMultiMediaClient
         $data = implode('&', $params);
         return $data;
     }
-
 }

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.leads.expand.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-12 14:51:40
+ * @since 1.0, 2023-09-11 16:38:25
  */
 class AlipayOpenSpLeadsExpandCreateRequest
 {

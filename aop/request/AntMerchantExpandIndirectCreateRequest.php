@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.indirect.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 11:46:35
+ * @since 1.0, 2023-08-21 03:51:42
  */
 class AntMerchantExpandIndirectCreateRequest
 {

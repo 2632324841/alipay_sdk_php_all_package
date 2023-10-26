@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.zmscore.zrank.get request
  *
  * @author auto create
- * @since 1.0, 2019-08-13 16:30:45
+ * @since 1.0, 2023-08-21 05:29:35
  */
 class AlipayZmscoreZrankGetRequest
 {

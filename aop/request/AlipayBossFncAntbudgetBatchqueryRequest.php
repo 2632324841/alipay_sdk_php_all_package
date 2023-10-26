@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.antbudget.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-05-19 14:26:12
+ * @since 1.0, 2023-09-04 01:26:51
  */
 class AlipayBossFncAntbudgetBatchqueryRequest
 {

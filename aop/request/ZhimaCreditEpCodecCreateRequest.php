@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.codec.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-08-23 21:44:26
  */
 class ZhimaCreditEpCodecCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.item.greenenergy.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 14:51:36
+ * @since 1.0, 2023-08-21 01:36:47
  */
 class AlipayCommerceItemGreenenergySendRequest
 {

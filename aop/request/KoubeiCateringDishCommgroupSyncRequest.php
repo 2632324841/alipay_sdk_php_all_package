@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.dish.commgroup.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:38:19
+ * @since 1.0, 2023-08-24 22:01:37
  */
 class KoubeiCateringDishCommgroupSyncRequest
 {

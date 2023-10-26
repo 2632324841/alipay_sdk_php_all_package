@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.applyorder.createormodify request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 13:31:35
+ * @since 1.0, 2023-08-21 03:41:42
  */
 class AlipayCommerceTransportEtcApplyorderCreateormodifyRequest
 {

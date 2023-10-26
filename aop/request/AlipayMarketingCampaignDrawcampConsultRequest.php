@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.drawcamp.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 20:56:54
+ * @since 1.0, 2023-08-21 02:11:46
  */
 class AlipayMarketingCampaignDrawcampConsultRequest
 {

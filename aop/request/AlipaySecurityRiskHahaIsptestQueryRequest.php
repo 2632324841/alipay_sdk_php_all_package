@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.haha.isptest.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 14:59:25
+ * @since 1.0, 2023-08-21 03:36:55
  */
 class AlipaySecurityRiskHahaIsptestQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fincore.fundds.fund.witness.pay request
  *
  * @author auto create
- * @since 1.0, 2022-08-30 15:10:56
+ * @since 1.0, 2023-09-06 20:27:58
  */
 class AlipayFincoreFunddsFundWitnessPayRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.ipsponsor.consumegold.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-15 11:17:31
+ * @since 1.0, 2023-08-21 04:21:46
  */
 class AlipayOpenIpsponsorConsumegoldQueryRequest
 {

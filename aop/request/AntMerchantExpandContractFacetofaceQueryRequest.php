@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.contract.facetoface.query request
  *
  * @author auto create
- * @since 1.0, 2021-04-15 12:13:48
+ * @since 1.0, 2023-08-20 17:01:33
  */
 class AntMerchantExpandContractFacetofaceQueryRequest
 {

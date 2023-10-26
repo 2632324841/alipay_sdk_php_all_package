@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.billcharge.suborder.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 13:41:34
+ * @since 1.0, 2023-08-20 17:16:47
  */
 class AlipayEbppBillchargeSuborderQueryRequest
 {

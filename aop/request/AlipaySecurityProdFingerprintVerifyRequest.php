@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.fingerprint.verify request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:40:32
+ * @since 1.0, 2023-05-31 07:18:56
  */
 class AlipaySecurityProdFingerprintVerifyRequest
 {

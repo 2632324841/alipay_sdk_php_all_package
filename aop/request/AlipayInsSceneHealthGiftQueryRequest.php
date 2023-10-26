@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.health.gift.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 10:55:43
+ * @since 1.0, 2023-09-04 01:28:37
  */
 class AlipayInsSceneHealthGiftQueryRequest
 {

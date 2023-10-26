@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.settlement.apply request
  *
  * @author auto create
- * @since 1.0, 2022-09-09 13:46:52
+ * @since 1.0, 2023-10-09 16:06:50
  */
 class AlipayCommerceTransportEtcSettlementApplyRequest
 {

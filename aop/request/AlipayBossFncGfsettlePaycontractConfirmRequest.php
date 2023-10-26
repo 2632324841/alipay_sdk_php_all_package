@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfsettle.paycontract.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-09-30 15:18:51
+ * @since 1.0, 2023-09-03 23:52:13
  */
 class AlipayBossFncGfsettlePaycontractConfirmRequest
 {

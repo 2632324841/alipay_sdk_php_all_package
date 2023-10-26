@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.user.certify.open.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-12 10:36:16
+ * @since 1.0, 2023-08-21 05:13:15
  */
 class MybankCreditUserCertifyOpenQueryRequest
 {

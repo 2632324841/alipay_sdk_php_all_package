@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.vehicleowner.campaign.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-10 17:35:17
+ * @since 1.0, 2023-08-20 17:13:19
  */
 class AlipayCommerceTransportVehicleownerCampaignQueryRequest
 {

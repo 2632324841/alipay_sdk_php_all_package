@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.agent.commonsign.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-07 21:00:59
+ * @since 1.0, 2023-09-11 19:31:45
  */
 class AlipayOpenAgentCommonsignConfirmRequest
 {

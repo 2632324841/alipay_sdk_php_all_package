@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.exchangevoucher.template.create request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 18:07:43
+ * @since 1.0, 2023-09-26 11:39:08
  */
 class AlipayMarketingExchangevoucherTemplateCreateRequest
 {

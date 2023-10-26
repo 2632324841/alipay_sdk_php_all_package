@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.equity.shop.custrelation.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:29:45
+ * @since 1.0, 2023-09-04 01:06:58
  */
 class AntfortuneEquityShopCustrelationQueryRequest
 {

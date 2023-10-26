@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.identification.customer.certify.consult request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 21:35:46
+ * @since 1.0, 2023-09-04 02:06:14
  */
 class ZolozIdentificationCustomerCertifyConsultRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.industry.gov.fastmode.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 14:51:48
+ * @since 1.0, 2023-08-20 16:46:48
  */
 class AlipayEbppIndustryGovFastmodeSyncRequest
 {

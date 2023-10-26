@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.jointaccount.member.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 14:47:50
+ * @since 1.0, 2023-09-11 18:11:49
  */
 class AlipayFundJointaccountMemberBatchqueryRequest
 {

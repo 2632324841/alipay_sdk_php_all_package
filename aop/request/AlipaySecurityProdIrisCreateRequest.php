@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.iris.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:10
+ * @since 1.0, 2023-05-29 22:45:43
  */
 class AlipaySecurityProdIrisCreateRequest
 {

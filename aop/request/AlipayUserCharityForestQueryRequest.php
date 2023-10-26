@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.charity.forest.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 20:21:50
+ * @since 1.0, 2023-08-21 06:06:47
  */
 class AlipayUserCharityForestQueryRequest
 {

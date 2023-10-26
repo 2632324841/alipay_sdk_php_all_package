@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.certinfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 14:45:52
+ * @since 1.0, 2023-05-31 00:54:36
  */
 class AlipayEcoCityserviceCertinfoQueryRequest
 {

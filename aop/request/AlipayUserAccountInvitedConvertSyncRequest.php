@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.account.invited.convert.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-21 18:09:06
+ * @since 1.0, 2023-08-21 03:46:43
  */
 class AlipayUserAccountInvitedConvertSyncRequest
 {

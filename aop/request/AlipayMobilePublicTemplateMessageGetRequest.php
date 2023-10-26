@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.mobile.public.template.message.get request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:11:01
+ * @since 1.0, 2023-09-12 06:57:38
  */
 class AlipayMobilePublicTemplateMessageGetRequest
 {

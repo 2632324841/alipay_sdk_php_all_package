@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.pay.sign.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:58:56
+ * @since 1.0, 2023-01-12 14:23:22
  */
 class MybankCreditLoantradePaySignCancelRequest
 {

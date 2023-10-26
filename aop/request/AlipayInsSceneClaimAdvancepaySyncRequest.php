@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.claim.advancepay.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:36:47
+ * @since 1.0, 2023-08-24 21:03:48
  */
 class AlipayInsSceneClaimAdvancepaySyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.background.interface.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-06 15:17:35
+ * @since 1.0, 2023-08-21 03:38:19
  */
 class AlipaySecurityRiskBackgroundInterfaceQueryRequest
 {

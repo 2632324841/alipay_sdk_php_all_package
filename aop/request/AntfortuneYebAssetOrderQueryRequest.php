@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.yeb.asset.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-26 17:25:15
+ * @since 1.0, 2023-08-20 18:36:44
  */
 class AntfortuneYebAssetOrderQueryRequest
 {

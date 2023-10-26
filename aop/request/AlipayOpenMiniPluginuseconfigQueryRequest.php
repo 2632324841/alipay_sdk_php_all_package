@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.pluginuseconfig.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:45:36
+ * @since 1.0, 2023-08-24 21:26:45
  */
 class AlipayOpenMiniPluginuseconfigQueryRequest
 {

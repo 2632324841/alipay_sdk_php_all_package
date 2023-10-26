@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.ifaatam.messagenotify.send request
  *
  * @author auto create
- * @since 1.0, 2021-03-18 19:22:33
+ * @since 1.0, 2023-09-03 23:09:47
  */
 class AlipaySecurityProdIfaatamMessagenotifySendRequest
 {

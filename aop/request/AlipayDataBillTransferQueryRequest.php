@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.bill.transfer.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-23 11:58:52
+ * @since 1.0, 2023-09-11 17:31:48
  */
 class AlipayDataBillTransferQueryRequest
 {

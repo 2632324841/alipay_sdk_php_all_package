@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.chat.gnotice.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:06:09
+ * @since 1.0, 2023-08-21 01:42:27
  */
 class AlipaySocialBaseChatGnoticeModifyRequest
 {

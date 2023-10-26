@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.user.chargeinst.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 14:07:37
+ * @since 1.0, 2023-08-21 04:51:47
  */
 class AlipayEbppUserChargeinstQueryRequest
 {

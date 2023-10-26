@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.baseinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-22 21:00:28
+ * @since 1.0, 2023-05-31 00:35:20
  */
 class AlipayCommerceIotDeviceBaseinfoQueryRequest
 {

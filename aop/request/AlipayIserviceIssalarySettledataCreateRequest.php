@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.issalary.settledata.create request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 09:51:40
+ * @since 1.0, 2023-08-21 05:48:27
  */
 class AlipayIserviceIssalarySettledataCreateRequest
 {

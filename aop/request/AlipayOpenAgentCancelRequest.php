@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.agent.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:32:03
+ * @since 1.0, 2023-09-12 06:55:17
  */
 class AlipayOpenAgentCancelRequest
 {

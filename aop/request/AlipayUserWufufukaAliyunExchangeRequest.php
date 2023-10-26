@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.wufufuka.aliyun.exchange request
  *
  * @author auto create
- * @since 1.0, 2022-01-16 22:01:40
+ * @since 1.0, 2023-05-30 23:45:50
  */
 class AlipayUserWufufukaAliyunExchangeRequest
 {

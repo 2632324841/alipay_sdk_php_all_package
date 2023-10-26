@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.industry.job.contract.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 14:56:35
+ * @since 1.0, 2023-08-23 21:51:43
  */
 class AlipayEbppIndustryJobContractCreateRequest
 {
@@ -14,14 +14,29 @@ class AlipayEbppIndustryJobContractCreateRequest
 	private $companyList;
 	
 	/** 
+	 * 合同签署失败时的跳转地址，如果不做单独配置，默认与redirect_url一致
+	 **/
+	private $failureRedirectUrl;
+	
+	/** 
 	 * 上传文件的二进制流
 	 **/
 	private $fileContent;
 	
 	/** 
+	 * 签署状态变更时的通知地址
+	 **/
+	private $noticeUrl;
+	
+	/** 
 	 * 外部订单号
 	 **/
 	private $outerBizNo;
+	
+	/** 
+	 * 签署成功后的重定向跳转地址
+	 **/
+	private $redirectUrl;
 	
 	/** 
 	 * 签署平台: H5 或者 ALIPAY
@@ -54,6 +69,17 @@ class AlipayEbppIndustryJobContractCreateRequest
 		return $this->companyList;
 	}
 
+	public function setFailureRedirectUrl($failureRedirectUrl)
+	{
+		$this->failureRedirectUrl = $failureRedirectUrl;
+		$this->apiParas["failure_redirect_url"] = $failureRedirectUrl;
+	}
+
+	public function getFailureRedirectUrl()
+	{
+		return $this->failureRedirectUrl;
+	}
+
 	public function setFileContent($fileContent)
 	{
 		$this->fileContent = $fileContent;
@@ -65,6 +91,17 @@ class AlipayEbppIndustryJobContractCreateRequest
 		return $this->fileContent;
 	}
 
+	public function setNoticeUrl($noticeUrl)
+	{
+		$this->noticeUrl = $noticeUrl;
+		$this->apiParas["notice_url"] = $noticeUrl;
+	}
+
+	public function getNoticeUrl()
+	{
+		return $this->noticeUrl;
+	}
+
 	public function setOuterBizNo($outerBizNo)
 	{
 		$this->outerBizNo = $outerBizNo;
@@ -74,6 +111,17 @@ class AlipayEbppIndustryJobContractCreateRequest
 	public function getOuterBizNo()
 	{
 		return $this->outerBizNo;
+	}
+
+	public function setRedirectUrl($redirectUrl)
+	{
+		$this->redirectUrl = $redirectUrl;
+		$this->apiParas["redirect_url"] = $redirectUrl;
+	}
+
+	public function getRedirectUrl()
+	{
+		return $this->redirectUrl;
 	}
 
 	public function setSignPlatform($signPlatform)

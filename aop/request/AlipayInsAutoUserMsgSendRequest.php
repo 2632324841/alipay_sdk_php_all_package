@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.user.msg.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-12 14:45:00
+ * @since 1.0, 2023-08-24 22:46:46
  */
 class AlipayInsAutoUserMsgSendRequest
 {

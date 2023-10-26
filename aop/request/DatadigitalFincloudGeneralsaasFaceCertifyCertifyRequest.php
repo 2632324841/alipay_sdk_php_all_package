@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.generalsaas.face.certify.certify request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 11:51:37
+ * @since 1.0, 2023-08-21 01:51:21
  */
 class DatadigitalFincloudGeneralsaasFaceCertifyCertifyRequest
 {

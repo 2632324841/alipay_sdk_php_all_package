@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.scene.facegroup.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-24 18:05:40
+ * @since 1.0, 2023-08-21 02:31:47
  */
 class AlipayCommerceEducateSceneFacegroupQueryRequest
 {

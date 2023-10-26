@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gffund.standardvoucher.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-10-13 10:32:46
+ * @since 1.0, 2023-05-29 23:24:55
  */
 class AlipayBossFncGffundStandardvoucherBatchqueryRequest
 {

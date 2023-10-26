@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.zhima.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 15:26:25
+ * @since 1.0, 2023-09-04 01:50:18
  */
 class AlipayCommerceZhimaPreorderCreateRequest
 {

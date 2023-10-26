@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.data.amlasset.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 14:58:36
+ * @since 1.0, 2023-05-29 21:36:49
  */
 class AlipaySecurityDataAmlassetBatchqueryRequest
 {

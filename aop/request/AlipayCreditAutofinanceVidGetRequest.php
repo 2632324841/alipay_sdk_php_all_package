@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.credit.autofinance.vid.get request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-05-30 23:49:24
  */
 class AlipayCreditAutofinanceVidGetRequest
 {

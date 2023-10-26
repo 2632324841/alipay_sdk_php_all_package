@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.benefit.order.close request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:47
+ * @since 1.0, 2023-05-31 01:04:02
  */
 class AlipayPcreditHuabeiBenefitOrderCloseRequest
 {

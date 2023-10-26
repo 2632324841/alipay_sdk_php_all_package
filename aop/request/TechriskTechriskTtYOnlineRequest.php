@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: techrisk.techrisk.tt.y.online request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 12:06:55
+ * @since 1.0, 2023-08-20 18:06:49
  */
 class TechriskTechriskTtYOnlineRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.ele.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 16:06:44
+ * @since 1.0, 2023-08-21 02:15:38
  */
 class KoubeiCateringEleOrderSyncRequest
 {

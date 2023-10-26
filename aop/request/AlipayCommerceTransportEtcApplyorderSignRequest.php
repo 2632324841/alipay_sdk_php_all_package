@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.applyorder.sign request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 13:31:35
+ * @since 1.0, 2023-05-31 03:11:55
  */
 class AlipayCommerceTransportEtcApplyorderSignRequest
 {

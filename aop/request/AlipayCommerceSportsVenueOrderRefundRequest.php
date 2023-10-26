@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.sports.venue.order.refund request
  *
  * @author auto create
- * @since 1.0, 2021-04-28 19:06:24
+ * @since 1.0, 2023-08-20 17:43:57
  */
 class AlipayCommerceSportsVenueOrderRefundRequest
 {

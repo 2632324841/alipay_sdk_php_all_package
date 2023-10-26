@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.point.voucherprod.assetbill.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:38:26
+ * @since 1.0, 2023-09-04 01:22:25
  */
 class AlipayAssetPointVoucherprodAssetbillQueryRequest
 {

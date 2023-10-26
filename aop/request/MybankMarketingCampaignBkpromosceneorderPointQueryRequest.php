@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.marketing.campaign.bkpromosceneorder.point.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 20:16:55
+ * @since 1.0, 2023-05-29 20:35:18
  */
 class MybankMarketingCampaignBkpromosceneorderPointQueryRequest
 {

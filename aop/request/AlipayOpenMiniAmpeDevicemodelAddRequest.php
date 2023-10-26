@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.ampe.devicemodel.add request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:46
+ * @since 1.0, 2023-08-21 05:39:07
  */
 class AlipayOpenMiniAmpeDevicemodelAddRequest
 {

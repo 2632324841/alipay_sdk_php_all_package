@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.ccm.role.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 11:17:00
+ * @since 1.0, 2023-09-11 18:55:26
  */
 class AlipayIserviceCcmRoleDeleteRequest
 {

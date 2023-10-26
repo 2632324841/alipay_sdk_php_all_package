@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.pcreditmerchant.productorder.apply request
  *
  * @author auto create
- * @since 1.0, 2021-01-19 17:00:41
+ * @since 1.0, 2023-08-21 02:51:55
  */
 class AlipayPcreditHuabeiPcreditmerchantProductorderApplyRequest
 {

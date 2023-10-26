@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.sn.rule.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 19:15:52
+ * @since 1.0, 2023-08-21 01:52:28
  */
 class AlipayCommerceIotSnRuleQueryRequest
 {

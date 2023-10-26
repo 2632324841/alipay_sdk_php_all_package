@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.business.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2019-08-17 17:39:20
+ * @since 1.0, 2023-08-21 05:11:30
  */
 class AlipayBusinessOrderCancelRequest
 {

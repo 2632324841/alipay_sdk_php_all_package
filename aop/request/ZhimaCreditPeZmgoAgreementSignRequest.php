@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.zmgo.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 17:54:39
+ * @since 1.0, 2023-08-21 05:46:18
  */
 class ZhimaCreditPeZmgoAgreementSignRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.application.orderapply.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 13:30:28
+ * @since 1.0, 2023-08-21 05:31:04
  */
 class AlipayInsSceneApplicationOrderapplyCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.privacy.audit.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-04 10:11:44
+ * @since 1.0, 2023-08-21 05:25:44
  */
 class AlipayOpenMiniPrivacyAuditCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.campus.biztask.finish request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 20:20:53
+ * @since 1.0, 2023-06-12 14:34:19
  */
 class AlipayCommerceEducateCampusBiztaskFinishRequest
 {

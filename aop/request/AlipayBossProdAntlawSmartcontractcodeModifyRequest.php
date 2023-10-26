@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.antlaw.smartcontractcode.modify request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 20:45:08
+ * @since 1.0, 2023-05-29 23:45:15
  */
 class AlipayBossProdAntlawSmartcontractcodeModifyRequest
 {

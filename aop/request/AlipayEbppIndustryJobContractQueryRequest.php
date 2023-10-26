@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.industry.job.contract.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-24 16:11:54
+ * @since 1.0, 2023-08-24 21:34:06
  */
 class AlipayEbppIndustryJobContractQueryRequest
 {

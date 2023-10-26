@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.member.citycard.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:26:38
+ * @since 1.0, 2023-09-04 00:14:47
  */
 class AlipayUserMemberCitycardSyncRequest
 {

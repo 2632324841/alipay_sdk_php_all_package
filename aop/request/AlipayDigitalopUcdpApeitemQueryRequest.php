@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.digitalop.ucdp.apeitem.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 18:11:35
+ * @since 1.0, 2023-08-01 20:42:03
  */
 class AlipayDigitalopUcdpApeitemQueryRequest
 {

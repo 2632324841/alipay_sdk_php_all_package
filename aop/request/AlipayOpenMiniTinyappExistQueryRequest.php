@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.tinyapp.exist.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:07
+ * @since 1.0, 2023-08-21 02:05:48
  */
 class AlipayOpenMiniTinyappExistQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.wufufuka.aliyun.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 15:55:37
+ * @since 1.0, 2023-08-21 01:35:14
  */
 class AlipayUserWufufukaAliyunNotifyRequest
 {

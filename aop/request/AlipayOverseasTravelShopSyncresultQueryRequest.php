@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.travel.shop.syncresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-17 17:48:41
+ * @since 1.0, 2023-08-21 01:58:51
  */
 class AlipayOverseasTravelShopSyncresultQueryRequest
 {

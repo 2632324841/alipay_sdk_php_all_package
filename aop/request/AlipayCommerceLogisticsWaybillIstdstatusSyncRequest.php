@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.logistics.waybill.istdstatus.sync request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:06
+ * @since 1.0, 2023-06-14 09:55:29
  */
 class AlipayCommerceLogisticsWaybillIstdstatusSyncRequest
 {

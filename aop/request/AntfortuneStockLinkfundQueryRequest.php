@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.stock.linkfund.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-13 15:00:18
+ * @since 1.0, 2023-08-21 01:12:06
  */
 class AntfortuneStockLinkfundQueryRequest
 {

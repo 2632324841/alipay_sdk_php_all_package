@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.auth.order.app.freeze request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:41:35
+ * @since 1.0, 2023-09-11 19:16:45
  */
 class AlipayFundAuthOrderAppFreezeRequest
 {

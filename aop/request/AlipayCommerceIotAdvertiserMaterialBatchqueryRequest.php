@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.advertiser.material.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-16 16:43:17
+ * @since 1.0, 2023-05-29 21:15:21
  */
 class AlipayCommerceIotAdvertiserMaterialBatchqueryRequest
 {

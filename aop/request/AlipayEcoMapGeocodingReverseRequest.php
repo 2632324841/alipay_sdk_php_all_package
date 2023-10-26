@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.map.geocoding.reverse request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:32
+ * @since 1.0, 2023-08-21 05:03:11
  */
 class AlipayEcoMapGeocodingReverseRequest
 {

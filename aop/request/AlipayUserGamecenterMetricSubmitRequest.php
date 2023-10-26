@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.gamecenter.metric.submit request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:26:37
+ * @since 1.0, 2023-09-04 01:07:10
  */
 class AlipayUserGamecenterMetricSubmitRequest
 {

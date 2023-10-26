@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.channel.create request
  *
  * @author auto create
- * @since 1.0, 2022-04-06 11:01:40
+ * @since 1.0, 2023-05-30 23:37:46
  */
 class AlipayMerchantChannelCreateRequest
 {

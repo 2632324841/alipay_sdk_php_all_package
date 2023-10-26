@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.inner.cansearch.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-27 12:26:41
+ * @since 1.0, 2023-08-20 18:43:42
  */
 class AlipayOpenMiniInnerCansearchQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.product.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-31 16:11:25
+ * @since 1.0, 2023-09-03 23:36:28
  */
 class AlipayInsSceneProductSignQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.system.oauth.token request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 11:31:40
+ * @since 1.0, 2023-10-10 15:06:44
  */
 class AlipaySystemOauthTokenRequest
 {
@@ -14,9 +14,7 @@ class AlipaySystemOauthTokenRequest
 	private $code;
 	
 	/** 
-	 * 授权方式。支持：
-1.authorization_code，表示换取使用用户授权码code换取授权令牌access_token。
-2.refresh_token，表示使用refresh_token刷新获取新授权令牌。
+	 * 授权方式
 	 **/
 	private $grantType;
 	

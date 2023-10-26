@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.mcomment.footprint.upload request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 15:05:11
+ * @since 1.0, 2023-08-21 02:46:45
  */
 class AlipaySocialBaseMcommentFootprintUploadRequest
 {

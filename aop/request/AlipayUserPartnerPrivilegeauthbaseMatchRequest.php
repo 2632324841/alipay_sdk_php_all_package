@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.partner.privilegeauthbase.match request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:01:50
+ * @since 1.0, 2023-01-04 22:55:02
  */
 class AlipayUserPartnerPrivilegeauthbaseMatchRequest
 {

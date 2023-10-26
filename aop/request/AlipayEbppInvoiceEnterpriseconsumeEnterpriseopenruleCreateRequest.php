@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.enterpriseconsume.enterpriseopenrule.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:54:24
+ * @since 1.0, 2023-09-11 19:46:44
  */
 class AlipayEbppInvoiceEnterpriseconsumeEnterpriseopenruleCreateRequest
 {

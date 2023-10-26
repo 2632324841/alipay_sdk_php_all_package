@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.arsummarybill.summarybill.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:27:48
+ * @since 1.0, 2023-08-24 22:44:44
  */
 class AlipayBossFncArsummarybillSummarybillBatchqueryRequest
 {

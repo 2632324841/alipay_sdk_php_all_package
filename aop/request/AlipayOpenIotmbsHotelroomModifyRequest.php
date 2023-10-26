@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotmbs.hotelroom.modify request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 13:46:49
+ * @since 1.0, 2023-08-21 05:46:47
  */
 class AlipayOpenIotmbsHotelroomModifyRequest
 {

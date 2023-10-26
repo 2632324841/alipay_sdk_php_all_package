@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.qipan.crowduser.delete request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 15:41:54
+ * @since 1.0, 2023-08-24 22:06:45
  */
 class AlipayMerchantQipanCrowduserDeleteRequest
 {

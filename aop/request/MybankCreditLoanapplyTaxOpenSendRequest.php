@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loanapply.tax.open.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:32:15
+ * @since 1.0, 2023-08-10 10:22:44
  */
 class MybankCreditLoanapplyTaxOpenSendRequest
 {

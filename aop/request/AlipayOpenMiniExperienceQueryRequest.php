@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.experience.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-31 14:09:51
+ * @since 1.0, 2023-09-11 19:21:44
  */
 class AlipayOpenMiniExperienceQueryRequest
 {

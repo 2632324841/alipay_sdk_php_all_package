@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.questionnare.fatigue.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:50:32
+ * @since 1.0, 2023-08-21 05:06:44
  */
 class AlipaySocialQuestionnareFatigueSyncRequest
 {

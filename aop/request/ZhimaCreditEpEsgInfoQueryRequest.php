@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.esg.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 20:21:33
+ * @since 1.0, 2023-08-20 17:26:46
  */
 class ZhimaCreditEpEsgInfoQueryRequest
 {

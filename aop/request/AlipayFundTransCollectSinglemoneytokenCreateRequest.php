@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.collect.singlemoneytoken.create request
  *
  * @author auto create
- * @since 1.0, 2020-06-22 17:29:26
+ * @since 1.0, 2023-05-31 00:32:29
  */
 class AlipayFundTransCollectSinglemoneytokenCreateRequest
 {

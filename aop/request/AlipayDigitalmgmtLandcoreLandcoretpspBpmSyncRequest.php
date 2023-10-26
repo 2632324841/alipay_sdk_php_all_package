@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.bpm.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:02:53
+ * @since 1.0, 2023-08-21 04:13:40
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspBpmSyncRequest
 {

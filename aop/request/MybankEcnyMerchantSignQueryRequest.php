@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.ecny.merchant.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 16:20:53
+ * @since 1.0, 2023-05-31 06:52:18
  */
 class MybankEcnyMerchantSignQueryRequest
 {

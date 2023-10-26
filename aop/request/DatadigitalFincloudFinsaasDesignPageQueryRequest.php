@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.finsaas.design.page.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 15:26:50
+ * @since 1.0, 2023-09-03 23:41:32
  */
 class DatadigitalFincloudFinsaasDesignPageQueryRequest
 {

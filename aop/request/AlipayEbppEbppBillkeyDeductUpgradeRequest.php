@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.ebpp.billkey.deduct.upgrade request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 13:51:37
+ * @since 1.0, 2023-05-29 20:02:03
  */
 class AlipayEbppEbppBillkeyDeductUpgradeRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.jobworth.adapter.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 14:47:15
+ * @since 1.0, 2023-08-24 21:45:02
  */
 class ZhimaCustomerJobworthAdapterQueryRequest
 {

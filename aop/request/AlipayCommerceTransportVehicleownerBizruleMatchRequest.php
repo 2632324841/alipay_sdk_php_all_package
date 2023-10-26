@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.vehicleowner.bizrule.match request
  *
  * @author auto create
- * @since 1.0, 2020-06-03 22:48:27
+ * @since 1.0, 2023-08-24 21:14:33
  */
 class AlipayCommerceTransportVehicleownerBizruleMatchRequest
 {

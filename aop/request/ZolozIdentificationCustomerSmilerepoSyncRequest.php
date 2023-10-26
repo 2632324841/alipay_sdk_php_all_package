@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.identification.customer.smilerepo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:50:15
+ * @since 1.0, 2023-05-30 20:25:46
  */
 class ZolozIdentificationCustomerSmilerepoSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.qipan.crowd.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 18:07:14
+ * @since 1.0, 2023-08-23 20:21:43
  */
 class AlipayMerchantQipanCrowdModifyRequest
 {

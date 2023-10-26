@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.qipan.crowd.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-08-02 11:16:48
+ * @since 1.0, 2023-09-04 00:06:42
  */
 class AlipayMerchantQipanCrowdBatchqueryRequest
 {

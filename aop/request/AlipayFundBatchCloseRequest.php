@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.batch.close request
  *
  * @author auto create
- * @since 1.0, 2022-02-08 11:06:45
+ * @since 1.0, 2023-05-30 23:37:16
  */
 class AlipayFundBatchCloseRequest
 {

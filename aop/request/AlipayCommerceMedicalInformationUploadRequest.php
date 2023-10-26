@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.medical.information.upload request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 19:16:34
+ * @since 1.0, 2023-08-24 23:16:47
  */
 class AlipayCommerceMedicalInformationUploadRequest
 {

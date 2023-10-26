@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.invoice.status.modify request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 10:26:57
+ * @since 1.0, 2023-05-31 09:39:52
  */
 class AlipayFundTransInvoiceStatusModifyRequest
 {

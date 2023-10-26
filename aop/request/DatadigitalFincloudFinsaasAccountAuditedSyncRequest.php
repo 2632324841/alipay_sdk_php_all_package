@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.finsaas.account.audited.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 11:21:44
+ * @since 1.0, 2023-09-04 01:09:03
  */
 class DatadigitalFincloudFinsaasAccountAuditedSyncRequest
 {

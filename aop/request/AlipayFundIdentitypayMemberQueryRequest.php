@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.identitypay.member.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 01:36:52
+ * @since 1.0, 2023-03-31 14:56:43
  */
 class AlipayFundIdentitypayMemberQueryRequest
 {

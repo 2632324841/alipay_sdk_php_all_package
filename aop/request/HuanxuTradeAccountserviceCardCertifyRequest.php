@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: huanxu.trade.accountservice.card.certify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:12:36
+ * @since 1.0, 2023-09-04 00:40:32
  */
 class HuanxuTradeAccountserviceCardCertifyRequest
 {

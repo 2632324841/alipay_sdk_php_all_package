@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.industry.proxy.use request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 17:36:53
+ * @since 1.0, 2023-10-09 09:46:46
  */
 class AlipayCommerceTransportIndustryProxyUseRequest
 {

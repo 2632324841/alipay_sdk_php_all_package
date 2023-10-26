@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.tuitioncode.plan.disburse request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:49
+ * @since 1.0, 2023-08-21 04:41:48
  */
 class AlipayCommerceEducateTuitioncodePlanDisburseRequest
 {

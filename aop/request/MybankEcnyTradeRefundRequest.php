@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.ecny.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 16:39:53
+ * @since 1.0, 2023-08-21 02:13:02
  */
 class MybankEcnyTradeRefundRequest
 {

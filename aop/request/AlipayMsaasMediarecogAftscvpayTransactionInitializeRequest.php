@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.msaas.mediarecog.aftscvpay.transaction.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-11-03 15:41:32
+ * @since 1.0, 2023-09-18 15:29:59
  */
 class AlipayMsaasMediarecogAftscvpayTransactionInitializeRequest
 {

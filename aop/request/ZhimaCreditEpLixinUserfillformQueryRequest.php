@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.lixin.userfillform.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:39
+ * @since 1.0, 2023-08-20 18:56:48
  */
 class ZhimaCreditEpLixinUserfillformQueryRequest
 {

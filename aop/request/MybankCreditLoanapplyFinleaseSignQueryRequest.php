@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loanapply.finlease.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 13:46:54
+ * @since 1.0, 2023-08-23 19:51:48
  */
 class MybankCreditLoanapplyFinleaseSignQueryRequest
 {

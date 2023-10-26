@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certify.mfv.submit request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 16:26:47
+ * @since 1.0, 2023-05-30 23:04:31
  */
 class AlipayUserCertifyMfvSubmitRequest
 {

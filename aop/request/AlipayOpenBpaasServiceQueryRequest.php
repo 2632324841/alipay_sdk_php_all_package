@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.bpaas.service.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 09:57:34
+ * @since 1.0, 2023-09-04 00:20:36
  */
 class AlipayOpenBpaasServiceQueryRequest
 {

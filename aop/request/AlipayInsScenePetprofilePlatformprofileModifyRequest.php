@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.petprofile.platformprofile.modify request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 16:53:46
+ * @since 1.0, 2023-08-21 01:51:55
  */
 class AlipayInsScenePetprofilePlatformprofileModifyRequest
 {

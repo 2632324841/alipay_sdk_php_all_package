@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.retail.wms.inboundwork.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:35:58
+ * @since 1.0, 2023-05-29 21:48:50
  */
 class KoubeiRetailWmsInboundworkDeleteRequest
 {

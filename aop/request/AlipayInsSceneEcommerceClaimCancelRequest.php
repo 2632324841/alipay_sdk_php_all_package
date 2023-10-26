@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.ecommerce.claim.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:41:46
+ * @since 1.0, 2023-05-31 03:23:29
  */
 class AlipayInsSceneEcommerceClaimCancelRequest
 {

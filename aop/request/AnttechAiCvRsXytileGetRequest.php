@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.ai.cv.rs.xytile.get request
  *
  * @author auto create
- * @since 1.0, 2022-10-11 21:06:56
+ * @since 1.0, 2023-05-31 02:36:58
  */
 class AnttechAiCvRsXytileGetRequest
 {

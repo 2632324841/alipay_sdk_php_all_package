@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.violation.city.push request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 10:09:10
+ * @since 1.0, 2023-08-21 01:10:49
  */
 class AlipayEcoMycarViolationCityPushRequest
 {

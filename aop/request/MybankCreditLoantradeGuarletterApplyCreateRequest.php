@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.guarletter.apply.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 18:46:39
+ * @since 1.0, 2023-09-18 20:02:59
  */
 class MybankCreditLoantradeGuarletterApplyCreateRequest
 {

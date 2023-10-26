@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.contentlib.standardvideoaudit.send request
  *
  * @author auto create
- * @since 1.0, 2020-07-03 20:38:31
+ * @since 1.0, 2023-08-21 04:03:37
  */
 class AlipaySocialBaseContentlibStandardvideoauditSendRequest
 {

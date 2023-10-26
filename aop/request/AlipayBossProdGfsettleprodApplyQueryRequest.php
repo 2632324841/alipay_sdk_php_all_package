@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.gfsettleprod.apply.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-28 14:24:27
+ * @since 1.0, 2023-08-21 03:42:29
  */
 class AlipayBossProdGfsettleprodApplyQueryRequest
 {

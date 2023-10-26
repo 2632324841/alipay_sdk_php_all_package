@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.issuerule.delete request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 15:41:51
+ * @since 1.0, 2023-09-11 17:56:46
  */
 class AlipayEbppInvoiceIssueruleDeleteRequest
 {

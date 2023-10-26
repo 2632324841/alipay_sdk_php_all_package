@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.fingerprint.riskcontrol.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:41:34
+ * @since 1.0, 2023-09-04 00:21:55
  */
 class AlipaySecurityProdFingerprintRiskcontrolQueryRequest
 {

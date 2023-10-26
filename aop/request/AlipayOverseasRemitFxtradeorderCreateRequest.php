@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.remit.fxtradeorder.create request
  *
  * @author auto create
- * @since 1.0, 2019-10-12 17:15:53
+ * @since 1.0, 2023-05-30 22:42:14
  */
 class AlipayOverseasRemitFxtradeorderCreateRequest
 {

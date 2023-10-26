@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.instservice.voucher.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 15:51:42
+ * @since 1.0, 2023-08-21 02:36:48
  */
 class AlipayEbppInstserviceVoucherDeleteRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.retail.wms.warehouse.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:37:34
+ * @since 1.0, 2023-08-20 16:46:07
  */
 class KoubeiRetailWmsWarehouseModifyRequest
 {

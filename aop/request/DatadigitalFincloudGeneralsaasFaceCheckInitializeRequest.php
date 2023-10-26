@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.generalsaas.face.check.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 17:47:40
+ * @since 1.0, 2023-09-11 18:46:44
  */
 class DatadigitalFincloudGeneralsaasFaceCheckInitializeRequest
 {

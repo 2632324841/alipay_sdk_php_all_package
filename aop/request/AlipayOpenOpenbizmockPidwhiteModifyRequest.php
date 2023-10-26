@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.openbizmock.pidwhite.modify request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 19:41:50
+ * @since 1.0, 2023-08-21 02:01:48
  */
 class AlipayOpenOpenbizmockPidwhiteModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.facefeature.delete request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 19:37:51
+ * @since 1.0, 2023-08-23 19:55:59
  */
 class AlipayCommerceEducateFacefeatureDeleteRequest
 {

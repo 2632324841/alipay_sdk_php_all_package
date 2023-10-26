@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trust.user.report.get request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:13:46
+ * @since 1.0, 2023-08-21 04:18:00
  */
 class AlipayTrustUserReportGetRequest
 {

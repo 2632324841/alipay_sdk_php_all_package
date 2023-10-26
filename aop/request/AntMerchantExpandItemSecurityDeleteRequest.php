@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.item.security.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:07:47
+ * @since 1.0, 2023-08-21 03:31:49
  */
 class AntMerchantExpandItemSecurityDeleteRequest
 {

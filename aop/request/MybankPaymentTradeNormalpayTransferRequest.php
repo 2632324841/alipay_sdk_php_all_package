@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.payment.trade.normalpay.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-05-05 18:55:49
+ * @since 1.0, 2023-08-21 05:34:22
  */
 class MybankPaymentTradeNormalpayTransferRequest
 {

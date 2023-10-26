@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.plan.operate.offline request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:15:26
+ * @since 1.0, 2023-08-20 16:51:19
  */
 class AlipayOpenMiniPlanOperateOfflineRequest
 {

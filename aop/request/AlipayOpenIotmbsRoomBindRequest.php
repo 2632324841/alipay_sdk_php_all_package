@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotmbs.room.bind request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 20:15:50
+ * @since 1.0, 2023-08-23 21:14:01
  */
 class AlipayOpenIotmbsRoomBindRequest
 {

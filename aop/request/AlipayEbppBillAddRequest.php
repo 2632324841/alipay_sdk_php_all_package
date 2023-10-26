@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.bill.add request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:11:16
+ * @since 1.0, 2023-09-12 07:01:53
  */
 class AlipayEbppBillAddRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.trade.pos.data.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:56:26
+ * @since 1.0, 2023-08-21 02:14:31
  */
 class KoubeiTradePosDataSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.industry.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 14:36:31
+ * @since 1.0, 2023-05-30 22:22:04
  */
 class AlipayCommerceIndustryOrderSyncRequest
 {

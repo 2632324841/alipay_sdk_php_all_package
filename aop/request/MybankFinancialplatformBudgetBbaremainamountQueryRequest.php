@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.financialplatform.budget.bbaremainamount.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 15:31:34
+ * @since 1.0, 2023-08-20 17:36:44
  */
 class MybankFinancialplatformBudgetBbaremainamountQueryRequest
 {

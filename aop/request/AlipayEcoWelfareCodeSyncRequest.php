@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.welfare.code.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:58:22
+ * @since 1.0, 2023-09-03 23:47:17
  */
 class AlipayEcoWelfareCodeSyncRequest
 {

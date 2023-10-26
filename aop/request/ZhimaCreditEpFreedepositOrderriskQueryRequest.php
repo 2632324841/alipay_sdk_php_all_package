@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.freedeposit.orderrisk.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 17:12:03
+ * @since 1.0, 2023-08-21 01:31:27
  */
 class ZhimaCreditEpFreedepositOrderriskQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.ropgn.risktask.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:48:23
+ * @since 1.0, 2023-08-20 17:59:52
  */
 class AlipaySecurityRopgnRisktaskCreateRequest
 {

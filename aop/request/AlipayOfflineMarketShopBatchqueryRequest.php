@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.offline.market.shop.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-01-07 11:43:10
+ * @since 1.0, 2023-09-12 06:57:08
  */
 class AlipayOfflineMarketShopBatchqueryRequest
 {

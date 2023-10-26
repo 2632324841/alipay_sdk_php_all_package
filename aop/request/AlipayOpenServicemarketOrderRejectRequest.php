@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.servicemarket.order.reject request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 11:42:01
+ * @since 1.0, 2023-09-11 18:12:07
  */
 class AlipayOpenServicemarketOrderRejectRequest
 {

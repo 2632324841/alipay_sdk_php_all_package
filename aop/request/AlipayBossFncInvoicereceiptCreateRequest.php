@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.invoicereceipt.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:25:39
+ * @since 1.0, 2023-09-11 18:05:39
  */
 class AlipayBossFncInvoicereceiptCreateRequest
 {

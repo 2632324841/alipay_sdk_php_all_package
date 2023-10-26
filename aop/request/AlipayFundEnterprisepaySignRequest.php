@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.enterprisepay.sign request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 22:51:34
+ * @since 1.0, 2023-09-11 16:26:47
  */
 class AlipayFundEnterprisepaySignRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.card.depositback request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:37:36
+ * @since 1.0, 2023-08-21 06:01:47
  */
 class AlipayAssetCardDepositbackRequest
 {

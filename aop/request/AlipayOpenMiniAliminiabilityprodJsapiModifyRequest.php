@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.aliminiabilityprod.jsapi.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:53:40
+ * @since 1.0, 2023-09-04 00:39:58
  */
 class AlipayOpenMiniAliminiabilityprodJsapiModifyRequest
 {

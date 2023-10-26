@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.ep.dossier.companyoverview.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 13:51:45
+ * @since 1.0, 2023-08-24 22:21:43
  */
 class ZhimaCreditEpDossierCompanyoverviewQueryRequest
 {

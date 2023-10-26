@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.identification.zolozid.get request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 21:38:28
+ * @since 1.0, 2023-08-21 01:07:35
  */
 class ZolozIdentificationZolozidGetRequest
 {

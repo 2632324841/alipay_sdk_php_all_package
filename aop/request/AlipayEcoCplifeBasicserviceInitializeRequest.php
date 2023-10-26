@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cplife.basicservice.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:33:20
+ * @since 1.0, 2023-08-20 16:50:17
  */
 class AlipayEcoCplifeBasicserviceInitializeRequest
 {

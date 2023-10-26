@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerbaseinfo.precreate request
  *
  * @author auto create
- * @since 1.0, 2021-10-20 17:43:19
+ * @since 1.0, 2023-08-23 20:20:10
  */
 class AlipayOpenMiniInnerbaseinfoPrecreateRequest
 {

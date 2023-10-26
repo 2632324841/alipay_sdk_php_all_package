@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.cdp.advertise.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-19 12:04:02
+ * @since 1.0, 2023-09-04 00:56:45
  */
 class AlipayMarketingCdpAdvertiseQueryRequest
 {

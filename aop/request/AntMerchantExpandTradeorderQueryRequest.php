@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.tradeorder.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:55
+ * @since 1.0, 2023-05-31 06:56:51
  */
 class AntMerchantExpandTradeorderQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.generalsaas.face.fee.charge request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 20:46:44
+ * @since 1.0, 2023-09-04 01:05:10
  */
 class DatadigitalFincloudGeneralsaasFaceFeeChargeRequest
 {

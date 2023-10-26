@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.travel.promotion.get request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 10:41:50
+ * @since 1.0, 2023-08-24 22:56:48
  */
 class AlipayOverseasTravelPromotionGetRequest
 {

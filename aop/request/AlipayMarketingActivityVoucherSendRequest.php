@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.voucher.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 13:56:50
+ * @since 1.0, 2023-09-26 11:31:46
  */
 class AlipayMarketingActivityVoucherSendRequest
 {

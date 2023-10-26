@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.base.process.instance.addmemo request
  *
  * @author auto create
- * @since 1.0, 2022-03-18 10:21:41
+ * @since 1.0, 2023-09-03 23:10:57
  */
 class AlipayBossBaseProcessInstanceAddmemoRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.trade.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-27 11:40:10
+ * @since 1.0, 2023-08-23 20:50:10
  */
 class AnttechBlockchainDefinTradeQueryRequest
 {

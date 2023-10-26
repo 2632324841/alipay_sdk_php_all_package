@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.biz.movehome.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:14:46
+ * @since 1.0, 2023-09-04 00:38:51
  */
 class KoubeiCateringBizMovehomeSyncRequest
 {

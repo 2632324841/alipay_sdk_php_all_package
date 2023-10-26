@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.authentication.query request
  *
  * @author auto create
- * @since 1.0, 2019-06-28 15:19:58
+ * @since 1.0, 2023-09-03 23:41:10
  */
 class AlipaySecurityRiskAuthenticationQueryRequest
 {

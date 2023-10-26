@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.kms.baking.sync request
  *
  * @author auto create
- * @since 1.0, 2020-11-24 15:51:29
+ * @since 1.0, 2023-08-24 21:14:03
  */
 class KoubeiCateringKmsBakingSyncRequest
 {

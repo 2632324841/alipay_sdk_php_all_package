@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerversion.substatus.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:09:01
+ * @since 1.0, 2023-08-21 03:18:11
  */
 class AlipayOpenMiniInnerversionSubstatusModifyRequest
 {

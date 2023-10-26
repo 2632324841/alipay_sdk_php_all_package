@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.iotdata.bai.cargocount.query request
  *
  * @author auto create
- * @since 1.0, 2019-12-05 10:41:40
+ * @since 1.0, 2023-05-31 04:39:45
  */
 class AlipayDataIotdataBaiCargocountQueryRequest
 {

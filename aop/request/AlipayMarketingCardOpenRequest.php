@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.card.open request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 21:21:08
+ * @since 1.0, 2023-09-11 18:26:45
  */
 class AlipayMarketingCardOpenRequest
 {

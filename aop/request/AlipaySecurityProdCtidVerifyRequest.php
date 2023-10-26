@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.ctid.verify request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:43:40
+ * @since 1.0, 2023-05-29 22:34:01
  */
 class AlipaySecurityProdCtidVerifyRequest
 {

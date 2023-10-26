@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.drawcamp.whitelist.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:41:04
+ * @since 1.0, 2023-08-21 01:11:19
  */
 class AlipayMarketingCampaignDrawcampWhitelistCreateRequest
 {

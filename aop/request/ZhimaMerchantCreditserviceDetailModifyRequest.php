@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.creditservice.detail.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 10:30:42
+ * @since 1.0, 2023-08-20 16:52:43
  */
 class ZhimaMerchantCreditserviceDetailModifyRequest
 {

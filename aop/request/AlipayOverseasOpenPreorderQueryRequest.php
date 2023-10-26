@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.open.preorder.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 12:14:45
+ * @since 1.0, 2023-09-04 01:31:03
  */
 class AlipayOverseasOpenPreorderQueryRequest
 {

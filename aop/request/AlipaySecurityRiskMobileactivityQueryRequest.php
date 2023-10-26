@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.mobileactivity.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:11
+ * @since 1.0, 2023-08-24 22:38:59
  */
 class AlipaySecurityRiskMobileactivityQueryRequest
 {

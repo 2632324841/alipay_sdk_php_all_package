@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.data.auto.score.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:57
+ * @since 1.0, 2023-09-04 00:04:20
  */
 class AlipayInsDataAutoScoreQueryRequest
 {

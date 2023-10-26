@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.timescard.order.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-20 15:21:35
+ * @since 1.0, 2023-05-30 20:41:53
  */
 class AlipayCommerceOperationTimescardOrderCreateRequest
 {

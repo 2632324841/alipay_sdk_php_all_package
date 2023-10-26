@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.spay.auth.consult request
  *
  * @author auto create
- * @since 1.0, 2021-08-17 10:34:14
+ * @since 1.0, 2023-08-20 18:45:39
  */
 class AlipayPcreditHuabeiSpayAuthConsultRequest
 {

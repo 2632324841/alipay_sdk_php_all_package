@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.flexiblestaffing.authorize.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 14:41:51
+ * @since 1.0, 2023-05-31 23:06:50
  */
 class AlipayFundFlexiblestaffingAuthorizeInitializeRequest
 {

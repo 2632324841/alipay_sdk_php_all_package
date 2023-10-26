@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.content.contentlib.youkuvideoaudit.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:47:48
+ * @since 1.0, 2023-08-21 03:24:40
  */
 class AlipayOpenContentContentlibYoukuvideoauditSendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.developer.checkdevelopervalid.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 11:03:58
+ * @since 1.0, 2023-08-24 21:41:57
  */
 class AlipayOpenAppDeveloperCheckdevelopervalidQueryRequest
 {

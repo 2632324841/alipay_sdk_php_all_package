@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.abntask.modify request
  *
  * @author auto create
- * @since 1.0, 2020-09-11 10:56:45
+ * @since 1.0, 2023-05-31 02:01:05
  */
 class AlipayCommerceAbntaskModifyRequest
 {

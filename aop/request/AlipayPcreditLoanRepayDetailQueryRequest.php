@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.loan.repay.detail.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:54:14
+ * @since 1.0, 2023-08-21 03:20:48
  */
 class AlipayPcreditLoanRepayDetailQueryRequest
 {

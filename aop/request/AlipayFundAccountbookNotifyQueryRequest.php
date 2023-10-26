@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.accountbook.notify.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-31 11:13:15
+ * @since 1.0, 2023-09-11 15:57:38
  */
 class AlipayFundAccountbookNotifyQueryRequest
 {

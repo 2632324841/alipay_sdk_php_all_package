@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.gotone.message.mail.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-01 16:31:01
+ * @since 1.0, 2023-09-04 01:36:46
  */
 class AlipayGotoneMessageMailSendRequest
 {
@@ -12,6 +12,11 @@ class AlipayGotoneMessageMailSendRequest
 	 * 模板参数
 	 **/
 	private $arguments;
+	
+	/** 
+	 * 支付宝openId，用于支付宝用户在当前应用下的用户标识。
+	 **/
+	private $openId;
 	
 	/** 
 	 * 收件人邮箱地址
@@ -52,6 +57,17 @@ class AlipayGotoneMessageMailSendRequest
 	public function getArguments()
 	{
 		return $this->arguments;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setReceiver($receiver)

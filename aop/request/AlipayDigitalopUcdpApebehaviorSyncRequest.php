@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.digitalop.ucdp.apebehavior.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-25 20:36:56
+ * @since 1.0, 2023-08-14 20:16:41
  */
 class AlipayDigitalopUcdpApebehaviorSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.complain.government.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-10 12:55:21
+ * @since 1.0, 2023-04-03 05:19:05
  */
 class AlipayMerchantComplainGovernmentQueryRequest
 {

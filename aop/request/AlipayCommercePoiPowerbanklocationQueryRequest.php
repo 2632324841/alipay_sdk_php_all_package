@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.poi.powerbanklocation.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-11 16:37:37
+ * @since 1.0, 2023-08-20 18:32:38
  */
 class AlipayCommercePoiPowerbanklocationQueryRequest
 {

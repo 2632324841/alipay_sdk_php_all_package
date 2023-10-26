@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.authenticate.campuscard.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:58
+ * @since 1.0, 2023-08-20 18:32:55
  */
 class AlipayCommerceEducateAuthenticateCampuscardCreateRequest
 {

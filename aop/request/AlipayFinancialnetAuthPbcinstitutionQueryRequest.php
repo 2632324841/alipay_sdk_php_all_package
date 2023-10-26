@@ -4,10 +4,14 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.auth.pbcinstitution.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 10:16:36
+ * @since 1.0, 2023-06-06 21:01:58
  */
 class AlipayFinancialnetAuthPbcinstitutionQueryRequest
 {
+	/** 
+	 * 联行号关联顶级机构查询
+	 **/
+	private $bizContent;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -19,6 +23,17 @@ class AlipayFinancialnetAuthPbcinstitutionQueryRequest
     private $needEncrypt=false;
 
 	
+	public function setBizContent($bizContent)
+	{
+		$this->bizContent = $bizContent;
+		$this->apiParas["biz_content"] = $bizContent;
+	}
+
+	public function getBizContent()
+	{
+		return $this->bizContent;
+	}
+
 	public function getApiMethodName()
 	{
 		return "alipay.financialnet.auth.pbcinstitution.query";

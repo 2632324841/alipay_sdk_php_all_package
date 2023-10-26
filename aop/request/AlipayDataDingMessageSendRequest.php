@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.ding.message.send request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 11:04:52
+ * @since 1.0, 2023-05-29 23:08:01
  */
 class AlipayDataDingMessageSendRequest
 {

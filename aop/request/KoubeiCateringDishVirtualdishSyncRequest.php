@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.dish.virtualdish.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:24:00
+ * @since 1.0, 2023-09-03 23:16:41
  */
 class KoubeiCateringDishVirtualdishSyncRequest
 {

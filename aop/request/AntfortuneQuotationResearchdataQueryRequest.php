@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.quotation.researchdata.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-16 00:26:17
+ * @since 1.0, 2023-05-31 00:50:13
  */
 class AntfortuneQuotationResearchdataQueryRequest
 {

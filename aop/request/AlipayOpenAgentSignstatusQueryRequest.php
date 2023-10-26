@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.agent.signstatus.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 10:18:47
+ * @since 1.0, 2023-09-11 19:53:33
  */
 class AlipayOpenAgentSignstatusQueryRequest
 {

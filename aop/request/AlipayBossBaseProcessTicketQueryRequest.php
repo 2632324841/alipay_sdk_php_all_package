@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.base.process.ticket.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 19:30:11
+ * @since 1.0, 2023-05-30 21:37:35
  */
 class AlipayBossBaseProcessTicketQueryRequest
 {

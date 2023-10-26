@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.community.partner.sync request
  *
  * @author auto create
- * @since 1.0, 2020-06-22 14:30:39
+ * @since 1.0, 2023-08-24 22:19:32
  */
 class AlipayOpenAppCommunityPartnerSyncRequest
 {

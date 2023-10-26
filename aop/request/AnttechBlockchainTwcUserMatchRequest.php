@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.twc.user.match request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 20:21:51
+ * @since 1.0, 2023-08-24 22:46:48
  */
 class AnttechBlockchainTwcUserMatchRequest
 {

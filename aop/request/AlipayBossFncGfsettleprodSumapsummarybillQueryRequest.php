@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.sumapsummarybill.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-28 14:26:06
+ * @since 1.0, 2023-05-30 20:56:03
  */
 class AlipayBossFncGfsettleprodSumapsummarybillQueryRequest
 {

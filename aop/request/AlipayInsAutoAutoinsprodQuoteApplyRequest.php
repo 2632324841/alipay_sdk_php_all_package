@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.auto.autoinsprod.quote.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:29:24
+ * @since 1.0, 2023-08-23 20:08:12
  */
 class AlipayInsAutoAutoinsprodQuoteApplyRequest
 {

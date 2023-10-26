@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.contract.offer.modify request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 10:39:47
+ * @since 1.0, 2023-09-04 00:37:54
  */
 class ZhimaMerchantContractOfferModifyRequest
 {

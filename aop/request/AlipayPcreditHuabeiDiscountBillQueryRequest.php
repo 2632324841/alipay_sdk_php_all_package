@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.discount.bill.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-16 17:49:06
+ * @since 1.0, 2023-08-24 22:28:21
  */
 class AlipayPcreditHuabeiDiscountBillQueryRequest
 {

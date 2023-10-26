@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.facetoface.decode.use request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 11:06:44
+ * @since 1.0, 2023-05-29 23:32:00
  */
 class AlipayMarketingFacetofaceDecodeUseRequest
 {

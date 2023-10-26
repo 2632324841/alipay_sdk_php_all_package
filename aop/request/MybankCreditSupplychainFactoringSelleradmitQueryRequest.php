@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.factoring.selleradmit.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:29:04
+ * @since 1.0, 2023-10-12 10:37:39
  */
 class MybankCreditSupplychainFactoringSelleradmitQueryRequest
 {

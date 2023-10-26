@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.pay.ar.sign request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:19
+ * @since 1.0, 2023-08-20 16:56:46
  */
 class MybankCreditLoantradePayArSignRequest
 {

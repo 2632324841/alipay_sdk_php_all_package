@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.order.pay.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 16:27:27
+ * @since 1.0, 2023-08-21 02:47:29
  */
 class KoubeiCateringOrderPayCancelRequest
 {

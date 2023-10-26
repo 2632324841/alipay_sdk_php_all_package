@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.data.disease.identify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:57
+ * @since 1.0, 2023-08-23 21:38:00
  */
 class AlipayInsDataDiseaseIdentifyRequest
 {

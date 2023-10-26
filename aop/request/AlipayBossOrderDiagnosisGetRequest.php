@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.order.diagnosis.get request
  *
  * @author auto create
- * @since 1.0, 2019-07-16 15:20:01
+ * @since 1.0, 2023-05-30 20:01:42
  */
 class AlipayBossOrderDiagnosisGetRequest
 {

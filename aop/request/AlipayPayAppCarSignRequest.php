@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.app.car.sign request
  *
  * @author auto create
- * @since 1.0, 2020-04-15 21:25:12
+ * @since 1.0, 2023-08-23 21:02:47
  */
 class AlipayPayAppCarSignRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.merchant.inconsistent.approve request
  *
  * @author auto create
- * @since 1.0, 2022-08-30 17:14:02
+ * @since 1.0, 2023-09-11 17:23:16
  */
 class AlipayOpenSpMerchantInconsistentApproveRequest
 {

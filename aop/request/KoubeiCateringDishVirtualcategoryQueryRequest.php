@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.dish.virtualcategory.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:33:00
+ * @since 1.0, 2023-08-21 04:36:20
  */
 class KoubeiCateringDishVirtualcategoryQueryRequest
 {

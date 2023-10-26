@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.marketing.gift.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 10:57:57
+ * @since 1.0, 2023-09-04 01:59:07
  */
 class AlipayInsMarketingGiftSendRequest
 {

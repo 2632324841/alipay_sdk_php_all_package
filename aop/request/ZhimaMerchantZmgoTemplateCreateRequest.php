@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.zmgo.template.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 17:42:01
+ * @since 1.0, 2023-09-11 19:06:48
  */
 class ZhimaMerchantZmgoTemplateCreateRequest
 {

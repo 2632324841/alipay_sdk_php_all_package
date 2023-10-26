@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.campus.schoolcard.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-06-07 19:12:03
+ * @since 1.0, 2023-08-24 21:56:48
  */
 class AlipayCommerceEducateCampusSchoolcardUnsignRequest
 {

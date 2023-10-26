@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.ec.balance.period.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 17:31:38
+ * @since 1.0, 2023-09-11 16:51:44
  */
 class AlipayCommerceEcBalancePeriodModifyRequest
 {

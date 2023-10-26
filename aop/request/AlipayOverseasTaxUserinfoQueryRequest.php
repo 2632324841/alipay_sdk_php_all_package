@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.tax.userinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:41
+ * @since 1.0, 2023-08-20 18:36:45
  */
 class AlipayOverseasTaxUserinfoQueryRequest
 {

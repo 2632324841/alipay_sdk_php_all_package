@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.violation.violationdetail.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 15:17:02
+ * @since 1.0, 2023-09-11 18:11:45
  */
 class AlipayOpenViolationViolationdetailQueryRequest
 {

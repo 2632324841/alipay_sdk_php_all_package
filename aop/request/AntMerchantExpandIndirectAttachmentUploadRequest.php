@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.indirect.attachment.upload request
  *
  * @author auto create
- * @since 1.0, 2021-06-17 10:43:51
+ * @since 1.0, 2023-08-21 05:43:54
  */
 class AntMerchantExpandIndirectAttachmentUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.subaccount.account.apply request
  *
  * @author auto create
- * @since 1.0, 2022-01-19 22:32:51
+ * @since 1.0, 2023-05-31 02:38:49
  */
 class AlipayBossFncSubaccountAccountApplyRequest
 {

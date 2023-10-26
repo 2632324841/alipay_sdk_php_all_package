@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.order.securitydetail.consumer.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:10
+ * @since 1.0, 2023-08-20 17:23:50
  */
 class AlipayMerchantOrderSecuritydetailConsumerQueryRequest
 {

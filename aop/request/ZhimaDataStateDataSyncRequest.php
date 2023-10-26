@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.data.state.data.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 21:16:34
+ * @since 1.0, 2023-08-24 22:01:48
  */
 class ZhimaDataStateDataSyncRequest
 {

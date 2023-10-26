@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.tuition.schoolpayment.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 15:01:39
+ * @since 1.0, 2023-09-04 01:37:36
  */
 class AlipayOverseasTuitionSchoolpaymentBatchqueryRequest
 {

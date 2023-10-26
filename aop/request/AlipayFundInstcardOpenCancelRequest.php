@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.instcard.open.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 11:30:31
+ * @since 1.0, 2023-09-04 01:55:41
  */
 class AlipayFundInstcardOpenCancelRequest
 {

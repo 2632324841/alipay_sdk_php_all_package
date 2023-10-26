@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.alideviceinfo.offlinecode.create request
  *
  * @author auto create
- * @since 1.0, 2022-07-26 10:11:58
+ * @since 1.0, 2023-03-13 01:21:33
  */
 class AlipayCommerceAlideviceinfoOfflinecodeCreateRequest
 {

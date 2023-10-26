@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerbaseinfo.parameter.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:00:49
+ * @since 1.0, 2023-09-04 01:01:06
  */
 class AlipayOpenMiniInnerbaseinfoParameterVerifyRequest
 {

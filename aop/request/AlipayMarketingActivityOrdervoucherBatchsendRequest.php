@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.ordervoucher.batchsend request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 15:06:38
+ * @since 1.0, 2023-09-26 11:26:47
  */
 class AlipayMarketingActivityOrdervoucherBatchsendRequest
 {

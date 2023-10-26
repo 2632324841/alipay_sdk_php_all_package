@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.indirect.authorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 11:51:34
+ * @since 1.0, 2023-09-11 18:41:47
  */
 class AlipayMerchantIndirectAuthorderCreateRequest
 {

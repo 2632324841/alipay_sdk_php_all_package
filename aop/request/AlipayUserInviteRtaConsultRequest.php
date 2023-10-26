@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.invite.rta.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-26 18:02:26
+ * @since 1.0, 2023-09-11 09:53:52
  */
 class AlipayUserInviteRtaConsultRequest
 {

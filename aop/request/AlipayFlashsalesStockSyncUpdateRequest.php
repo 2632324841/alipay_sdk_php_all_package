@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.flashsales.stock.sync.update request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2023-08-20 16:48:26
  */
 class AlipayFlashsalesStockSyncUpdateRequest
 {

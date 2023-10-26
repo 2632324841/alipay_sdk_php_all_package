@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.automat.apply.upload request
  *
  * @author auto create
- * @since 1.0, 2022-06-29 15:56:43
+ * @since 1.0, 2023-05-29 22:39:00
  */
 class AntMerchantExpandAutomatApplyUploadRequest
 {

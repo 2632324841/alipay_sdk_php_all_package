@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.finance.trusple.creditgrantapply.submit request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 13:51:52
+ * @since 1.0, 2023-08-21 06:21:48
  */
 class AnttechBlockchainFinanceTruspleCreditgrantapplySubmitRequest
 {

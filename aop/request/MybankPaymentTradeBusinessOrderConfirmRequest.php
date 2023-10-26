@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.payment.trade.business.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-02-09 11:02:37
+ * @since 1.0, 2023-08-21 01:45:54
  */
 class MybankPaymentTradeBusinessOrderConfirmRequest
 {

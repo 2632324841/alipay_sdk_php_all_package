@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.dataarchives.callback request
  *
  * @author auto create
- * @since 1.0, 2022-10-19 10:06:57
+ * @since 1.0, 2023-08-21 03:04:23
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspDataarchivesCallbackRequest
 {

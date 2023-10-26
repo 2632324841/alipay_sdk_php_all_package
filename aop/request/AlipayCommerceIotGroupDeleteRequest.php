@@ -2,6 +2,7 @@
 namespace aop\request;
 namespace aop\request;
 namespace aop\request;
+namespace aop\request;
 /**
  * ALIPAY API: alipay.commerce.iot.group.delete request
  *

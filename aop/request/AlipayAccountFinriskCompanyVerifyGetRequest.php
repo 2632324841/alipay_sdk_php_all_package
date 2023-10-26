@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.account.finrisk.company.verify.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:55
+ * @since 1.0, 2023-05-31 00:22:09
  */
 class AlipayAccountFinriskCompanyVerifyGetRequest
 {

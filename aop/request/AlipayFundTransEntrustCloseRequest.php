@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.entrust.close request
  *
  * @author auto create
- * @since 1.0, 2022-04-01 13:44:42
+ * @since 1.0, 2023-08-21 02:04:52
  */
 class AlipayFundTransEntrustCloseRequest
 {

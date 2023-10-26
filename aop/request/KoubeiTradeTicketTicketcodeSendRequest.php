@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.trade.ticket.ticketcode.send request
  *
  * @author auto create
- * @since 1.0, 2021-03-22 18:07:14
+ * @since 1.0, 2023-08-21 01:08:21
  */
 class KoubeiTradeTicketTicketcodeSendRequest
 {

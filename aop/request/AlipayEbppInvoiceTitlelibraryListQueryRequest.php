@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.titlelibrary.list.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-22 09:59:14
+ * @since 1.0, 2023-08-20 17:29:41
  */
 class AlipayEbppInvoiceTitlelibraryListQueryRequest
 {

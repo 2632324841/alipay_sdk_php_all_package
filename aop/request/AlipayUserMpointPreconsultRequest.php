@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.mpoint.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 19:13:46
+ * @since 1.0, 2023-08-20 17:41:46
  */
 class AlipayUserMpointPreconsultRequest
 {

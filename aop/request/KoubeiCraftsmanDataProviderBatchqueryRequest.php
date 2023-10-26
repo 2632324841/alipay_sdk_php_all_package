@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.craftsman.data.provider.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:58:10
+ * @since 1.0, 2023-05-31 23:15:02
  */
 class KoubeiCraftsmanDataProviderBatchqueryRequest
 {

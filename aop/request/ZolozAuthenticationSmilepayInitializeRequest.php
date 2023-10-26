@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.authentication.smilepay.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 20:12:59
+ * @since 1.0, 2023-09-12 06:43:45
  */
 class ZolozAuthenticationSmilepayInitializeRequest
 {

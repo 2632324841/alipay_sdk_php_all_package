@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.cloud.file.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 18:01:36
+ * @since 1.0, 2023-09-20 11:16:51
  */
 class AlipayOpenMiniCloudFileDeleteRequest
 {

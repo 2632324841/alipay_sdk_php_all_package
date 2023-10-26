@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certify.img.upload request
  *
  * @author auto create
- * @since 1.0, 2022-01-14 11:05:38
+ * @since 1.0, 2023-08-24 21:57:12
  */
 class AlipayUserCertifyImgUploadRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.dapply.refund.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:31:05
+ * @since 1.0, 2023-09-04 01:02:06
  */
 class AlipayCommerceIotDapplyRefundConfirmRequest
 {

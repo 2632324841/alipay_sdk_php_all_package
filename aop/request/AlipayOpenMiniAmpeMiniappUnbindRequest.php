@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.ampe.miniapp.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:56:03
+ * @since 1.0, 2023-08-21 03:39:48
  */
 class AlipayOpenMiniAmpeMiniappUnbindRequest
 {

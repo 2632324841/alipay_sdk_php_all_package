@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.asiangames.hotelstatus.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-19 20:21:41
+ * @since 1.0, 2023-08-20 17:56:54
  */
 class AlipayCommerceAsiangamesHotelstatusQueryRequest
 {

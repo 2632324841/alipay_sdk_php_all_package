@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.guarantee.contract.sign request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 15:26:16
+ * @since 1.0, 2023-05-30 21:17:45
  */
 class MybankCreditGuaranteeContractSignRequest
 {

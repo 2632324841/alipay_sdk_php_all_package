@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.content.analyze.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:51:34
+ * @since 1.0, 2023-08-21 04:36:47
  */
 class AlipaySecurityRiskContentAnalyzeSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.timescard.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 20:01:36
+ * @since 1.0, 2023-08-21 06:21:48
  */
 class AlipayCommerceOperationTimescardRefundApplyRequest
 {

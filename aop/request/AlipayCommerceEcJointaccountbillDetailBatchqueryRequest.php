@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.ec.jointaccountbill.detail.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 19:51:34
+ * @since 1.0, 2023-09-11 19:21:46
  */
 class AlipayCommerceEcJointaccountbillDetailBatchqueryRequest
 {

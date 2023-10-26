@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.prod.signature.task.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 18:13:53
+ * @since 1.0, 2023-08-23 21:47:01
  */
 class AlipaySecurityProdSignatureTaskQueryRequest
 {

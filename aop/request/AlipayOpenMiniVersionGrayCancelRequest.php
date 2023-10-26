@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.version.gray.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 18:04:29
+ * @since 1.0, 2023-10-10 11:26:44
  */
 class AlipayOpenMiniVersionGrayCancelRequest
 {

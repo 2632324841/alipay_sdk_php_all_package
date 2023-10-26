@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.order.haha.nobizcontent.create request
  *
  * @author auto create
- * @since 1.0, 2022-01-11 11:40:41
+ * @since 1.0, 2023-04-03 00:50:47
  */
 class AlipayMerchantOrderHahaNobizcontentCreateRequest
 {

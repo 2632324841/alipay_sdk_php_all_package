@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.jointaccount.fundalloc.count.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-07 19:25:28
+ * @since 1.0, 2023-08-23 20:51:46
  */
 class AlipayFundJointaccountFundallocCountQueryRequest
 {

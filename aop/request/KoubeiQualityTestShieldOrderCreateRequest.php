@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.quality.test.shield.order.create request
  *
  * @author auto create
- * @since 1.0, 2019-08-30 20:12:07
+ * @since 1.0, 2023-05-30 21:05:42
  */
 class KoubeiQualityTestShieldOrderCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.rate.data.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:39:38
+ * @since 1.0, 2023-08-21 03:39:04
  */
 class AlipayOpenAppRateDataSyncRequest
 {

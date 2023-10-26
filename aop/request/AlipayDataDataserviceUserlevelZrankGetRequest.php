@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.userlevel.zrank.get request
  *
  * @author auto create
- * @since 1.0, 2019-08-13 16:30:02
+ * @since 1.0, 2023-08-21 04:01:18
  */
 class AlipayDataDataserviceUserlevelZrankGetRequest
 {

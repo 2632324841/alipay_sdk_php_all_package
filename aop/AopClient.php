@@ -1,6 +1,5 @@
 <?php
 namespace aop;
-
 use aop\AopEncrypt;
 use aop\EncryptParseItem;
 use aop\EncryptResponseData;
@@ -64,7 +63,7 @@ class AopClient
 
     private $targetServiceUrl = "";
 
-    protected $alipaySdkVersion = "alipay-sdk-PHP-4.11.14.ALL";
+    protected $alipaySdkVersion = "alipay-sdk-PHP-4.19.282.ALL";
     function __construct() {
         //根据参数个数和参数类型 来做相应的判断
         if(func_num_args()==1 && func_get_arg(0) instanceof AlipayConfig){
@@ -155,9 +154,7 @@ class AopClient
             $res = openssl_get_privatekey($priKey);
         }
 
-        if(!$res){
-            throw new \Exception('您使用的私钥格式错误，请检查RSA私钥配置');
-        }
+        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
 
         if ("RSA2" == $signType) {
             openssl_sign($data, $sign, $res, OPENSSL_ALGO_SHA256);
@@ -166,7 +163,9 @@ class AopClient
         }
 
         if (!$this->checkEmpty($this->rsaPrivateKeyFilePath)) {
-            openssl_free_key($res);
+            if (version_compare(PHP_VERSION, '8.0', '<')) {
+                openssl_free_key($res);
+            }
         }
         $sign = base64_encode($sign);
         return $sign;
@@ -193,9 +192,7 @@ class AopClient
             $res = openssl_get_privatekey($priKey);
         }
 
-        if(!$res){
-            throw new \Exception('您使用的私钥格式错误，请检查RSA私钥配置');
-        }
+        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
 
         if ("RSA2" == $signType) {
             openssl_sign($data, $sign, $res, OPENSSL_ALGO_SHA256);
@@ -204,7 +201,9 @@ class AopClient
         }
 
         if ($keyfromfile) {
-            openssl_free_key($res);
+            if (version_compare(PHP_VERSION, '8.0', '<')) {
+                openssl_free_key($res);
+            }
         }
         $sign = base64_encode($sign);
         return $sign;
@@ -609,14 +608,18 @@ class AopClient
                 $signData = $this->parserJSONSignData($request, $resp, $respObject);
             }
         } else if ("xml" == $this->format) {
-            $disableLibxmlEntityLoader = libxml_disable_entity_loader(true);
+            if (version_compare(PHP_VERSION, '8.0', '<')) { 
+                $disableLibxmlEntityLoader = libxml_disable_entity_loader(true);
+            }
             $respObject = @ simplexml_load_string($resp);
             if (false !== $respObject) {
                 $respWellFormed = true;
 
                 $signData = $this->parserXMLSignData($request, $resp);
             }
-            libxml_disable_entity_loader($disableLibxmlEntityLoader);
+            if(version_compare(PHP_VERSION, '8.0', '<')){
+                libxml_disable_entity_loader($disableLibxmlEntityLoader);
+            }
         }
 
 
@@ -646,9 +649,13 @@ class AopClient
                 $resp = $this->encryptXMLSignSource($request, $resp);
 
                 $r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
-                $disableLibxmlEntityLoader = libxml_disable_entity_loader(true);
+                if (version_compare(PHP_VERSION, '8.0', '<')) { 
+                    $disableLibxmlEntityLoader = libxml_disable_entity_loader(true);
+                }
                 $respObject = @ simplexml_load_string($r);
-                libxml_disable_entity_loader($disableLibxmlEntityLoader);
+                if(version_compare(PHP_VERSION, '8.0', '<')){
+                    libxml_disable_entity_loader($disableLibxmlEntityLoader);
+                }
 
             }
         }
@@ -677,6 +684,12 @@ class AopClient
         return $data;
     }
 
+    /**
+     * 未知方法
+     *
+     * @param [type] $paramsArray
+     * @return void
+     */
     public function exec($paramsArray)
     {
         if (!isset ($paramsArray["method"])) {
@@ -757,9 +770,7 @@ class AopClient
             $res = openssl_get_publickey($pubKey);
         }
 
-        if(!$res){
-            throw new \Exception('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
-        }
+        ($res) or die('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
 
         //调用openssl内置方法验签，返回bool值
 
@@ -772,7 +783,9 @@ class AopClient
 
         if (!$this->checkEmpty($this->alipayPublicKey)) {
             //释放资源
-            openssl_free_key($res);
+            if (version_compare(PHP_VERSION, '8.0', '<')) {
+                openssl_free_key($res);
+            }
         }
 
         return $result;
@@ -788,7 +801,8 @@ class AopClient
         $bizContent = $params['biz_content'];
         if ($isCheckSign) {
             if (!$this->rsaCheckV2($params, $rsaPublicKeyPem, $signType)) {
-                throw new \Exception('checkSign failure');
+                echo "<br/>checkSign failure<br/>";
+                exit;
             }
         }
         if ($isDecrypt) {
@@ -847,9 +861,7 @@ class AopClient
             $res = openssl_get_publickey($pubKey);
         }
 
-        if($res){
-            throw new \Exception('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
-        }
+        ($res) or die('支付宝RSA公钥错误。请检查公钥文件格式是否正确');
         $blocks = $this->splitCN($data, 0, 30, $charset);
         $chrtext  = null;
         $encodes  = array();
@@ -881,9 +893,7 @@ class AopClient
             $priKey = file_get_contents($this->rsaPrivateKeyFilePath);
             $res = openssl_get_privatekey($priKey);
         }
-        if(!$res){
-            throw new \Exception('您使用的私钥格式错误，请检查RSA私钥配置');
-        }
+        ($res) or die('您使用的私钥格式错误，请检查RSA私钥配置');
         //转换为openssl格式密钥
         $decodes = explode(',', $data);
         $strnull = "";

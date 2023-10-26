@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.insurance.unified.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:01
+ * @since 1.0, 2023-09-04 01:49:56
  */
 class AnttechBlockchainDefinInsuranceUnifiedApplyRequest
 {

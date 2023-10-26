@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.audio.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:40:24
+ * @since 1.0, 2023-08-21 05:45:01
  */
 class AlipayCommerceIotDeviceAudioSendRequest
 {

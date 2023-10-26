@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.loantrade.payer.ar.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 17:23:54
+ * @since 1.0, 2023-08-20 18:16:46
  */
 class MybankCreditLoantradePayerArConsultRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.loan.third.notify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:44:58
+ * @since 1.0, 2023-08-21 03:18:44
  */
 class AlipayPcreditLoanThirdNotifyRequest
 {

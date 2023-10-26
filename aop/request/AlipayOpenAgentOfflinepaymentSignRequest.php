@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.agent.offlinepayment.sign request
  *
  * @author auto create
- * @since 1.0, 2021-12-07 20:57:54
+ * @since 1.0, 2023-09-11 19:44:31
  */
 class AlipayOpenAgentOfflinepaymentSignRequest
 {

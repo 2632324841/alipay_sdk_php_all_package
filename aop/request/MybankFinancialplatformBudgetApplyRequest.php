@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.financialplatform.budget.apply request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 18:01:35
+ * @since 1.0, 2023-08-21 04:21:44
  */
 class MybankFinancialplatformBudgetApplyRequest
 {

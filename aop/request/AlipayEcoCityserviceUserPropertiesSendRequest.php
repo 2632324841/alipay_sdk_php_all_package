@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.user.properties.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 14:49:36
+ * @since 1.0, 2023-05-31 03:12:34
  */
 class AlipayEcoCityserviceUserPropertiesSendRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.content.contentinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2019-03-15 10:30:13
+ * @since 1.0, 2023-05-30 21:01:09
  */
 class KoubeiContentContentinfoModifyRequest
 {

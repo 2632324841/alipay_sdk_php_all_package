@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.cognitive.ocr.vehicledashboard.query request
  *
  * @author auto create
- * @since 1.0, 2019-04-23 17:27:54
+ * @since 1.0, 2023-08-24 22:23:22
  */
 class AlipayIserviceCognitiveOcrVehicledashboardQueryRequest
 {

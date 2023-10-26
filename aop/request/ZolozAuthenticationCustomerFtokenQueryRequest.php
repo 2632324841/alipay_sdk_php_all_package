@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zoloz.authentication.customer.ftoken.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 15:16:35
+ * @since 1.0, 2023-09-11 16:56:49
  */
 class ZolozAuthenticationCustomerFtokenQueryRequest
 {

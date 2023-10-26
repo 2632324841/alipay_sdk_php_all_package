@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.quote.detail.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:41:47
+ * @since 1.0, 2023-08-21 02:01:12
  */
 class AlipayInsSceneQuoteDetailQueryRequest
 {

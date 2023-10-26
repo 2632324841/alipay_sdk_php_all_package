@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerclientinfo.defaultversion.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:42:11
+ * @since 1.0, 2023-08-24 21:45:34
  */
 class AlipayOpenMiniInnerclientinfoDefaultversionQueryRequest
 {

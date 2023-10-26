@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.intelligentize.workschedule.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:39
+ * @since 1.0, 2023-08-28 20:53:39
  */
 class AlipayCommerceTransportIntelligentizeWorkscheduleCreateRequest
 {

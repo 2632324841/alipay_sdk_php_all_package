@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.mrchsurplmitem.cannotsell.sync request
  *
  * @author auto create
- * @since 1.0, 2022-04-19 19:56:40
+ * @since 1.0, 2023-08-20 17:18:20
  */
 class AlipayMerchantMrchsurplmitemCannotsellSyncRequest
 {

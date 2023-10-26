@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.pdeduct.sign.validate request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 17:01:36
+ * @since 1.0, 2023-09-11 18:01:49
  */
 class AlipayEbppPdeductSignValidateRequest
 {

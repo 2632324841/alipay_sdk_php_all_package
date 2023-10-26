@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.mobile.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 17:47:29
+ * @since 1.0, 2023-09-11 18:01:45
  */
 class DatadigitalFincloudGeneralsaasOcrMobileInitializeRequest
 {

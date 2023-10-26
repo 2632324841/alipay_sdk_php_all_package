@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.certify.identify.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 15:18:27
+ * @since 1.0, 2023-08-21 02:56:46
  */
 class AlipayUserCertifyIdentifyInfoQueryRequest
 {

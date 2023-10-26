@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.fuelling.shop.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-08-24 22:34:51
  */
 class AlipayEcoMycarFuellingShopCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.task.signup request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 21:05:16
+ * @since 1.0, 2023-09-21 10:37:58
  */
 class AlipayMarketingCampaignTaskSignupRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.creditbank.studyprofile.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 17:21:04
+ * @since 1.0, 2023-09-03 23:28:21
  */
 class AlipayCommerceEducateCreditbankStudyprofileModifyRequest
 {

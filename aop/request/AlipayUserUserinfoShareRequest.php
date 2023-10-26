@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.userinfo.share request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:04:49
+ * @since 1.0, 2023-09-12 06:45:40
  */
 class AlipayUserUserinfoShareRequest
 {

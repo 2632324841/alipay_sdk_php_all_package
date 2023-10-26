@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.contract.record.sync request
  *
  * @author auto create
- * @since 1.0, 2019-06-21 14:07:19
+ * @since 1.0, 2023-08-20 18:33:25
  */
 class ZhimaCustomerContractRecordSyncRequest
 {

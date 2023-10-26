@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.finance.mylogisticfinsandbox.message.publish request
  *
  * @author auto create
- * @since 1.0, 2021-10-11 17:11:38
+ * @since 1.0, 2023-08-24 22:09:02
  */
 class AnttechBlockchainFinanceMylogisticfinsandboxMessagePublishRequest
 {

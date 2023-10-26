@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.campus.institutions.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-27 11:27:15
+ * @since 1.0, 2023-09-11 16:12:40
  */
 class AlipayCommerceEducateCampusInstitutionsQueryRequest
 {

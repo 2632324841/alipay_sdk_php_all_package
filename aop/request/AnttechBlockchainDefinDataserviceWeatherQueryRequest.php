@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.dataservice.weather.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-27 17:56:54
+ * @since 1.0, 2023-08-24 23:06:24
  */
 class AnttechBlockchainDefinDataserviceWeatherQueryRequest
 {

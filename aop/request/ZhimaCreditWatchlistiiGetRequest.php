@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.watchlistii.get request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:47:06
+ * @since 1.0, 2023-08-21 01:32:45
  */
 class ZhimaCreditWatchlistiiGetRequest
 {

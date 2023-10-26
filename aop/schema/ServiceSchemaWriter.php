@@ -1,5 +1,6 @@
 <?php
 namespace aop\schema;
+use DOMDocument;
 class ServiceSchemaWriter
 {
     /**
@@ -7,7 +8,7 @@ class ServiceSchemaWriter
      */
     public static function writeSchemaXmlString(array $attributesArr)
     {
-        $dom = new \DOMDocument('1.0', 'utf-8');
+        $dom = new DOMDocument('1.0', 'utf-8');
         $root = $dom->createElement("serviceSchema");
         foreach ($attributesArr as $attribute) {
             if ($attribute instanceof XMLAttribute) {
@@ -23,7 +24,7 @@ class ServiceSchemaWriter
      */
     public static function writeFullchemaXmlString(array $attributesArr)
     {
-        $dom = new \DOMDocument('1.0', 'utf-8');
+        $dom = new DOMDocument('1.0', 'utf-8');
         $root = $dom->createElement("serviceSchema");
         foreach ($attributesArr as $attribute) {
             if ($attribute instanceof XMLAttribute) {

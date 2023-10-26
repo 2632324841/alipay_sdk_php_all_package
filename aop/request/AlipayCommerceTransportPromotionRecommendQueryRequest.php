@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.promotion.recommend.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 18:12:54
+ * @since 1.0, 2023-09-16 09:36:43
  */
 class AlipayCommerceTransportPromotionRecommendQueryRequest
 {

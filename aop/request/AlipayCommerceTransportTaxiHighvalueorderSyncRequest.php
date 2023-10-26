@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.taxi.highvalueorder.sync request
  *
  * @author auto create
- * @since 1.0, 2022-04-02 17:56:39
+ * @since 1.0, 2023-08-24 22:01:48
  */
 class AlipayCommerceTransportTaxiHighvalueorderSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.deviceinstance.offline request
  *
  * @author auto create
- * @since 1.0, 2022-11-11 11:01:44
+ * @since 1.0, 2023-08-21 01:41:52
  */
 class AlipayDataDataserviceDeviceinstanceOfflineRequest
 {

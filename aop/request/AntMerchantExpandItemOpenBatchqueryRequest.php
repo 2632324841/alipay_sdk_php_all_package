@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.item.open.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:03:48
+ * @since 1.0, 2023-09-12 06:45:23
  */
 class AntMerchantExpandItemOpenBatchqueryRequest
 {

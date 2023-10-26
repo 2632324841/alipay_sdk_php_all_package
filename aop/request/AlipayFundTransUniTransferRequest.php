@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.trans.uni.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-11-10 21:11:35
+ * @since 1.0, 2023-09-18 13:41:44
  */
 class AlipayFundTransUniTransferRequest
 {

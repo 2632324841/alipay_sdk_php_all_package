@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.contentlib.standardcontent.publish request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 21:42:59
+ * @since 1.0, 2023-09-27 19:46:03
  */
 class AlipaySocialBaseContentlibStandardcontentPublishRequest
 {

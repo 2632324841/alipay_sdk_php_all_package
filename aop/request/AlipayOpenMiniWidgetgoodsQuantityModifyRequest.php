@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.widgetgoods.quantity.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 19:36:36
+ * @since 1.0, 2023-09-04 01:46:46
  */
 class AlipayOpenMiniWidgetgoodsQuantityModifyRequest
 {

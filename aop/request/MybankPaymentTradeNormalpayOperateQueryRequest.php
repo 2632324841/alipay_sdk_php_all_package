@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.payment.trade.normalpay.operate.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 13:00:28
+ * @since 1.0, 2023-02-06 10:56:15
  */
 class MybankPaymentTradeNormalpayOperateQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.merchant.serviceconsult.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:16
+ * @since 1.0, 2023-08-21 05:59:01
  */
 class AlipayMerchantServiceconsultBatchqueryRequest
 {

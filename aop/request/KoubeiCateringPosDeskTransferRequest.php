@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.pos.desk.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:19:21
+ * @since 1.0, 2023-05-31 02:49:11
  */
 class KoubeiCateringPosDeskTransferRequest
 {

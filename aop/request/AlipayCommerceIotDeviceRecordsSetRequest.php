@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.records.set request
  *
  * @author auto create
- * @since 1.0, 2022-06-10 14:16:45
+ * @since 1.0, 2023-09-04 01:50:30
  */
 class AlipayCommerceIotDeviceRecordsSetRequest
 {

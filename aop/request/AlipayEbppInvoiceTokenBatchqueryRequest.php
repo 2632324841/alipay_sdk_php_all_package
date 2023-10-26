@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.token.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 12:16:35
+ * @since 1.0, 2023-09-11 17:31:50
  */
 class AlipayEbppInvoiceTokenBatchqueryRequest
 {

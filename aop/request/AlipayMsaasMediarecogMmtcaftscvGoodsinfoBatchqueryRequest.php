@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.goodsinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-26 11:18:09
+ * @since 1.0, 2023-08-24 22:11:04
  */
 class AlipayMsaasMediarecogMmtcaftscvGoodsinfoBatchqueryRequest
 {

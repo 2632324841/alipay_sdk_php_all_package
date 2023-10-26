@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.ededuct.forecast.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 14:15:17
+ * @since 1.0, 2023-09-03 23:49:58
  */
 class AlipayEbppEdeductForecastQueryRequest
 {

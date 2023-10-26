@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.auth.userauth.relationship.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-14 19:06:48
+ * @since 1.0, 2023-09-11 17:01:48
  */
 class AlipayOpenAuthUserauthRelationshipQueryRequest
 {

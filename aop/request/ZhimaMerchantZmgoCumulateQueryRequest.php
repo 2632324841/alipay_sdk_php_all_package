@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.zmgo.cumulate.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 20:16:34
+ * @since 1.0, 2023-09-11 16:16:48
  */
 class ZhimaMerchantZmgoCumulateQueryRequest
 {

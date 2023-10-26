@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.mobileauth.templatetext.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-19 14:43:52
+ * @since 1.0, 2023-09-04 00:25:39
  */
 class AlipayPcreditHuabeiMobileauthTemplatetextQueryRequest
 {

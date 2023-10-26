@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.merchant.operator.search.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:46:37
+ * @since 1.0, 2023-08-24 21:33:51
  */
 class KoubeiMerchantOperatorSearchBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.facepay.apply request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 14:56:34
+ * @since 1.0, 2023-08-21 05:36:41
  */
 class AlipayCommerceEducateFacepayApplyRequest
 {

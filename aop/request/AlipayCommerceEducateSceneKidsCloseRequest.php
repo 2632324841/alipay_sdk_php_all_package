@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.scene.kids.close request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 14:56:34
+ * @since 1.0, 2023-05-30 21:56:59
  */
 class AlipayCommerceEducateSceneKidsCloseRequest
 {

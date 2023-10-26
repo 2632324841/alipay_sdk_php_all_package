@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.odps.crowd.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-01 15:30:14
+ * @since 1.0, 2023-08-24 21:39:40
  */
 class AlipayOpenPublicOdpsCrowdSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.mobile.beacon.message.send request
  *
  * @author auto create
- * @since 1.0, 2019-03-08 15:29:11
+ * @since 1.0, 2023-08-24 21:42:58
  */
 class AlipayMobileBeaconMessageSendRequest
 {

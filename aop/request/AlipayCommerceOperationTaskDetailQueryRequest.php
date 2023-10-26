@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.task.detail.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 10:50:48
+ * @since 1.0, 2023-08-21 02:35:02
  */
 class AlipayCommerceOperationTaskDetailQueryRequest
 {

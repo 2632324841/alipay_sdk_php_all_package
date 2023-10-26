@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.customer.fulfillment.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 15:41:35
+ * @since 1.0, 2023-09-04 01:31:48
  */
 class ZhimaCustomerFulfillmentSyncRequest
 {

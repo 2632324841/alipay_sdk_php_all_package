@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.bill.msg.apply request
  *
  * @author auto create
- * @since 1.0, 2022-03-02 11:41:49
+ * @since 1.0, 2023-08-24 22:06:46
  */
 class AlipayCommerceBillMsgApplyRequest
 {

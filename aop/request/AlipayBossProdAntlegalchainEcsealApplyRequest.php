@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.prod.antlegalchain.ecseal.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:27:02
+ * @since 1.0, 2023-05-31 01:37:18
  */
 class AlipayBossProdAntlegalchainEcsealApplyRequest
 {

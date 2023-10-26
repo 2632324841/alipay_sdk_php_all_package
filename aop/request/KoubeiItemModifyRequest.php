@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.item.modify request
  *
  * @author auto create
- * @since 1.0, 2021-05-18 16:55:38
+ * @since 1.0, 2023-05-29 20:19:12
  */
 class KoubeiItemModifyRequest
 {

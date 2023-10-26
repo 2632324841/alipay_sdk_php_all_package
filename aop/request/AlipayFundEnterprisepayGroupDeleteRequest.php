@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.enterprisepay.group.delete request
  *
  * @author auto create
- * @since 1.0, 2022-11-04 14:21:44
+ * @since 1.0, 2023-09-11 16:53:34
  */
 class AlipayFundEnterprisepayGroupDeleteRequest
 {

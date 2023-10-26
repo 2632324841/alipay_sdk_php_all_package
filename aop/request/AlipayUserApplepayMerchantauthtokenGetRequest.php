@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.applepay.merchantauthtoken.get request
  *
  * @author auto create
- * @since 1.0, 2020-05-26 15:16:31
+ * @since 1.0, 2023-08-24 21:17:56
  */
 class AlipayUserApplepayMerchantauthtokenGetRequest
 {

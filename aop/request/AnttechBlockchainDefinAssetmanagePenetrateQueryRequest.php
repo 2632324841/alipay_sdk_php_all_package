@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.blockchain.defin.assetmanage.penetrate.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 19:31:50
+ * @since 1.0, 2023-09-04 00:59:44
  */
 class AnttechBlockchainDefinAssetmanagePenetrateQueryRequest
 {

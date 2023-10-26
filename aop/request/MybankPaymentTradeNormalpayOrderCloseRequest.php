@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.payment.trade.normalpay.order.close request
  *
  * @author auto create
- * @since 1.0, 2021-04-12 10:57:34
+ * @since 1.0, 2023-08-21 05:45:12
  */
 class MybankPaymentTradeNormalpayOrderCloseRequest
 {

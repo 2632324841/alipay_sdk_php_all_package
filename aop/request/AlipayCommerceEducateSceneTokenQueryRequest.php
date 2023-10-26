@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.educate.scene.token.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 14:56:34
+ * @since 1.0, 2023-05-31 03:11:58
  */
 class AlipayCommerceEducateSceneTokenQueryRequest
 {

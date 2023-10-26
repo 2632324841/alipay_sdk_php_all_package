@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.innerbaseinfo.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:01:36
+ * @since 1.0, 2023-09-04 01:34:31
  */
 class AlipayOpenMiniInnerbaseinfoTransferRequest
 {

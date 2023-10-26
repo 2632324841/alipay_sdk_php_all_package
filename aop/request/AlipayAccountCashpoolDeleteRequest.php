@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.account.cashpool.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:19:28
+ * @since 1.0, 2023-08-20 18:03:26
  */
 class AlipayAccountCashpoolDeleteRequest
 {

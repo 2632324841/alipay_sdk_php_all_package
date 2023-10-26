@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.wap.pay request
  *
  * @author auto create
- * @since 1.0, 2022-11-23 00:36:41
+ * @since 1.0, 2023-09-21 15:33:20
  */
 class AlipayTradeWapPayRequest
 {

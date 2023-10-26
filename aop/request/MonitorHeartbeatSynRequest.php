@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: monitor.heartbeat.syn request
  *
  * @author auto create
- * @since 1.0, 2022-03-10 16:31:12
+ * @since 1.0, 2023-09-12 06:44:00
  */
 class MonitorHeartbeatSynRequest
 {

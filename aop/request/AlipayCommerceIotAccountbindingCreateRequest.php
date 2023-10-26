@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.accountbinding.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:39:04
+ * @since 1.0, 2023-08-21 02:18:46
  */
 class AlipayCommerceIotAccountbindingCreateRequest
 {

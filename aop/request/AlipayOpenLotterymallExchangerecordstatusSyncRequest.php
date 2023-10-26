@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.lotterymall.exchangerecordstatus.sync request
  *
  * @author auto create
- * @since 1.0, 2020-01-15 09:35:39
+ * @since 1.0, 2023-09-04 02:14:04
  */
 class AlipayOpenLotterymallExchangerecordstatusSyncRequest
 {

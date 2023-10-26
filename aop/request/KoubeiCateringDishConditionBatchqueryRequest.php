@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.catering.dish.condition.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:41:01
+ * @since 1.0, 2023-08-21 03:44:46
  */
 class KoubeiCateringDishConditionBatchqueryRequest
 {

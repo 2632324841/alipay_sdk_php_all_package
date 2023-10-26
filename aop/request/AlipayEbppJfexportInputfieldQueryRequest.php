@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.jfexport.inputfield.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-23 09:31:10
+ * @since 1.0, 2023-08-20 17:12:00
  */
 class AlipayEbppJfexportInputfieldQueryRequest
 {

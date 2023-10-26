@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.operation.timescard.uselog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 20:01:35
+ * @since 1.0, 2023-05-29 20:22:00
  */
 class AlipayCommerceOperationTimescardUselogBatchqueryRequest
 {

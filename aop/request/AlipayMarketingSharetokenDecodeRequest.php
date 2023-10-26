@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.sharetoken.decode request
  *
  * @author auto create
- * @since 1.0, 2022-08-10 11:43:51
+ * @since 1.0, 2023-05-29 20:38:26
  */
 class AlipayMarketingSharetokenDecodeRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.antid.virtual.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-17 15:19:23
+ * @since 1.0, 2023-05-31 19:30:49
  */
 class AlipayUserAntidVirtualCreateRequest
 {

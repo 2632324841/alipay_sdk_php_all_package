@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.logistics.express.order.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:45:44
+ * @since 1.0, 2023-09-03 23:30:45
  */
 class AlipayEcoLogisticsExpressOrderModifyRequest
 {

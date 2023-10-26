@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.antest.taskstatus.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-21 15:47:24
+ * @since 1.0, 2023-08-20 17:12:46
  */
 class AlipayCommerceAntestTaskstatusQueryRequest
 {

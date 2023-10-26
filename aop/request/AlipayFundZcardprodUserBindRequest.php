@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.zcardprod.user.bind request
  *
  * @author auto create
- * @since 1.0, 2022-10-24 14:07:05
+ * @since 1.0, 2023-09-20 13:53:01
  */
 class AlipayFundZcardprodUserBindRequest
 {

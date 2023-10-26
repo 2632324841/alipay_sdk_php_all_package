@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.servindustry.reservation.leads.modify request
  *
  * @author auto create
- * @since 1.0, 2022-04-27 17:07:23
+ * @since 1.0, 2023-05-29 22:42:45
  */
 class KoubeiServindustryReservationLeadsModifyRequest
 {

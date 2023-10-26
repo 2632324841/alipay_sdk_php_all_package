@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.oceanbase.testplatform.task.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-13 19:51:41
+ * @since 1.0, 2023-05-31 02:10:26
  */
 class AnttechOceanbaseTestplatformTaskSyncRequest
 {

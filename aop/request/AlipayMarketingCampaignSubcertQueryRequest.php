@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.campaign.subcert.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:14
+ * @since 1.0, 2023-08-21 04:01:44
  */
 class AlipayMarketingCampaignSubcertQueryRequest
 {

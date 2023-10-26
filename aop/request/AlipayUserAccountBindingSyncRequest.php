@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.account.binding.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:51:51
+ * @since 1.0, 2023-08-20 17:16:45
  */
 class AlipayUserAccountBindingSyncRequest
 {

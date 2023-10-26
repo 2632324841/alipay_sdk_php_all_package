@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.industry.trade.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 16:33:15
+ * @since 1.0, 2023-08-24 20:56:39
  */
 class ZhimaCreditPeIndustryTradeQueryRequest
 {

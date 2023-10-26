@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.room.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:05:36
+ * @since 1.0, 2023-05-29 22:12:18
  */
 class AlipayEbppCommunityRoomModifyRequest
 {

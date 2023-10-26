@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.ordervoucher.modify request
  *
  * @author auto create
- * @since 1.0, 2022-09-20 11:40:45
+ * @since 1.0, 2023-09-26 11:36:08
  */
 class AlipayMarketingActivityOrdervoucherModifyRequest
 {

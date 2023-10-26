@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.autocheck.task.trigger request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 09:16:57
+ * @since 1.0, 2023-08-21 04:56:09
  */
 class AlipayOpenMiniAutocheckTaskTriggerRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.employeequota.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 23:41:34
+ * @since 1.0, 2023-09-11 18:26:45
  */
 class AlipayEbppInvoiceExpensecontrolEmployeequotaCreateRequest
 {

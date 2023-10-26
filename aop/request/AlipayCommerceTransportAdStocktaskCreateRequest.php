@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.ad.stocktask.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-08-21 01:57:19
  */
 class AlipayCommerceTransportAdStocktaskCreateRequest
 {

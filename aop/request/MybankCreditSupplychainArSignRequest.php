@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.ar.sign request
  *
  * @author auto create
- * @since 1.0, 2019-04-11 17:25:05
+ * @since 1.0, 2023-05-31 02:02:21
  */
 class MybankCreditSupplychainArSignRequest
 {

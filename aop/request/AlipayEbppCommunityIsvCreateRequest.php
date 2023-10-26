@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.isv.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:30:01
+ * @since 1.0, 2023-05-31 01:06:33
  */
 class AlipayEbppCommunityIsvCreateRequest
 {

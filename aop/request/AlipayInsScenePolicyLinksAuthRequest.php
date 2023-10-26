@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.policy.links.auth request
  *
  * @author auto create
- * @since 1.0, 2022-10-09 15:01:58
+ * @since 1.0, 2023-08-21 03:43:14
  */
 class AlipayInsScenePolicyLinksAuthRequest
 {

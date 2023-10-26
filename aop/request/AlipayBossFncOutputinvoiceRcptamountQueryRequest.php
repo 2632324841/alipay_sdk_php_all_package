@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.outputinvoice.rcptamount.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-12 11:25:54
+ * @since 1.0, 2023-08-21 01:36:39
  */
 class AlipayBossFncOutputinvoiceRcptamountQueryRequest
 {

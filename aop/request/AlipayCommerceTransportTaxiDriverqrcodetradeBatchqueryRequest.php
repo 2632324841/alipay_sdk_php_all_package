@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.taxi.driverqrcodetrade.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-09 21:37:44
+ * @since 1.0, 2023-08-21 01:36:17
  */
 class AlipayCommerceTransportTaxiDriverqrcodetradeBatchqueryRequest
 {

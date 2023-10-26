@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.credit.pe.user.scene.consult request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 20:11:38
+ * @since 1.0, 2023-09-04 00:26:48
  */
 class ZhimaCreditPeUserSceneConsultRequest
 {

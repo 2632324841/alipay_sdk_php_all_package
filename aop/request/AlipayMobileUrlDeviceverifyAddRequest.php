@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.mobile.url.deviceverify.add request
  *
  * @author auto create
- * @since 1.0, 2022-02-10 10:28:55
+ * @since 1.0, 2023-09-04 00:01:37
  */
 class AlipayMobileUrlDeviceverifyAddRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.claim.newreport.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 16:21:42
+ * @since 1.0, 2023-09-04 01:38:55
  */
 class AlipayInsSceneClaimNewreportCreateRequest
 {

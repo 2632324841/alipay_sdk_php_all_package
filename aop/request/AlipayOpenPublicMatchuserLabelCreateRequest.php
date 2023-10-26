@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.matchuser.label.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-13 16:09:38
+ * @since 1.0, 2023-09-12 06:52:49
  */
 class AlipayOpenPublicMatchuserLabelCreateRequest
 {

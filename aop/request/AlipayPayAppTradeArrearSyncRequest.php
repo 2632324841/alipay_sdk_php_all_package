@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pay.app.trade.arrear.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:42:33
+ * @since 1.0, 2023-05-31 01:11:13
  */
 class AlipayPayAppTradeArrearSyncRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.factoring.supplier.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-28 13:51:23
+ * @since 1.0, 2023-09-04 01:18:06
  */
 class MybankCreditSupplychainFactoringSupplierCreateRequest
 {

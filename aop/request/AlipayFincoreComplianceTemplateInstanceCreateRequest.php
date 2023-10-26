@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fincore.compliance.template.instance.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-23 14:30:40
+ * @since 1.0, 2023-08-21 02:40:33
  */
 class AlipayFincoreComplianceTemplateInstanceCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.antest.task.create request
  *
  * @author auto create
- * @since 1.0, 2020-04-21 15:47:24
+ * @since 1.0, 2023-08-21 01:47:53
  */
 class AlipayCommerceAntestTaskCreateRequest
 {

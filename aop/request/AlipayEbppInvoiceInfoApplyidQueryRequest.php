@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.info.applyid.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 17:16:38
+ * @since 1.0, 2023-08-20 17:16:48
  */
 class AlipayEbppInvoiceInfoApplyidQueryRequest
 {

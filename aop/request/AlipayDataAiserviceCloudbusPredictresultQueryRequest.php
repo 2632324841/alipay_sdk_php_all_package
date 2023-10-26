@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.aiservice.cloudbus.predictresult.query request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:37:56
+ * @since 1.0, 2023-08-24 22:08:13
  */
 class AlipayDataAiserviceCloudbusPredictresultQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.etc.media.get request
  *
  * @author auto create
- * @since 1.0, 2019-05-28 21:19:49
+ * @since 1.0, 2023-08-28 16:33:50
  */
 class AlipayCommerceTransportEtcMediaGetRequest
 {

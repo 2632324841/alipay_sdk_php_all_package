@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.financialnet.promotion.apply.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-27 19:26:50
+ * @since 1.0, 2023-08-23 20:41:47
  */
 class AlipayFinancialnetPromotionApplyQueryRequest
 {

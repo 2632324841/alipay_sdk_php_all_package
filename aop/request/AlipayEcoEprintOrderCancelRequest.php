@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.eprint.order.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:44:24
+ * @since 1.0, 2023-08-21 03:22:06
  */
 class AlipayEcoEprintOrderCancelRequest
 {

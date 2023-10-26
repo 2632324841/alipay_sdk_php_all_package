@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.mobile.recommend.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:14
+ * @since 1.0, 2023-09-04 01:14:40
  */
 class AlipayMobileRecommendGetRequest
 {

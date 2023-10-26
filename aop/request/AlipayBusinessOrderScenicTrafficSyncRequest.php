@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.business.order.scenic.traffic.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-26 14:21:50
+ * @since 1.0, 2023-05-31 01:31:55
  */
 class AlipayBusinessOrderScenicTrafficSyncRequest
 {

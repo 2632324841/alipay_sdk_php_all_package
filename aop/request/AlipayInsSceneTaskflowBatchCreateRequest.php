@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.scene.taskflow.batch.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 14:28:19
+ * @since 1.0, 2023-05-31 01:11:51
  */
 class AlipayInsSceneTaskflowBatchCreateRequest
 {

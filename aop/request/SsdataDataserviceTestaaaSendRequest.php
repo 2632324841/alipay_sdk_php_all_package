@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ssdata.dataservice.testaaa.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 10:37:31
+ * @since 1.0, 2023-06-14 18:54:25
  */
 class SsdataDataserviceTestaaaSendRequest
 {

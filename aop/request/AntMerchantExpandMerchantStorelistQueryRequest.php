@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.merchant.storelist.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 10:15:48
+ * @since 1.0, 2023-10-09 20:32:45
  */
 class AntMerchantExpandMerchantStorelistQueryRequest
 {

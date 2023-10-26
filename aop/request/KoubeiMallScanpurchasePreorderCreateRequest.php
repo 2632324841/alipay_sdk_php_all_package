@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.mall.scanpurchase.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:06:51
+ * @since 1.0, 2023-05-30 20:37:50
  */
 class KoubeiMallScanpurchasePreorderCreateRequest
 {

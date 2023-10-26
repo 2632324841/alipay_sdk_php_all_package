@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.frontcategory.security.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:06:08
+ * @since 1.0, 2023-07-05 10:59:48
  */
 class AntMerchantExpandFrontcategorySecurityModifyRequest
 {

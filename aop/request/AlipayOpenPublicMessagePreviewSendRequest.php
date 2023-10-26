@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.public.message.preview.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 17:24:48
+ * @since 1.0, 2023-09-04 00:34:18
  */
 class AlipayOpenPublicMessagePreviewSendRequest
 {

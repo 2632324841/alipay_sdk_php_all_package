@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: antfortune.stock.product.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 09:21:07
+ * @since 1.0, 2023-09-03 23:21:44
  */
 class AntfortuneStockProductSyncRequest
 {

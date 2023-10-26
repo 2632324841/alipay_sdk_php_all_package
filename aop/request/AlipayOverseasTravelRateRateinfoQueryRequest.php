@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.travel.rate.rateinfo.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-25 11:37:35
+ * @since 1.0, 2023-08-21 02:11:44
  */
 class AlipayOverseasTravelRateRateinfoQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.offlinepay.virtualcard.send request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 18:10:05
+ * @since 1.0, 2023-08-21 03:16:45
  */
 class AlipayCommerceTransportOfflinepayVirtualcardSendRequest
 {

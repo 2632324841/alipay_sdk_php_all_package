@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.studentloan.repay.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:51
+ * @since 1.0, 2023-08-21 02:04:28
  */
 class AlipayFundStudentloanRepayQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.openbizmock.openid.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-10 21:11:14
+ * @since 1.0, 2023-05-30 22:27:04
  */
 class AlipayOpenOpenbizmockOpenidQueryRequest
 {

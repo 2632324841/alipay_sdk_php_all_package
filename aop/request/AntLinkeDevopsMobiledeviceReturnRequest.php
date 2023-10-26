@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.linke.devops.mobiledevice.return request
  *
  * @author auto create
- * @since 1.0, 2022-05-19 19:31:49
+ * @since 1.0, 2023-05-30 22:43:02
  */
 class AntLinkeDevopsMobiledeviceReturnRequest
 {

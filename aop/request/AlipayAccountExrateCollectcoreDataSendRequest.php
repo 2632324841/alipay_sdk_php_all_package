@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.account.exrate.collectcore.data.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:20:32
+ * @since 1.0, 2023-08-21 05:40:17
  */
 class AlipayAccountExrateCollectcoreDataSendRequest
 {

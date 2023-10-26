@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.marketing.discount.decision request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 16:19:42
+ * @since 1.0, 2023-08-21 03:22:41
  */
 class AlipayInsMarketingDiscountDecisionRequest
 {

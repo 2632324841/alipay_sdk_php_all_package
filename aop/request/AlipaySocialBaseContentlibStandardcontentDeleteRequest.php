@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.contentlib.standardcontent.delete request
  *
  * @author auto create
- * @since 1.0, 2022-09-22 21:43:38
+ * @since 1.0, 2023-09-03 23:40:59
  */
 class AlipaySocialBaseContentlibStandardcontentDeleteRequest
 {

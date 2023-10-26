@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.credit.supplychain.prepayment.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:39:50
+ * @since 1.0, 2023-09-04 02:00:03
  */
 class MybankCreditSupplychainPrepaymentApplyRequest
 {

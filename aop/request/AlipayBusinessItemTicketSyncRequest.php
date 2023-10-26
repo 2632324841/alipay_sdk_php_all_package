@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.business.item.ticket.sync request
  *
  * @author auto create
- * @since 1.0, 2021-04-27 21:35:20
+ * @since 1.0, 2023-08-21 01:42:15
  */
 class AlipayBusinessItemTicketSyncRequest
 {

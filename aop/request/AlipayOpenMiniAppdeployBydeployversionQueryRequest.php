@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.appdeploy.bydeployversion.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:40:48
+ * @since 1.0, 2023-09-11 17:57:21
  */
 class AlipayOpenMiniAppdeployBydeployversionQueryRequest
 {

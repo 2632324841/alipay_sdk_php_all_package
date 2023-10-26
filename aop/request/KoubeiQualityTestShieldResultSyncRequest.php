@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.quality.test.shield.result.sync request
  *
  * @author auto create
- * @since 1.0, 2019-11-27 19:27:11
+ * @since 1.0, 2023-08-24 22:47:03
  */
 class KoubeiQualityTestShieldResultSyncRequest
 {

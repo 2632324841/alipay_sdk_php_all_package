@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: mybank.finance.yulibao.capital.purchase request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:04:04
+ * @since 1.0, 2023-08-21 04:38:03
  */
 class MybankFinanceYulibaoCapitalPurchaseRequest
 {

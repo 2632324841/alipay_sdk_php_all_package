@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.sports.cheer.result.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-05-14 13:40:20
+ * @since 1.0, 2023-08-21 02:40:44
  */
 class AlipayCommerceSportsCheerResultConfirmRequest
 {

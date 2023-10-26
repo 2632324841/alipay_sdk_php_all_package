@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.content.result.get request
  *
  * @author auto create
- * @since 1.0, 2022-05-24 14:32:18
+ * @since 1.0, 2023-09-04 00:43:23
  */
 class AlipaySecurityRiskContentResultGetRequest
 {

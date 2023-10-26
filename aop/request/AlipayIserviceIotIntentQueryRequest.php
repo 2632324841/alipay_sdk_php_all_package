@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.iot.intent.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-29 13:02:07
+ * @since 1.0, 2023-08-21 05:27:16
  */
 class AlipayIserviceIotIntentQueryRequest
 {

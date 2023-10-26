@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.ec.department.sublist.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-08 13:21:35
+ * @since 1.0, 2023-09-20 16:41:44
  */
 class AlipayCommerceEcDepartmentSublistQueryRequest
 {

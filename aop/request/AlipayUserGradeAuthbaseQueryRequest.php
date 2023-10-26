@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.grade.authbase.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:09
+ * @since 1.0, 2023-08-24 22:11:45
  */
 class AlipayUserGradeAuthbaseQueryRequest
 {

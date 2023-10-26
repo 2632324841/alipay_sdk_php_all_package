@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.cloud.file.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-07 17:46:37
+ * @since 1.0, 2023-09-20 11:16:44
  */
 class AlipayOpenMiniCloudFileQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fincore.compliance.crossborder.merchant.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-18 10:32:36
+ * @since 1.0, 2023-08-23 21:32:14
  */
 class AlipayFincoreComplianceCrossborderMerchantBatchqueryRequest
 {

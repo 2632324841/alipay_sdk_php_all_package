@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: zhima.merchant.contract.page.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 10:40:44
+ * @since 1.0, 2023-08-22 14:02:54
  */
 class ZhimaMerchantContractPageQueryRequest
 {

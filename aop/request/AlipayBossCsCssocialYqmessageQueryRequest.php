@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.cs.cssocial.yqmessage.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-09-04 01:45:59
  */
 class AlipayBossCsCssocialYqmessageQueryRequest
 {

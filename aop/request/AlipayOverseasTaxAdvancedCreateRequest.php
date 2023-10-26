@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.overseas.tax.advanced.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:09
+ * @since 1.0, 2023-06-19 15:07:56
  */
 class AlipayOverseasTaxAdvancedCreateRequest
 {

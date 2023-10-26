@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.campaign.merchant.activity.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-27 11:30:57
+ * @since 1.0, 2023-05-30 22:49:23
  */
 class KoubeiMarketingCampaignMerchantActivityQueryRequest
 {

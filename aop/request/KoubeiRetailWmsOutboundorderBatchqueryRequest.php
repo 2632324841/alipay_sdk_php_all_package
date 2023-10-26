@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.retail.wms.outboundorder.batchquery request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-08-21 05:46:07
  */
 class KoubeiRetailWmsOutboundorderBatchqueryRequest
 {

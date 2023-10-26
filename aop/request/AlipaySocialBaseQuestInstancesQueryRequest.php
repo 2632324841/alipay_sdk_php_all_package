@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.quest.instances.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-19 15:05:01
+ * @since 1.0, 2023-08-23 20:51:46
  */
 class AlipaySocialBaseQuestInstancesQueryRequest
 {

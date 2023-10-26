@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.ampe.userscene.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:57:51
+ * @since 1.0, 2023-08-21 01:17:06
  */
 class AlipayOpenMiniAmpeUsersceneModifyRequest
 {

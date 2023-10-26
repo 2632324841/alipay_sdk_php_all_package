@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.relation.friends.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 15:11:59
+ * @since 1.0, 2023-05-29 22:01:11
  */
 class AlipaySocialBaseRelationFriendsQueryRequest
 {

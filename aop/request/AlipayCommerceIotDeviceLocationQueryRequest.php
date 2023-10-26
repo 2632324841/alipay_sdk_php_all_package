@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.device.location.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:04
+ * @since 1.0, 2023-09-04 01:20:08
  */
 class AlipayCommerceIotDeviceLocationQueryRequest
 {

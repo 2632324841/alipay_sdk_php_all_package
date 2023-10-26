@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.iotbpaas.merchantorder.query request
  *
  * @author auto create
- * @since 1.0, 2022-10-17 11:10:14
+ * @since 1.0, 2023-08-21 01:46:35
  */
 class AlipayOpenIotbpaasMerchantorderQueryRequest
 {

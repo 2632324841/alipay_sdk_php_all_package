@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.trade.itemorder.refund request
  *
  * @author auto create
- * @since 1.0, 2022-10-18 13:52:37
+ * @since 1.0, 2023-05-30 23:25:01
  */
 class KoubeiTradeItemorderRefundRequest
 {

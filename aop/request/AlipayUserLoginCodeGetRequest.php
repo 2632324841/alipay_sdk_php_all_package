@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.login.code.get request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 20:41:35
+ * @since 1.0, 2023-08-23 20:56:48
  */
 class AlipayUserLoginCodeGetRequest
 {

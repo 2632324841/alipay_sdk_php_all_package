@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.bail.order.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:50
+ * @since 1.0, 2023-08-21 03:41:45
  */
 class AlipayFundBailOrderBatchqueryRequest
 {

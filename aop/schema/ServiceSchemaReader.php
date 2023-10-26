@@ -1,11 +1,11 @@
 <?php
 namespace aop\schema;
-
 use aop\schema\XMLAttribute;
 use aop\schema\AttributeRule;
 use aop\schema\Option;
 use aop\schema\ServiceSchemaFactory;
-
+use Exception;
+use DOMDocument;
 class ServiceSchemaReader
 {
     /**
@@ -14,10 +14,10 @@ class ServiceSchemaReader
     public static function readXmlForArrayByFile($filePath)
     {
         set_error_handler('ServiceSchemaReader::errorHandler');
-        $dom = new \DOMDocument('1.0', 'utf-8');
+        $dom = new DOMDocument('1.0', 'utf-8');
         try {
             $dom->load($filePath);
-        } catch (\Exception $e) {
+        } catch (Exception $e) {
             throw new \Exception("XML格式错误,无法正常解析!");
         }
         return self::readXmlForList($dom->documentElement);
@@ -29,10 +29,10 @@ class ServiceSchemaReader
     public static function readXmlForArrayByString($xmlString)
     {
         set_error_handler('ServiceSchemaReader::errorHandler');
-        $dom = new \DOMDocument('1.0', 'utf-8');
+        $dom = new DOMDocument('1.0', 'utf-8');
         try {
             $dom->loadXML($xmlString);
-        } catch (\Exception $e) {
+        } catch (Exception $e) {
             throw new \Exception("XML格式错误,无法正常解析!");
         }
         return self::readXmlForList($dom->documentElement);
@@ -41,7 +41,7 @@ class ServiceSchemaReader
     /**
      * @throws Exception
      */
-    public static function readXmlForList(\DOMElement $rootEle)
+    public static function readXmlForList(DOMElement $rootEle)
     {
         $attributeArr = array();
         foreach ($rootEle->getElementsByTagName('attribute') as $item) {

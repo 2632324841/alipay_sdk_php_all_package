@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.appcontent.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:40:33
+ * @since 1.0, 2023-08-24 22:51:16
  */
 class AlipayOpenAppAppcontentItemBatchqueryRequest
 {

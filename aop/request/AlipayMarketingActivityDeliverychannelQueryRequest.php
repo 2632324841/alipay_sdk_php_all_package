@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.activity.deliverychannel.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-20 15:01:51
+ * @since 1.0, 2023-09-11 18:04:19
  */
 class AlipayMarketingActivityDeliverychannelQueryRequest
 {

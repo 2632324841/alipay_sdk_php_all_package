@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.community.ownercard.create request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 11:31:38
+ * @since 1.0, 2023-09-03 23:01:47
  */
 class AlipayEbppCommunityOwnercardCreateRequest
 {

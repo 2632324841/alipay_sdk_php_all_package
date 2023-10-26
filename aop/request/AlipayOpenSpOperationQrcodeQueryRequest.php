@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.sp.operation.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-12 15:24:27
+ * @since 1.0, 2023-09-11 19:14:06
  */
 class AlipayOpenSpOperationQrcodeQueryRequest
 {

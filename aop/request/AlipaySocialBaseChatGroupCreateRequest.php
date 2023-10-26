@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.social.base.chat.group.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:06:25
+ * @since 1.0, 2023-05-29 22:47:56
  */
 class AlipaySocialBaseChatGroupCreateRequest
 {

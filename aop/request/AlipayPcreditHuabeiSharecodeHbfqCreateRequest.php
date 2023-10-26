@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.pcredit.huabei.sharecode.hbfq.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-16 18:21:53
+ * @since 1.0, 2023-08-21 04:07:43
  */
 class AlipayPcreditHuabeiSharecodeHbfqCreateRequest
 {

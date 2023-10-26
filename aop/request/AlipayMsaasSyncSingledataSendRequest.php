@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.msaas.sync.singledata.send request
  *
  * @author auto create
- * @since 1.0, 2022-11-15 19:58:45
+ * @since 1.0, 2023-08-21 05:56:44
  */
 class AlipayMsaasSyncSingledataSendRequest
 {

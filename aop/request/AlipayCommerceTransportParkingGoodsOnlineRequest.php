@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.parking.goods.online request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:56:02
+ * @since 1.0, 2023-09-04 01:24:06
  */
 class AlipayCommerceTransportParkingGoodsOnlineRequest
 {

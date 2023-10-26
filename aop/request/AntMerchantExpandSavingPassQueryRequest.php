@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: ant.merchant.expand.saving.pass.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 16:36:34
+ * @since 1.0, 2023-08-21 03:01:47
  */
 class AntMerchantExpandSavingPassQueryRequest
 {

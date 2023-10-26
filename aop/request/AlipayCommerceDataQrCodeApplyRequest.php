@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.data.qr.code.apply request
  *
  * @author auto create
- * @since 1.0, 2022-10-28 10:01:48
+ * @since 1.0, 2023-08-20 18:31:47
  */
 class AlipayCommerceDataQrCodeApplyRequest
 {

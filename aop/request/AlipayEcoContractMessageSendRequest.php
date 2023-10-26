@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.contract.message.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:40:36
+ * @since 1.0, 2023-08-23 22:01:46
  */
 class AlipayEcoContractMessageSendRequest
 {

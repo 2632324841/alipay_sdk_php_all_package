@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.inneraccount.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-21 10:41:30
+ * @since 1.0, 2023-08-21 01:26:46
  */
 class AlipayOpenMiniInneraccountCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.overseas.settle request
  *
  * @author auto create
- * @since 1.0, 2022-02-14 14:36:40
+ * @since 1.0, 2023-09-20 15:56:44
  */
 class AlipayTradeOverseasSettleRequest
 {

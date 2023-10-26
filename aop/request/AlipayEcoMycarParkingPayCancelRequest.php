@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.parking.pay.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-05-27 20:06:45
+ * @since 1.0, 2023-05-30 22:02:52
  */
 class AlipayEcoMycarParkingPayCancelRequest
 {

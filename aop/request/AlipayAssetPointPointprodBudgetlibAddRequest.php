@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.asset.point.pointprod.budgetlib.add request
  *
  * @author auto create
- * @since 1.0, 2022-10-12 19:35:15
+ * @since 1.0, 2023-09-03 23:46:20
  */
 class AlipayAssetPointPointprodBudgetlibAddRequest
 {

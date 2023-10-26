@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.morse.marketing.rta.auth request
  *
  * @author auto create
- * @since 1.0, 2022-10-31 11:46:49
+ * @since 1.0, 2023-04-03 17:21:48
  */
 class AnttechMorseMarketingRtaAuthRequest
 {

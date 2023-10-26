@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.trade.kbpayment.payorder.sync request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-05-31 22:01:17
  */
 class KoubeiTradeKbpaymentPayorderSyncRequest
 {

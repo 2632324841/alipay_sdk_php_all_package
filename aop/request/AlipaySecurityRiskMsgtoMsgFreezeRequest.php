@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.security.risk.msgto.msg.freeze request
  *
  * @author auto create
- * @since 1.0, 2022-11-20 18:21:35
+ * @since 1.0, 2023-03-20 23:11:43
  */
 class AlipaySecurityRiskMsgtoMsgFreezeRequest
 {

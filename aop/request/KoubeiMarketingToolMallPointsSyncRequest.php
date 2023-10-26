@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.marketing.tool.mall.points.sync request
  *
  * @author auto create
- * @since 1.0, 2022-11-22 15:13:09
+ * @since 1.0, 2023-08-20 17:30:12
  */
 class KoubeiMarketingToolMallPointsSyncRequest
 {

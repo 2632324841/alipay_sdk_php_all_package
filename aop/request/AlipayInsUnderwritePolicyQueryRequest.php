@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ins.underwrite.policy.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 16:21:17
+ * @since 1.0, 2023-08-21 04:09:00
  */
 class AlipayInsUnderwritePolicyQueryRequest
 {

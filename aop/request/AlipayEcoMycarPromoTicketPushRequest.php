@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.mycar.promo.ticket.push request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:37:53
+ * @since 1.0, 2023-08-23 21:54:28
  */
 class AlipayEcoMycarPromoTicketPushRequest
 {

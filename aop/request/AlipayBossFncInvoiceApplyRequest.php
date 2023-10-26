@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.boss.fnc.invoice.apply request
  *
  * @author auto create
- * @since 1.0, 2021-10-11 11:26:00
+ * @since 1.0, 2023-09-11 16:12:25
  */
 class AlipayBossFncInvoiceApplyRequest
 {

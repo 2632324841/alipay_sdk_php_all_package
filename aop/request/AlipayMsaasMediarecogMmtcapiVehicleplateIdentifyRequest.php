@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.msaas.mediarecog.mmtcapi.vehicleplate.identify request
  *
  * @author auto create
- * @since 1.0, 2022-07-08 14:36:46
+ * @since 1.0, 2023-09-04 00:24:28
  */
 class AlipayMsaasMediarecogMmtcapiVehicleplateIdentifyRequest
 {

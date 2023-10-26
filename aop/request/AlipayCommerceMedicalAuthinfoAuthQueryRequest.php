@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.medical.authinfo.auth.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 12:31:35
+ * @since 1.0, 2023-09-04 02:16:43
  */
 class AlipayCommerceMedicalAuthinfoAuthQueryRequest
 {

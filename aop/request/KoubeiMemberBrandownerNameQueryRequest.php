@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.member.brandowner.name.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:32:28
+ * @since 1.0, 2023-08-23 20:36:41
  */
 class KoubeiMemberBrandownerNameQueryRequest
 {

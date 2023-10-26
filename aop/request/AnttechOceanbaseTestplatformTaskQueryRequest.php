@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: anttech.oceanbase.testplatform.task.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-13 19:51:41
+ * @since 1.0, 2023-09-11 16:49:00
  */
 class AnttechOceanbaseTestplatformTaskQueryRequest
 {

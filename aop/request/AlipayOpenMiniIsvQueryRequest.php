@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.isv.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-02 23:46:01
+ * @since 1.0, 2023-09-11 16:21:50
  */
 class AlipayOpenMiniIsvQueryRequest
 {

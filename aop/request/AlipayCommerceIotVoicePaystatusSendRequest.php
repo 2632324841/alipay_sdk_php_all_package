@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.iot.voice.paystatus.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:47:52
+ * @since 1.0, 2023-08-21 05:56:43
  */
 class AlipayCommerceIotVoicePaystatusSendRequest
 {

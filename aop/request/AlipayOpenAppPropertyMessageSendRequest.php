@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.app.property.message.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:39:22
+ * @since 1.0, 2023-08-20 17:16:47
  */
 class AlipayOpenAppPropertyMessageSendRequest
 {

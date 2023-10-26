@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.pass.template.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:02:24
+ * @since 1.0, 2023-08-21 02:53:19
  */
 class AlipayUserPassTemplateModifyRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.invoice.institution.scopepageinfo.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-18 23:41:35
+ * @since 1.0, 2023-09-11 16:51:45
  */
 class AlipayEbppInvoiceInstitutionScopepageinfoQueryRequest
 {

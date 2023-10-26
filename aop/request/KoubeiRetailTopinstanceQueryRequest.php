@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: koubei.retail.topinstance.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:10:18
+ * @since 1.0, 2023-08-21 02:40:55
  */
 class KoubeiRetailTopinstanceQueryRequest
 {

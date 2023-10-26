@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.dataservice.antdataassets.odpscolumn.query request
  *
  * @author auto create
- * @since 1.0, 2019-04-30 14:34:13
+ * @since 1.0, 2023-05-30 22:11:13
  */
 class AlipayDataDataserviceAntdataassetsOdpscolumnQueryRequest
 {

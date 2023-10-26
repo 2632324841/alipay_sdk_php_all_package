@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.data.aiservice.smartprice.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:39
+ * @since 1.0, 2023-09-04 00:49:31
  */
 class AlipayDataAiserviceSmartpriceGetRequest
 {

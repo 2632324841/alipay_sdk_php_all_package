@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.service.recommendbank.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 11:23:09
+ * @since 1.0, 2023-08-24 22:31:46
  */
 class AlipayTradeServiceRecommendbankQueryRequest
 {

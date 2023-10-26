@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.marketing.xuanyitest.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-11-16 14:35:36
+ * @since 1.0, 2023-09-11 19:51:50
  */
 class AlipayMarketingXuanyitestTransferRequest
 {

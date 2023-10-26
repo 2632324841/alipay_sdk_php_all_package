@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alios.open.auto.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-17 16:36:37
+ * @since 1.0, 2023-09-11 20:11:49
  */
 class AliosOpenAutoInfoQueryRequest
 {

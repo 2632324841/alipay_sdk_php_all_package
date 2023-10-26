@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.cityservice.industrymsg.auth.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-09-23 15:02:38
+ * @since 1.0, 2023-08-21 02:03:19
  */
 class AlipayEcoCityserviceIndustrymsgAuthBatchqueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.eco.printer.status.query request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:57:26
+ * @since 1.0, 2023-09-04 02:05:07
  */
 class AlipayEcoPrinterStatusQueryRequest
 {

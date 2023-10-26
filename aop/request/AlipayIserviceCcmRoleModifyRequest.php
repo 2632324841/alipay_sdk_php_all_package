@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.ccm.role.modify request
  *
  * @author auto create
- * @since 1.0, 2022-11-09 11:16:45
+ * @since 1.0, 2023-09-11 16:33:01
  */
 class AlipayIserviceCcmRoleModifyRequest
 {

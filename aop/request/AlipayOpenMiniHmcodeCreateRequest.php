@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.open.mini.hmcode.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-22 15:38:11
+ * @since 1.0, 2023-05-31 08:17:12
  */
 class AlipayOpenMiniHmcodeCreateRequest
 {

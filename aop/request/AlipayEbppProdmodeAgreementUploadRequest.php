@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.ebpp.prodmode.agreement.upload request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:01:28
+ * @since 1.0, 2023-08-21 02:23:57
  */
 class AlipayEbppProdmodeAgreementUploadRequest
 {

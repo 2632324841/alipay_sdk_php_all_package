@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.commerce.transport.ebike.bind.sync request
  *
  * @author auto create
- * @since 1.0, 2022-10-13 10:48:07
+ * @since 1.0, 2023-08-21 02:26:43
  */
 class AlipayCommerceTransportEbikeBindSyncRequest
 {

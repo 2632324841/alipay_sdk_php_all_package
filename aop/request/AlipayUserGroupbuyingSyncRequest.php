@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.groupbuying.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:59:05
+ * @since 1.0, 2023-09-04 00:08:58
  */
 class AlipayUserGroupbuyingSyncRequest
 {

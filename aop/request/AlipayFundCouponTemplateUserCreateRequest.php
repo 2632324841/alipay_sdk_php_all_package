@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.coupon.template.user.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-01 21:07:13
+ * @since 1.0, 2023-08-21 04:51:47
  */
 class AlipayFundCouponTemplateUserCreateRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.iservice.cognitive.bill.inference.query request
  *
  * @author auto create
- * @since 1.0, 2019-04-26 12:38:59
+ * @since 1.0, 2023-05-29 20:08:25
  */
 class AlipayIserviceCognitiveBillInferenceQueryRequest
 {

@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.trade.paygrowth.payability.query request
  *
  * @author auto create
- * @since 1.0, 2022-11-21 20:26:35
+ * @since 1.0, 2023-08-20 17:36:46
  */
 class AlipayTradePaygrowthPayabilityQueryRequest
 {

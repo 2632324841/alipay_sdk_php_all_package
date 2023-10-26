@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.fund.identitypay.member.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-10-14 01:36:57
+ * @since 1.0, 2023-09-20 13:53:38
  */
 class AlipayFundIdentitypayMemberUnsignRequest
 {

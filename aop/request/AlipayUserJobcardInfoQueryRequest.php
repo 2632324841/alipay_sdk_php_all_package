@@ -4,7 +4,7 @@ namespace aop\request;
  * ALIPAY API: alipay.user.jobcard.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-27 20:20:39
+ * @since 1.0, 2023-08-21 01:49:16
  */
 class AlipayUserJobcardInfoQueryRequest
 {
